@@ -2,7 +2,7 @@
 layout:     post
 title:      第一篇git blog
 subtitle:     "\"Hello World, Hello Blog\""
-date:       2023-10-14
+date:       2023-10-11
 author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
