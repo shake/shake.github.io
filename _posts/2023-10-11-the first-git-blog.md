@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      第一篇 git blog
+title:      first page git blog
 subtitle:     "\"Hello World, Hello Blog\""
 date:       2023-10-14
 author:     shake
