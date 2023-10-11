@@ -19,7 +19,7 @@ tags:
 ---
 ## 正文
 
-接下来说说搭建这个博客的技术细节。  
+接下来说说搭建这个博客的技术细节。 细节需要专门一篇文章来介绍一下。 
 
 正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 的技术方案，可以很彻底避免数据的丢失。
 
