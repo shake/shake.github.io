@@ -7,6 +7,7 @@ description: "用git来记录生活"
 keyword: "陈沙克, openstack, devops,  出国留学, 清迈, 泰国"
 url: "https://shake.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/shake/shake.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
