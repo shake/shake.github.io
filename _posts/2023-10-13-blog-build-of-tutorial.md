@@ -71,8 +71,9 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 参考修改，提交。这个时候，就应该可以通过 shake.github.io 进行访问。
 
 ---
+#自定义域名支持HTTPS
 
-# 设置DNS
+## 设置DNS
 
 首先我们需要知道 shake.github.io 地址，通过[chinaz ](https://ip.chinaz.com/)
 
@@ -88,7 +89,7 @@ cname 设置，www，指向 shake.github.io
 
 ---
 
-# 修改配置
+## 修改配置
 
 修改 repo 根目录下的文件 _config.yml,这次就是修改一下URL
 
@@ -113,13 +114,14 @@ cname 设置，www，指向 shake.github.io
 
 ---
 
-# 设置repo强制使用HTTPS
+## 设置repo强制使用HTTPS
 
 登录github，打开shake.github.io repo的 settings
 
 ![强制https](/img/https.jpg "domain name")
 
 这就基本完成了https访问的配置。不出意外，你这时候，就可以使用 https://www.chenshake.com 访问。
+
 
 
 
