@@ -25,6 +25,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 * [作者blog，同时也是Demo] (https://huangxuan.me)
 
 细看了作者自己的blog的功能，基本可以满足我的需求。那么就可以开始动手。
+---
 
 # 准备
 
@@ -35,6 +36,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 最好使用国外注册的域名，避免备案的各种麻烦。
 
+---
+
 # fork仓库
 
 访问 [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io) 
@@ -44,6 +47,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 ![修改reop名字](/img/repo-name.jpg "Repo name")
 
 这个时候，如果你直接访问 shake.github.io，其实你会看到404的错误。你还是需要针对新的域名，进行相关的配置。
+
+---
 
 # 修改配置
 
@@ -64,6 +69,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 参考修改，提交。这个时候，就应该可以通过 shake.github.io 进行访问。
 
+---
+
 # 设置DNS
 
 首先我们需要知道 shake.github.io 地址，通过[chinaz ](https://ip.chinaz.com/)
@@ -77,6 +84,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 cname 设置，www，指向 shake.github.io 
 
 我是使用namecheap，专门提供的视频设置DNS，实现Enforce HTTPS in GitHub Pages with Namecheap Domain。[视频地址](https://www.youtube.com/watch?v=FBtehan5DAo&ab_channel=WhatMakeArt)
+
+---
 
 # 修改配置
 
@@ -100,6 +109,8 @@ cname 设置，www，指向 shake.github.io
 	chenshake.com
 	
 很简单，把域名修改成自己的，就可以。
+
+---
 
 # 设置repo强制使用HTTPS
 
