@@ -64,5 +64,51 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 参考修改，提交。这个时候，就应该可以通过 shake.github.io 进行访问。
 
+# 设置DNS
+
+首先我们需要知道 shake.github.io 地址，通过[chinaz ](https://ip.chinaz.com/)
+
+你会发现解析多个IP地址，先记录下来。
+
+登录你的域名提供商，进行设置，这是一个视频截图，他的设置是正确的。
+
+![DNS设置](/img/domain-name.jpg "domain name")
+
+我是使用namecheap，专门提供的视频设置DNS，实现Enforce HTTPS in GitHub Pages with Namecheap Domain。[视频地址](https://www.youtube.com/watch?v=FBtehan5DAo&ab_channel=WhatMakeArt)
+
+# 修改配置
+
+修改 repo 根目录下的文件 _config.yml,这次就是修改一下URL
+
+
+	# Site settings
+	title: 陈沙克日志
+	SEOTitle: 陈沙克日志 | shake Blog
+	header-img: img/home-bg.jpg
+	email: shake.chen@gmail.com
+	description: "用git来记录生活"
+	keyword: "陈沙克, openstack, devops,  出国留学, 清迈, 泰国"
+	#url: "https://shake.github.io" # your host, for absolute URL
+	url: "https://www.chenshake.com" # your host, for absolute URL
+	baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+	github_repo: "https://github.com/shake/shake.github.io.git" # you code repository
+
+修改 repo 根目录下的文件 CNAME
+
+	chenshake.com
+	
+很简单，把域名修改成自己的，就可以。
+
+# 设置repo强制使用HTTPS
+
+登录github，打开shake.github.io repo的 settings
+
+![强制https](/img/domain-name.jpg "domain name")
+
+这就基本完成了https访问的配置。
+
+
+
+
 
 
