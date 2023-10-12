@@ -76,7 +76,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 ---
 
-## 设置DNS
+#### 设置DNS
 
 首先我们需要知道 shake.github.io 地址，通过[chinaz ](https://ip.chinaz.com/)
 
@@ -90,7 +90,7 @@ cname 设置，www，指向 shake.github.io
 
 我是使用namecheap，专门提供的视频设置DNS，实现Enforce HTTPS in GitHub Pages with Namecheap Domain。[视频地址](https://www.youtube.com/watch?v=FBtehan5DAo&ab_channel=WhatMakeArt)
 
-## 修改配置
+#### 修改配置
 
 修改 repo 根目录下的文件 _config.yml,这次就是修改一下URL
 
@@ -114,7 +114,7 @@ cname 设置，www，指向 shake.github.io
 很简单，把域名修改成自己的，就可以。
 
 
-## 设置repo强制使用HTTPS
+#### 设置repo强制使用HTTPS
 
 登录github，打开shake.github.io repo的 settings
 
