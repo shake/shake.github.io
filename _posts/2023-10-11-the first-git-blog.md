@@ -22,7 +22,7 @@ tags:
 以前写了很多文章，一下子就没了，其实是有点放不下，不过其实大部分文章，都是流水账，写的好，其实很多地方已经转载。正好利用这次的机会，做一次重大改变，解决数据丢失的问题。
 新blog的技术搭建过程，后续我再整理，
 
-正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 的技术方案，可以很彻底避免数据的丢失。
+正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 的技术方案，可以很彻底避免数据的丢失，同时让我真需要熟悉Markdown的语法。
 
 其优点非常明显：
 
