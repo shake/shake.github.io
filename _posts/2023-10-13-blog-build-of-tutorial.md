@@ -41,7 +41,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 对这个仓库的代码进行fork，同时把fork的仓库，改名为 shake.github.io
 
-![修改reop名字](img/repo-name.jpg "Repo name")
+![修改reop名字](/img/repo-name.jpg "Repo name")
+
 
 这个时候，如果你直接访问 shake.github.io，其实你会看到404的错误。你还是需要针对新的域名，进行相关的配置。
 
