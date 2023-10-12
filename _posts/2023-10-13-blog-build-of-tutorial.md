@@ -21,8 +21,8 @@ tags:
 
 Blog搭建的代码是由 Huxpro 开发和维护，
 * [作者github地址](https://github.com/huxpro) 
-* [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io)
-* [作者blog，同时也是Demo]（https://huangxuan.me）
+* [Blog代码仓库](https://github.com/Huxpro/huxpro.github.io)
+* [作者blog，同时也是Demo] (https://huangxuan.me)
 
 细看了作者自己的blog的功能，基本可以满足我的需求。那么就可以开始动手。
 
@@ -74,6 +74,8 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 ![DNS设置](/img/domain-name.jpg "domain name")
 
+cname 设置，www，指向 shake.github.io 
+
 我是使用namecheap，专门提供的视频设置DNS，实现Enforce HTTPS in GitHub Pages with Namecheap Domain。[视频地址](https://www.youtube.com/watch?v=FBtehan5DAo&ab_channel=WhatMakeArt)
 
 # 修改配置
@@ -103,7 +105,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 登录github，打开shake.github.io repo的 settings
 
-![强制https](/img/domain-name.jpg "domain name")
+![强制https](/img/https.jpg "domain name")
 
 这就基本完成了https访问的配置。
 
