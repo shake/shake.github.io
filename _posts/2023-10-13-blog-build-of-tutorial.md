@@ -20,9 +20,9 @@ tags:
 # 调研
 
 Blog搭建的代码是由 Huxpro 开发和维护，
-* [github地址](https://github.com/huxpro) 
+* [作者github地址](https://github.com/huxpro) 
 * [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io)
-* [Blogdemo] （huangxuan.me）
+* [作者blog，同时也是Demo]（https://huangxuan.me）
 
 细看了作者自己的blog的功能，基本可以满足我的需求。那么就可以开始动手。
 
@@ -37,26 +37,30 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 # fork仓库
 
-访问 [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io) 对这个仓库的代码进行fork，同时把fork的仓库，改名为 shake.github.io
+访问 [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io) 
+
+对这个仓库的代码进行fork，同时把fork的仓库，改名为 shake.github.io
 
 ![修改reop名字](img/repo-name.jpg "Repo name")
 
 这个时候，如果你直接访问 shake.github.io，其实你会看到404的错误。你还是需要针对新的域名，进行相关的配置。
 
+# 修改配置
+
 修改 repo 根目录下的文件 _config.yml
 
 ``
-# Site settings
-title: 陈沙克日志
-SEOTitle: 陈沙克日志 | shake Blog
-header-img: img/home-bg.jpg
-email: shake.chen@gmail.com
-description: "用git来记录生活"
-keyword: "陈沙克, openstack, devops,  出国留学, 清迈, 泰国"
-url: "https://shake.github.io" # your host, for absolute URL
-#url: "https://www.chenshake.com" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/shake/shake.github.io.git" # you code repository
+	# Site settings
+	title: 陈沙克日志
+	SEOTitle: 陈沙克日志 | shake Blog
+	header-img: img/home-bg.jpg
+	email: shake.chen@gmail.com
+	description: "用git来记录生活"
+	keyword: "陈沙克, openstack, devops,  出国留学, 清迈, 泰国"
+	url: "https://shake.github.io" # your host, for absolute URL
+	#url: "https://www.chenshake.com" # your host, for absolute URL
+	baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+	github_repo: "https://github.com/shake/shake.github.io.git" # you code repository
 ``
 参考修改，提交。这个时候，就应该可以通过 shake.github.io 进行访问。
 
