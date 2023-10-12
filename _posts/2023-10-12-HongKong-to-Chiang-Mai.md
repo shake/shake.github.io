@@ -7,8 +7,8 @@ author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-	- 生活
-	- 出国
+    - 生活
+    - 出国
 ---
 
 今年国庆假期，去了泰国一趟，这个和以前都是直飞清迈，这次是通关香港，飞去清迈，所以已记录一下，解决大家对出国的一些疑问。
