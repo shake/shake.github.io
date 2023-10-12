@@ -49,7 +49,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 修改 repo 根目录下的文件 _config.yml
 
-``
+
 	# Site settings
 	title: 陈沙克日志
 	SEOTitle: 陈沙克日志 | shake Blog
@@ -61,7 +61,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 	#url: "https://www.chenshake.com" # your host, for absolute URL
 	baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 	github_repo: "https://github.com/shake/shake.github.io.git" # you code repository
-``
+
 参考修改，提交。这个时候，就应该可以通过 shake.github.io 进行访问。
 
 
