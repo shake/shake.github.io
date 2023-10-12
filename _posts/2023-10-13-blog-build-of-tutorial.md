@@ -119,7 +119,7 @@ cname 设置，www，指向 shake.github.io
 
 ![强制https](/img/https.jpg "domain name")
 
-这就基本完成了https访问的配置。
+这就基本完成了https访问的配置。不出意外，你这时候，就可以使用 https://www.chenshake.com 访问。
 
 
 
