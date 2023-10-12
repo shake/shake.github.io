@@ -22,7 +22,7 @@ tags:
 Blog搭建的代码是由 Huxpro 开发和维护，
 * [作者github地址](https://github.com/huxpro) 
 * [Blog代码仓库](https://github.com/Huxpro/huxpro.github.io)
-* [作者blog，同时也是Demo] (https://huangxuan.me)
+* [作者blog，同时也是Demo](https://huangxuan.me)
 
 细看了作者自己的blog的功能，基本可以满足我的需求。那么就可以开始动手。
 ---
@@ -40,7 +40,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 # fork仓库
 
-访问 [Blog代码仓库] (https://github.com/Huxpro/huxpro.github.io) 
+访问 [Blog代码仓库](https://github.com/Huxpro/huxpro.github.io)
 
 对这个仓库的代码进行fork，同时把fork的仓库，改名为 shake.github.io
 
