@@ -124,7 +124,7 @@ cname 设置，www，指向 shake.github.io
 
 ---
 
-# GithHub Desktop管理Blog
+# GithHub Desktop
 
 这个工具确实非常不错，确实解决github维护blog的问题，完全可以在图形化界面上完成所有的操作。我是在windows机器安装，基本没太多麻烦。就是正常下载，安装，使用就可以。现在存储位置的地方，选择非系统盘就可以。
 
