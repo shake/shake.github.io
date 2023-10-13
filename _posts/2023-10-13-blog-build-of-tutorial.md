@@ -154,7 +154,8 @@ cname 设置，www，指向 shake.github.io
 
 #### 修改配置
 
-主要还是为了提升速度，减少加载的内容。把分析，评论都关闭，朋友链接。
+主要还是为了提升速度，减少加载的内容。把分析，评论都关闭，朋友链接，这次定制重点是Sidebar。
+
 [我的配置](https://github.com/shake/shake.github.io/blob/master/_config.yml)
 
 	# Sidebar settings
@@ -172,6 +173,11 @@ cname 设置，www，指向 shake.github.io
 [我的修改](https://github.com/shake/shake.github.io/tree/master/_includes/about)
 
 包括如果你对首页的foot底下有什么修改需求，都是可以通过这个includes的目录下相关文件进行修改。
+
+# 压缩图片
+
+其实是很有必要去对图片进行压缩，我是选择了在线压缩。
+[在线图片压缩jpeg-optimizer](https://jpeg-optimizer.com/)
 
 
 
