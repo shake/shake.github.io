@@ -45,7 +45,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 对这个仓库的代码进行fork，同时把fork的仓库，改名为 shake.github.io
 
-![修改reop名字](/img/repo-name.jpg "Repo name")
+![修改reop名字](/img/blog/repo-name.jpg "Repo name")
 
 这个时候，如果你直接访问 shake.github.io，其实你会看到404的错误。你还是需要针对新的域名，进行相关的配置。
 
@@ -84,7 +84,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 登录你的域名提供商，进行设置，这是一个视频截图，他的设置是正确的。
 
-![DNS设置](/img/domain-name.jpg "domain name")
+![DNS设置](/img/blog/domain-name.jpg "domain name")
 
 cname 设置，www，指向 shake.github.io 
 
@@ -118,7 +118,7 @@ cname 设置，www，指向 shake.github.io
 
 登录github，打开shake.github.io repo的 settings
 
-![强制https](/img/https.jpg "domain name")
+![强制https](/img/blog/https.jpg "domain name")
 
 这就基本完成了https访问的配置。不出意外，你这时候，就可以使用 https://www.chenshake.com 访问。
 
