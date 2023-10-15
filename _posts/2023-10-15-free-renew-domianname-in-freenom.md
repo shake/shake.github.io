@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      免费更新域名一年
+title:      免费更新Freenom域名一年
 subtitle:   Free is cool
 date:       2023-10-15
 author:     shake
