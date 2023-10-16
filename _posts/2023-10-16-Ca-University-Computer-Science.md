@@ -25,32 +25,15 @@ tags:
 整理大学，肯定离不开大学排名，我主要还是以专业排名为主，QS排名，US news作为一个参考。我采用3个梯队来对加拿大大学计算机专业的大学，进行分类，有利于申请学校做一个选择。
 
 ---
-## 中国大学204QS排名
+## 加拿大计算机专业大学排名
 
-| 学校名字 | 英文名字 | 排名 |
-| --- | --- | --- |
-| 北京大学 | Peking University | 17 |
-| 清华大学 | Tsinghua University | 25 |
-| 浙江大学 | Zhejiang University | 44 |
-| 复旦大学 | Fudan University | 50 |
-| 上海交通大学 | Shanghai Jiao Tong University | 51 |
-| 中国科学技术大学 | University of Science and Technology of China | 137 |
-| 南京大学 | Nanjing University | 141 |
-| 武汉大学 | Wuhan University | 194 |
-| 同济大学 | Tongji University | 216 |
-| 哈尔滨工业大学 | Harbin Institute of Technology | 256 |
-
-## 加拿大大学QS排名
-
-| 大学名字 | 英文名字 | 世界排名 |
-| --- | --- | --- |
-| 多伦多大学 | University of Toronto | 22 |
-| 麦吉尔大学 | McGill University | 30 |
-| 不列颠哥伦比亚大学 | University of British Columbia | 34 |
-| 阿尔伯塔大学 | University of Alberta | 111 |
-| 滑铁卢大学 | University of Waterloo | 112 |
-| 西安大略大学 | University of Western Ontario | 114 |
-| 蒙特利尔大学 | University of Montreal | 141 |
-| 卡尔加里大学 | University of Calgary | 182 |
-
-
+| 学校 | 英文 | 省份 | 计算机专业排名 | 全球QS排名 |
+|---|---|---|---|---|
+| 滑铁卢大学 | University of Waterloo | 安大略省 | 14 | 112 |
+| 多伦多大学 | University of Toronto | 安大略省 | 20 | 26 |
+| 麦吉尔大学 | McGill University | 魁北克省 | 21 | 31 |
+| 卡尔加里大学 | University of Calgary | 阿尔伯塔省 | 22 | 130 |
+| 英属哥伦比亚大学 | University of British Columbia | 英属哥伦比亚省 | 35 | 46 |
+| 阿尔伯塔大学 | University of Alberta | 阿尔伯塔省 | 36 | 101 |
+| 蒙特利尔大学 | Université de Montréal | 魁北克省 | 38 | 114 |
+| 西安大略大学 | Western University | 安大略省 | 40 | 122 |
