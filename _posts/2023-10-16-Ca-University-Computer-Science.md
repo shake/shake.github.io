@@ -27,13 +27,20 @@ tags:
 ---
 ## 加拿大计算机专业大学排名
 
-| 学校 | 英文 | 省份 | 计算机专业排名 | 全球QS排名 |
+ 中文 | 英文 | 省份 | 教学语言 | 排名 |
 |---|---|---|---|---|
-| 滑铁卢大学 | University of Waterloo | 安大略省 | 14 | 112 |
-| 多伦多大学 | University of Toronto | 安大略省 | 20 | 26 |
-| 麦吉尔大学 | McGill University | 魁北克省 | 21 | 31 |
-| 卡尔加里大学 | University of Calgary | 阿尔伯塔省 | 22 | 130 |
-| 英属哥伦比亚大学 | University of British Columbia | 英属哥伦比亚省 | 35 | 46 |
-| 阿尔伯塔大学 | University of Alberta | 阿尔伯塔省 | 36 | 101 |
-| 蒙特利尔大学 | Université de Montréal | 魁北克省 | 38 | 114 |
-| 西安大略大学 | Western University | 安大略省 | 40 | 122 |
+| 滑铁卢大学 | University of Waterloo | 安大略省 | 英语 | 1 |
+| 多伦多大学 | University of Toronto | 安大略省 | 英语 | 2 |
+| 麦吉尔大学 | McGill University | 魁北克省 | 英语、法语 | 3 |
+| 卡尔加里大学 | University of Calgary | 阿尔伯塔省 | 英语 | 4 |
+| 英属哥伦比亚大学 | University of British Columbia | 英属哥伦比亚省 | 英语 | 5 |
+| 阿尔伯塔大学 | University of Alberta | 阿尔伯塔省 | 英语 | 6 |
+| 蒙特利尔大学 | Université de Montréal | 魁北克省 | 法语 | 7 |
+| 西安大略大学 | Western University | 安大略省 | 英语 | 8 |
+| 西蒙弗雷泽大学 | Simon Fraser University | 不列颠哥伦比亚省 | 英语 | 9 |
+| 渥太华大学 | University of Ottawa | 安大略省 | 英语、法语 | 10 |
+| 维多利亚大学 | University of Victoria | 不列颠哥伦比亚省 | 英语 | 11 |
+| 达尔豪斯大学 | Dalhousie University | 新斯科舍省 | 英语 | 12 |
+| 布鲁克大学 | Brock University | 安大略省 | 英语 | 13 |
+| 曼尼托巴大学 | University of Manitoba | 曼尼托巴省 | 英语 | 14 |
+| 皇后大学 | Queen's University | 安大略省 | 英语 | 15 |
