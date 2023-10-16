@@ -12,11 +12,11 @@ tags:
 ---
 
 孩子现在读8年国际学校，我还是比较希望他自己可以做到在8年级，清楚的知道
-*自己知道自己要读什么专业
-*自己清楚知道自己要去哪里读书
-*未来自己希望过什么生活
-*想做什么样的动作
-*需要什么的技能
+* 自己知道自己要读什么专业
+* 自己清楚知道自己要去哪里读书
+* 未来自己希望过什么生活
+* 想做什么样的动作
+* 需要什么的技能
 
 孩子现在的兴趣和自己认为的强项，就是计算机编程。对自己的Python的能力盲目自信。所以作为老爸，按照国家来整理一下各国计算机专业的情况。目前理想的目标国家优先考虑：加拿大，澳洲，荷兰。
 
@@ -44,12 +44,6 @@ tags:
 | 西蒙菲莎大学 | Simon Fraser University | 不列颠哥伦比亚省本那比市 | 13 |
 | 约克大学 | York University | 安大略省多伦多市 | 14 |
 | 温哥华岛大学 | Vancouver Island University | 不列颠哥伦比亚省纳奈莫市 | 15 |
-| 瓦特洛大学 | Wilfrid Laurier University | 安大略省滑铁卢市 | 16 |
-| 滑铁卢劳里埃工程技术学院²  	| Conestoga College Institute of Technology and Advanced Learning - Waterloo Campus²  	| 安大略省滑铁卢市  	| - |
-| 布鲁克大学²  	| Brock University²  	| 安大略省圣凯瑟琳斯市  	| - |
-| 萨德伯里劳里埃工程技术学院²  	| Cambrian College - Sudbury Campus²  	| 安大略省萨德伯里市  	| - |
-| 圣弗朗西斯泽维尔大学²  	| St. Francis Xavier University²  	| 新斯科舍省安提戈尼什县安提戈尼什镇  	| - |
-
 
 
 
