@@ -13,7 +13,7 @@ tags:
 
 搞计算机这行的，真正牛的，专家的，基本都不是计算机专业的，都是搞物理，数学转行过来的。所以理论上你写好数学专业，干啥都没有问题。
 
-还是安装计算机专业的方式，使用加拿大本地（Maclean's）[麦考林的排名2021数学专业排名](https://www.schoolfinder.com/Discover/Article/1/5364/2021-Maclean-s-University-Rankings-Mathematics-Programs)
+还是按照计算机专业的方式，使用加拿大本地（Maclean's）[麦考林的排名2021数学专业排名](https://www.schoolfinder.com/Discover/Article/1/5364/2021-Maclean-s-University-Rankings-Mathematics-Programs)
 
 我其实在麦考林官网找到这篇文章，估计是因为网站改版，导致这篇文章无法访问，所以我就只能从外面找一篇转载的文章。这是2020年10月份发布的，最近3年没有更新。
 
