@@ -20,9 +20,7 @@ tags:
 
 孩子现在的兴趣和自己认为的强项，就是计算机编程。对自己的Python的能力盲目自信。所以作为老爸，按照国家来整理一下各国计算机专业的情况。先整理加拿大的情况。
 
-现在如果整理资料，那么通过chatgpt，已经是非常方便。这里结合各个方面的材料，整理一个最新的2023年版本。
-
-整理大学，肯定离不开大学排名，我主要还是以专业排名为主，专业的排名，我是直接使用加拿大本地[麦考林的排名](https://education.macleans.ca/feature/canadas-best-computer-science-programs-university-rankings-2024/) 同时提供该大学的全球2024QS排名，已经在QS的2024学科排名。
+整理大学，肯定离不开大学排名，我主要还是以专业排名为主，专业的排名，我是直接使用加拿大本地[麦考林的排名](https://education.macleans.ca/feature/canadas-best-computer-science-programs-university-rankings-2024/) 同时提供该大学的全球2024QS排名，和2024QS学科排名。
 
 本来打算借助chatgpt或者Bard来完成这个工作，发现AI现在的跨表查询能力基本没有。如果谁可以通过AI直接生成这个表格，麻烦share一些。
 
@@ -62,4 +60,4 @@ tags:
 * 中山大学：151名
 * 北京航空大学，201名
 * 吉林大学，251名
-* 电子科技大学，300名，（985，211）对标 Dalhousie University
+* 电子科技大学，300名，（985，211）对标 西安大略大学 Western University	 
