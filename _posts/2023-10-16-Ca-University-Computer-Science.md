@@ -47,7 +47,7 @@ tags:
 | 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
 | 维多利亚大学     | University of Victoria               | 哥伦比亚省 | 英语       | 16              | 322         | 251         |
 | 约克大学         | York University                      | 安大略省         | 英语       | 18              | 353         | 251         |
-| ~~拉瓦尔大学~~       | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
+| <font color='red'>~~拉瓦尔大学~~  </font>     | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
 | 曼尼托巴大学     | University of Manitoba               | 曼尼托巴省       | 英语       | 20              | 671         |             |
 
 
