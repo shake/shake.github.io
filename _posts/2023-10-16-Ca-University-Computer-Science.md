@@ -35,7 +35,7 @@ tags:
 | 麦吉尔大学       | McGill University                    | 魁北克省         | 英语，法语 | 4               | 30          | 34          |
 | 阿尔伯塔大学     | University of Alberta                | 阿尔伯塔省       | 英语       | 5               | 111         | 114         |
 | 西蒙弗雷泽大学   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
-| ~~蒙特利尔大学~~     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
+| <font color='red'>蒙特利尔大学</font>     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
 | 卡尔加里大学     | University of Calgary                | 阿尔伯塔省       | 英语       | 8               | 182         | 151         |
 | 西安大略大学     | Western University                   | 安大略省         | 英语       | 9               | 114         | 301         |
 | 女皇大学         | Queen’s University                   | 安大略省         | 英语       | 10              | 209         | 139         |
@@ -47,7 +47,7 @@ tags:
 | 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
 | 维多利亚大学     | University of Victoria               | 哥伦比亚省 | 英语       | 16              | 322         | 251         |
 | 约克大学         | York University                      | 安大略省         | 英语       | 18              | 353         | 251         |
-| <font color='red'>~~拉瓦尔大学~~  </font>     | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
+| <font color='red'>拉瓦尔大学  </font>     | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
 | 曼尼托巴大学     | University of Manitoba               | 曼尼托巴省       | 英语       | 20              | 671         |             |
 
 
