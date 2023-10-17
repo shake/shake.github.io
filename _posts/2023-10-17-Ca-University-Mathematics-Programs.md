@@ -111,6 +111,8 @@ tags:
 | 21   | <font color='red'>拉瓦尔大学  </font>              | University of Guelph            | 20*             |
 | 22   | 新不伦瑞克大学         | University of New Brunswick     | 20*             |
 
+
+去掉3所法语学校，其实就是19所大学英语教学数学专业排名，比计算机专业的英语教学的18所，就多了一所大学。
 * 新不伦瑞克大学 是计算机专业不在前20.
 
 
