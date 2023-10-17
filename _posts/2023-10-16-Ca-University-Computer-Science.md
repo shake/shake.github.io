@@ -24,42 +24,13 @@ tags:
 
 本来打算借助chatgpt或者Bard来完成这个工作，发现AI现在的跨表查询能力基本没有。如果谁可以通过AI直接生成这个表格，麻烦share一些。
 
----
-## 加拿大计算机专业大学2024排名
-
-麦考林（Maclean's）给出了20所计算机专业排名的大学。其中2所大学是法语授课。
-
-| 学校             | 英文                                 | 省份             | 教学   | 麦考林 | QS | QS学科 |
-|------------------|--------------------------------------|------------------|------------|-----------------|-------------|-------------|
-| 英属哥伦比亚大学 | University of British Columbia（UBC) | 哥伦比亚省   | 英语       | 1               | 34          | 21          |
-| 多伦多大学       | University of Toronto                | 安大略省         | 英语       | 1               | 21          | 12          |
-| 滑铁卢大学       | University of Waterloo               | 安大略省         | 英语       | 1               | 112         | 22          |
-| 麦吉尔大学       | McGill University                    | 魁北克省         | 英语，法语 | 4               | 30          | 34          |
-| 阿尔伯塔大学     | University of Alberta                | 阿尔伯塔省       | 英语       | 5               | 111         | 114         |
-| 西蒙弗雷泽大学   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
-| <font color='red'>蒙特利尔大学</font>     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
-| 卡尔加里大学     | University of Calgary                | 阿尔伯塔省       | 英语       | 8               | 182         | 151         |
-| 西安大略大学     | Western University                   | 安大略省         | 英语       | 9               | 114         | 301         |
-| 女皇大学         | Queen’s University                   | 安大略省         | 英语       | 10              | 209         | 139         |
-| 渥太华大学       | University of Ottawa                 | 安大略省         | 英语，法语 | 11              | 203         | 201         |
-| 卡尔顿大学       | Carleton University                  | 安大略省         | 英语       | 12              | 671         | 251         |
-| 康考迪亚大学     | Concordia University                 |  魁北克省        |   英语         | 13              | 387         | 251         |
-| 麦克马斯特大学   | McMaster University                  | 安大略省         | 英语       | 14              | 189         | 301         |
-| 达尔豪斯大学     | Dalhousie University                 | 新斯科舍省       | 英语       | 15              | 298         | 351         |
-| 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
-| 维多利亚大学     | University of Victoria               | 哥伦比亚省 | 英语       | 16              | 322         | 251         |
-| 约克大学         | York University                      | 安大略省         | 英语       | 18              | 353         | 251         |
-| <font color='red'>拉瓦尔大学  </font>     | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
-| 曼尼托巴大学     | University of Manitoba               | 曼尼托巴省       | 英语       | 20              | 671         |             |
-
-
 ## 加拿大大学声誉排行榜
 
 麦考林（Maclean's）的大学排名分成医博类、综合类、基础类。基于上面的数据，总结一共声誉的排行榜。我的理解就是在加拿大人的名校排行榜。
 
 [Canada's Best Universities by Reputation: Rankings 2023](https://education.macleans.ca/university-rankings/canadas-best-universities-by-reputation-rankings-2023/)
 
-一共列了49家学校，前25名的高校，有20家是上面的计算机大学，高度重叠。
+一共列了49家学校，前25名的高校，有20家的计算机专业排名前20，高度重叠。
 
 | 排名                  | 大学                   | 中文             |
 |-----------------------|------------------------|------------------|
@@ -112,6 +83,35 @@ tags:
 | 47                    | St.   Thomas           |                  |
 | 48                    | Nipissing              |                  |
 | 49                    | Laurentian             |                  |
+
+---
+## 加拿大计算机专业大学2024排名
+
+麦考林（Maclean's）给出了20所计算机专业排名的大学。其中2所大学是法语授课。
+
+| 学校             | 英文                                 | 省份             | 教学   | 麦考林 | QS | QS学科 |
+|------------------|--------------------------------------|------------------|------------|-----------------|-------------|-------------|
+| 英属哥伦比亚大学 | University of British Columbia（UBC) | 哥伦比亚省   | 英语       | 1               | 34          | 21          |
+| 多伦多大学       | University of Toronto                | 安大略省         | 英语       | 1               | 21          | 12          |
+| 滑铁卢大学       | University of Waterloo               | 安大略省         | 英语       | 1               | 112         | 22          |
+| 麦吉尔大学       | McGill University                    | 魁北克省         | 英语，法语 | 4               | 30          | 34          |
+| 阿尔伯塔大学     | University of Alberta                | 阿尔伯塔省       | 英语       | 5               | 111         | 114         |
+| 西蒙弗雷泽大学   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
+| <font color='red'>蒙特利尔大学</font>     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
+| 卡尔加里大学     | University of Calgary                | 阿尔伯塔省       | 英语       | 8               | 182         | 151         |
+| 西安大略大学     | Western University                   | 安大略省         | 英语       | 9               | 114         | 301         |
+| 女皇大学         | Queen’s University                   | 安大略省         | 英语       | 10              | 209         | 139         |
+| 渥太华大学       | University of Ottawa                 | 安大略省         | 英语，法语 | 11              | 203         | 201         |
+| 卡尔顿大学       | Carleton University                  | 安大略省         | 英语       | 12              | 671         | 251         |
+| 康考迪亚大学     | Concordia University                 |  魁北克省        |   英语         | 13              | 387         | 251         |
+| 麦克马斯特大学   | McMaster University                  | 安大略省         | 英语       | 14              | 189         | 301         |
+| 达尔豪斯大学     | Dalhousie University                 | 新斯科舍省       | 英语       | 15              | 298         | 351         |
+| 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
+| 维多利亚大学     | University of Victoria               | 哥伦比亚省 | 英语       | 16              | 322         | 251         |
+| 约克大学         | York University                      | 安大略省         | 英语       | 18              | 353         | 251         |
+| <font color='red'>拉瓦尔大学  </font>     | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
+| 曼尼托巴大学     | University of Manitoba               | 曼尼托巴省       | 英语       | 20              | 671         |             |
+
 
 
 ## 安省的高校
