@@ -43,7 +43,7 @@ tags:
 | 女皇大学         | Queen’s University                   | 安大略省         | 英语       | 10              | 209         | 139         |
 | 渥太华大学       | University of Ottawa                 | 安大略省         | 英语，法语 | 11              | 203         | 201         |
 | 卡尔顿大学       | Carleton University                  | 安大略省         | 英语       | 12              | 671         | 251         |
-| 康考迪亚大学     | Concordia University                 |                  |            | 13              | 387         | 251         |
+| 康考迪亚大学     | Concordia University                 |  魁北克省        |            | 13              | 387         | 251         |
 | 麦克马斯特大学   | McMaster University                  | 安大略省         | 英语       | 14              | 189         | 301         |
 | 达尔豪斯大学     | Dalhousie University                 | 新斯科舍省       | 英语       | 15              | 298         | 351         |
 | 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
