@@ -84,7 +84,7 @@ tags:
 ---
 ## 加拿大数学专业大学2021排名
 
-麦考林（Maclean's）给出了20所数学专业排名的大学。
+麦考林（Maclean's）排名，由于有3所大学，并列20名，所以一共是22所数学专业排名的大学。如果把法语学校拿掉，你基本可以理解和计算机专业的前20是基本一致的。
 
 | 序号 | 中文                   | School                          | Overall Ranking |
 |------|------------------------|---------------------------------|-----------------|
@@ -94,7 +94,7 @@ tags:
 | 4    | 麦吉尔大学             | McGill University               | 4               |
 | 5    | 阿尔伯塔大学	           | University of Alberta           | 5               |
 | 6    | 女皇大学               | Queen's University              | 6               |
-| 7    | 蒙特利尔大学	           | Université de Montréal          | 7               |
+| 7    | <font color='red'>蒙特利尔大学</font> 	           | Université de Montréal          | 7               |
 | 8    | 麦克马斯特大学         | McMaster University             | 8               |
 | 9    | 西蒙弗雷泽大学         | Simon Fraser University         | 9               |
 | 10   | 曼尼托巴大学           | University of Manitoba          | 10              |
@@ -102,14 +102,15 @@ tags:
 | 12   | 西安大略大学        | Western University              | 12              |
 | 13   | 维多利亚大学           | University of Victoria          | 13              |
 | 14   | 约克大学               | York University                 | 14              |
-| 15   | 魁北克大学蒙特利尔分校 | Université du Québec à Montréal | 15              |
+| 15   | <font color='red'>魁北克大学蒙特利尔分校</font>  | Université du Québec à Montréal | 15              |
 | 16   | 卡尔顿大学             | Carleton University             | 16*             |
 | 17   | 渥太华大学             | University of Ottawa            | 16*             |
 | 18   | 达尔豪斯大学           | Dalhousie University            | 18              |
 | 19   | 康考迪亚大学           | Concordia University            | 19              |
 | 20   | 拉瓦尔大学             | Université Laval                | 20*             |
-| 21   | 圭尔夫大学             | University of Guelph            | 20*             |
+| 21   | <font color='red'>拉瓦尔大学  </font>              | University of Guelph            | 20*             |
 | 22   | 新不伦瑞克大学         | University of New Brunswick     | 20*             |
 
+* 新不伦瑞克大学 是计算机专业不在前20.
 
 
