@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      加拿大大学数学专业整理和介绍
-subtitle:   Canadian University Mathematics Progras
+subtitle:   Canadian University Mathematics Programs
 date:       2023-10-17
 author:     shake
 header-img: img/post-bg-2015.jpg
