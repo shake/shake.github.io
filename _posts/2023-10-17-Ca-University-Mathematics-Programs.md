@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      加拿大大学数学专业整理和介绍
-subtitle:   Canadian University math
+subtitle:   Canadian University Mathematics Progras
 date:       2023-10-17
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -27,7 +27,7 @@ tags:
 
 [Canada's Best Universities by Reputation: Rankings 2023](https://education.macleans.ca/university-rankings/canadas-best-universities-by-reputation-rankings-2023/)
 
-一共列了49家学校，前25名的高校，有20家的计算机专业排名前20，高度重叠。
+一共列了49家学校，前30名的高校，数学和计算机专业，高度重叠。
 
 | 排名                  | 大学                   | 中文             |
 |-----------------------|------------------------|------------------|
