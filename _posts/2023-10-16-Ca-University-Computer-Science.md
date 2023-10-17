@@ -22,7 +22,7 @@ tags:
 
 现在如果整理资料，那么通过chatgpt，已经是非常方便。这里结合各个方面的材料，整理一个最新的2023年版本。
 
-整理大学，肯定离不开大学排名，我主要还是以专业排名为主，专业的排名，我是直接使用加拿大本地[麦考林的排名](https://education.macleans.ca/feature/canadas-best-computer-science-programs-university-rankings-2024/)
+整理大学，肯定离不开大学排名，我主要还是以专业排名为主，专业的排名，我是直接使用加拿大本地[麦考林的排名](https://education.macleans.ca/feature/canadas-best-computer-science-programs-university-rankings-2024/) 同时提供该大学的全球2024QS排名，已经在QS的2024学科排名。
 
 本来打算借助chatgpt或者Bard来完成这个工作，发现AI现在的跨表查询能力基本没有。如果谁可以通过AI直接生成这个表格，麻烦share一些。
 
