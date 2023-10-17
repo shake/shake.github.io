@@ -31,12 +31,12 @@ tags:
 
 | 学校             | 英文                                 | 省份             | 教学   | 麦考林排名 | QS排名 | QS学科 |
 |------------------|--------------------------------------|------------------|------------|-----------------|-------------|-------------|
-| 英属哥伦比亚大学 | University of British Columbia（UBC) | 英属哥伦比亚省   | 英语       | 1               | 34          | 21          |
+| 英属哥伦比亚大学 | University of British Columbia（UBC) | 哥伦比亚省   | 英语       | 1               | 34          | 21          |
 | 多伦多大学       | University of Toronto                | 安大略省         | 英语       | 1               | 21          | 12          |
 | 滑铁卢大学       | University of Waterloo               | 安大略省         | 英语       | 1               | 112         | 22          |
 | 麦吉尔大学       | McGill University                    | 魁北克省         | 英语，法语 | 4               | 30          | 34          |
 | 阿尔伯塔大学     | University of Alberta                | 阿尔伯塔省       | 英语       | 5               | 111         | 114         |
-| 西蒙弗雷泽大学   | Simon Fraser University              | 不列颠哥伦比亚省 | 英语       | 6               | 318         | 151         |
+| 西蒙弗雷泽大学   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
 | 蒙特利尔大学     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
 | 卡尔加里大学     | University of Calgary                | 阿尔伯塔省       | 英语       | 8               | 182         | 151         |
 | 西安大略大学     | Western University                   | 安大略省         | 英语       | 9               | 114         | 301         |
@@ -47,7 +47,7 @@ tags:
 | 麦克马斯特大学   | McMaster University                  | 安大略省         | 英语       | 14              | 189         | 301         |
 | 达尔豪斯大学     | Dalhousie University                 | 新斯科舍省       | 英语       | 15              | 298         | 351         |
 | 圭尔夫大学       | University of Guelph                 | 安大略省         | 英语       | 16              | 486         |             |
-| 维多利亚大学     | University of Victoria               | 不列颠哥伦比亚省 | 英语       | 16              | 322         | 251         |
+| 维多利亚大学     | University of Victoria               | 哥伦比亚省 | 英语       | 16              | 322         | 251         |
 | 约克大学         | York University                      | 安大略省         | 英语       | 18              | 353         | 251         |
 | 拉瓦尔大学       | Laval University                     | 魁北克省         | 法语       | 19              | 441         |             |
 | 曼尼托巴大学     | University of Manitoba               | 曼尼托巴省       | 英语       | 20              | 671         |             |
