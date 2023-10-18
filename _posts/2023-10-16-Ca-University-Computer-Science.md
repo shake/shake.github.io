@@ -50,11 +50,11 @@ tags:
 | Victoria             | University of Victoria          | 维多利亚大学             | 14   |
 | Ottawa               | University of Ottawa            | 渥太华大学               | 15   |
 | Concordia            | Concordia University            | 康考迪亚大学             | 16   |
-| Sherbrooke           | Université de Sherbrooke        | 舍布鲁克大学             | 17   |
+| <font color='red'>Sherbrooke</font>           | Université de Sherbrooke        | 舍布鲁克大学             | 17   |
 | Guelph               | University of Guelph            | 圭尔夫大学               | 18   |
 | York                 | York University                 | 约克大学                 | 19   |
-| Toronto Metropolitan | Toronto Metropolitan University | 多伦多城市大学           | 20   |
-| Saskatchewan         | Saskatchewan                    | 萨斯喀彻温大学           | 21   |
+| <font color='red'>Toronto Metropolitan</font>  | Toronto Metropolitan University | 多伦多城市大学           | 20   |
+| <font color='red'>Saskatchewan</font>         | Saskatchewan                    | 萨斯喀彻温大学           | 21   |
 | Manitoba             | Manitoba                        | 曼尼托巴大学             | 22   |
 | Carleton             | Carleton                        | 卡尔顿大学               | 23   |
 | Memorial             | Memorial                        | 纽芬兰纪念大学           | 24   |
