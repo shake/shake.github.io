@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      加拿大麦考林2024排名
-subtitle:   Canada’s Best Universities: Rankings 2024
-date:       2023-10-19
+subtitle:   Canada Best Universities: Rankings 2024
+date:       2023-10-18
 author:     shake
 header-img: img/post-bg-2015.jpg
-catalog: false
+catalog: true
 tags:
     - 留学
     - 儿子
