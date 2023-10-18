@@ -11,13 +11,20 @@ tags:
     - 儿子
 ---
 
-2024年10月11日《麦考林》发布了加拿大大学新的排名.
+2024年10月11日《麦考林》发布了加拿大大学新的排名.同时也发布热门专业：商科、计算机科学、教育、工程、护理的大学排名。
 
 * [医博类](https://education.macleans.ca/feature/canadas-best-medical-doctoral-universities-rankings-2024/)
 * [综合类](https://education.macleans.ca/feature/canadas-best-comprehensive-universities-rankings-2024/)
 * [基础类](https://education.macleans.ca/feature/canadas-best-primarily-undergraduate-universities-rankings-2024/)
 * [声誉排行](https://education.macleans.ca/feature/canadas-best-universities-by-reputation-rankings-2024/)
 
+下面是5个热门专业的大学排行榜。
+
+* [商科](https://education.macleans.ca/feature/canadas-best-business-programs-university-rankings-2024/)
+* [计算机科学](https://education.macleans.ca/feature/canadas-best-computer-science-programs-university-rankings-2024/)
+* [教育学](https://education.macleans.ca/feature/canadas-best-education-programs-university-rankings-2024/)
+* [工程](https://education.macleans.ca/feature/canadas-best-engineering-programs-university-rankings-2024/)
+* [护理](https://education.macleans.ca/feature/canadas-best-nursing-programs-university-rankings-2024/)
 
 
 ## 医博类
