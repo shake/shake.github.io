@@ -22,7 +22,7 @@ tags:
 
 ## 医博类
 
-其实可以看得出，加拿大的大学，都比较希望成为医博类的大学，这就需要在学校开医生专业。
+其实可以看得出，加拿大的大学，都比较希望成为医博类的大学，这就需要在学校开医学专业。一共15家大学。
 
 | 英文简称     | 英文全称                       | 中文               | 医博排名 |
 |--------------|--------------------------------|--------------------|----------|
@@ -45,6 +45,8 @@ tags:
 
 ## 综合类
 
+其实就是还缺少医学专业的综合大学，也是15所大学。
+
 | 英文简称               | 英文全称                              | 中文               | 综合类排名 |
 |------------------------|---------------------------------------|--------------------|------------|
 | Simon   Fraser         | Simon Fraser University               | 西蒙菲莎大学	     | 1          |
@@ -64,35 +66,11 @@ tags:
 | Windsor                | University of Windsor                 | 温莎大学           | 14         |
 
 
-## 基础类
-
-| 英文简称                  | 英文全称                                  | 中文                 | 基础排名 |
-|---------------------------|-------------------------------------------|----------------------|----------|
-|             Mount Allison | Mount Allison University                  | 艾蒙森山大学         | 1        |
-| UNBC                      | University of Northern British   Columbia | 北不列颠哥伦比亚大学 | 2        |
-| Saint Mary's              | Saint Mary's University                   | 圣玛丽大学           | 3        |
-| Bishop's                  | Bishop's University                       | 主教大学             | 4        |
-| Acadia                    | Acadia University                         | 阿卡迪亚大学         | 5        |
-| Lethbridge                | University of Lethbridge                  | 莱斯布里奇大学       | 6        |
-| Trent                     | Trent University                          | 特伦特大学           | 7        |
-| Ontario Tech              | Ontario Tech University                   | 安大略科技大学       | 8        |
-| St. Francis Xavier        | St. Francis Xavier University             | 圣方济各泽维尔大学   | 9        |
-| UPEI                      | University of Prince Edward   Island      | 爱德华王子岛大学     | 10       |
-| Lakehead                  | Lakehead University                       | 湖首大学             | 11       |
-| Moncton                   | Université de Moncton                     | 蒙克顿大学           | 12       |
-| St. Thomas                | St. Thomas University                     | 圣托马斯大学         | 12       |
-| Winnipeg                  | University of Winnipeg                    | 温尼伯大学           | 14       |
-| Laurentian                | Laurentian University                     | 拉瓦伦大学           | 15       |
-| Mount Saint Vincent       | Mount Saint Vincent University            | 圣文森特山大学       | 15       |
-| Brandon                   | Brandon University                        | 布兰登大学           | 17       |
-| Nipissing                 | Nipissing University                      | 尼皮辛大学           | 18       |
-| Algoma                    | Algoma University                         | 阿尔戈马大学         | 19       |
-| Cape Breton               | Cape Breton University                    | 开普布雷顿大学       | 20       |
 
 
 ## 基础类
 
-这个有人翻译成本科类别，这个后续研究一下，怎么翻译更加准确。
+这个有人翻译成本科类别，这个后续研究一下，怎么翻译更加准确。20家大学。
 
 | 英文简称              | 英文全称                                  | 中文                 | 基础排名 |
 |-----------------------|-------------------------------------------|----------------------|----------|
@@ -120,7 +98,8 @@ tags:
 
 ## 声誉排行
 
-我的理解就是加拿大人心目中最好的学校。
+我的理解就是加拿大人心目中最好的学校。一共是50所大学，基本就是上面3个榜单里的学校。
+
 
 | 英文简称             | 英文全称                        | 中文                     | 排名 |
 |----------------------|---------------------------------|--------------------------|------|
