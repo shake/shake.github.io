@@ -34,7 +34,7 @@ tags:
 | Alberta      | University of Alberta          | 阿尔伯塔大学       | 6        |
 | Calgary      | University of Calgary          | 卡尔加里大学       | 7        |
 | Dalhousie    | Dalhousie University           | 达尔豪西大学       | 7        |
-| Queen's      | Queen's University             | 皇后大学           | 9        |
+| Queen's      | Queen's University             | 女王大学           | 9        |
 | Montréal     | Université de Montréal         | 蒙特利尔大学       | 10       |
 | Laval        | Université Laval               | 拉瓦尔大学         | 11       |
 | Western      | Western University             | 西安大略大学       | 12       |
@@ -107,7 +107,7 @@ tags:
 | Waterloo               | University of Waterloo                          | 滑铁卢大学               | 3    |
 | McGill                 | McGill University                               | 麦吉尔大学               | 4    |
 | McMaster               | McMaster University                             | 麦克马斯特大学           | 5    |
-| Queen's                | Queen's University                              | 皇后大学                 | 6    |
+| Queen's                | Queen's University                              | 女王大学                 | 6    |
 | Alberta                | University of Alberta                           | 阿尔伯塔大学             | 7    |
 | Calgary                | University of Calgary                           | 卡尔加里大学             | 8    |
 | Montréal               | Université de Montréal                          | 蒙特利尔大学             | 9    |
