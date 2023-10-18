@@ -26,64 +26,64 @@ tags:
 
 ## 加拿大大学声誉排行榜
 
-麦考林（Maclean's）的大学排名分成医博类、综合类、基础类。基于上面的数据，总结一共声誉的排行榜。我的理解就是在加拿大人的名校排行榜。
+麦考林（Maclean's）的大学排名分成医博类、综合类、基础类。基于上面的数据，总结一个声誉的排行榜。我的理解就是在加拿大人的名校排行榜。
 
-[Canada's Best Universities by Reputation: Rankings 2023](https://education.macleans.ca/university-rankings/canadas-best-universities-by-reputation-rankings-2023/)
+[Canada's Best Universities by Reputation: Rankings 2024](https://education.macleans.ca/university-rankings/canadas-best-universities-by-reputation-rankings-2024/)
 
-一共列了49家学校，前25名的高校，有20家的计算机专业排名前20，高度重叠。
+一共列了50家学校，前25名的高校，有20家的计算机专业排名前20，高度重叠。
 
-| 排名                  | 大学                   | 中文             |
-|-----------------------|------------------------|------------------|
-|                     1 | Toronto                | 多伦多大学	       |
-| 2                     | Waterloo               | 滑铁卢大学       |
-| 3                     | UBC                    | 英属哥伦比亚大学 |
-| 4                     | McGill                 | 麦吉尔大学       |
-| 5                     | McMaster               | 麦克马斯特大学   |
-| 6                     | Queen's                | 女皇大学         |
-| 7                     | Alberta                | 阿尔伯塔大学	     |
-| 8                     | Montréal               | 蒙特利尔大学	     |
-| 9                     | Simon   Fraser         | 西蒙弗雷泽大学   |
-| 10                    | Victoria               | 维多利亚大学     |
-| 11                    | Calgary                | 卡尔加里大学	     |
-| 12                    | Guelph                 | 圭尔夫大学       |
-| 13                    | Western                | 西安大略大学     |
-| 14                    | Ottawa                 | 渥太华大学       |
-| 15                    | Dalhousie              | 达尔豪斯大学     |
-| 16                    | Laval                  | 拉瓦尔大学       |
-| 17                    | York                   | 约克大学         |
-| 18                    | Concordia              | 康考迪亚大学     |
-| 19                    | Toronto   Metropolitan |                  |
-| 20                    | Sherbrooke             |                  |
-| 21                    | Carleton               | 卡尔顿大学       |
-| 22                    | Saskatchewan           |                  |
-| 23                    | Wilfrid   Laurier      |                  |
-| 24                    | Memorial               |                  |
-| 25                    | Manitoba               | 曼尼托巴大学     |
-| 26                    | UQAM                   |                  |
-| 27                    | Brock                  |                  |
-| 28                    | Mount   Allison        |                  |
-| 29                    | New   Brunswick        |                  |
-| 30                    | Trent                  |                  |
-| 31                    | Ontario   Tech         |                  |
-| 32                    | UNBC                   |                  |
-| 33                    | Acadia                 |                  |
-| 34                    | St.   Francis Xavier   |                  |
-| 35                    | Winnipeg               |                  |
-| 36                    | Saint   Mary's         |                  |
-| 37                    | UPEI                   |                  |
-| 38                    | Lethbridge             |                  |
-| 39                    | Regina                 |                  |
-| 40                    | Moncton                |                  |
-| 41                    | Windsor                |                  |
-| 42                    | Bishop's               |                  |
-| 43                    | Lakehead               |                  |
-| 44                    | Brandon                |                  |
-| 45                    | Mount   Saint Vincent  |                  |
-| 46                    | Cape   Breton          |                  |
-| 47                    | St.   Thomas           |                  |
-| 48                    | Nipissing              |                  |
-| 49                    | Laurentian             |                  |
-
+| 英文简称             | 英文全称                        | 中文                     | 排名 |
+|----------------------|---------------------------------|--------------------------|------|
+| Toronto              | University of Toronto           | 多伦多大学               | 1    |
+| UBC                  | University of British Columbia  | 英属哥伦比亚大学         | 2    |
+| Waterloo             | University of Waterloo          | 滑铁卢大学               | 3    |
+| McGill               | McGill University               | 麦吉尔大学               | 4    |
+| McMaster             | McMaster University             | 麦克马斯特大学           | 5    |
+| Queen's              | Queen's University              | 皇后大学                 | 6    |
+| Alberta              | University of Alberta           | 阿尔伯塔大学             | 7    |
+| Calgary              | University of Calgary           | 卡尔加里大学             | 8    |
+| Montréal             | Université de Montréal          | 蒙特利尔大学             | 9    |
+| Western              | Western University              | 西安大略大学             | 10   |
+| Simon Fraser         | Simon Fraser University         | 西蒙菲莎大学             | 11   |
+| Dalhousie            | Dalhousie University            | 达尔豪斯大学             | 12   |
+| Laval                | Université Laval                | 拉瓦尔大学               | 13   |
+| Victoria             | University of Victoria          | 维多利亚大学             | 14   |
+| Ottawa               | University of Ottawa            | 渥太华大学               | 15   |
+| Concordia            | Concordia University            | 康考迪亚大学             | 16   |
+| Sherbrooke           | Université de Sherbrooke        | 舍布鲁克大学             | 17   |
+| Guelph               | University of Guelph            | 圭尔夫大学               | 18   |
+| York                 | York University                 | 约克大学                 | 19   |
+| Toronto Metropolitan | Toronto Metropolitan University | 多伦多城市大学           | 20   |
+| Saskatchewan         | Saskatchewan                    | 萨斯喀彻温大学           | 21   |
+| Manitoba             | Manitoba                        | 曼尼托巴大学             | 22   |
+| Carleton             | Carleton                        | 卡尔顿大学               | 23   |
+| Memorial             | Memorial                        | 纽芬兰纪念大学           | 24   |
+| UQAM                 | UQAM                            | 蒙特利尔大学蒙特利尔分校 | 25   |
+| Wilfrid Laurier      | Wilfrid Laurier                 | 威尔弗里德·劳雷尔大学    | 26   |
+| Mount Allison        | Mount Allison                   | 阿尔伯特王子山大学       | 27   |
+| New Brunswick        | New Brunswick                   | 新不伦瑞克大学           | 28   |
+| Ontario Tech         | Ontario Tech                    | 安大略理工大学           | 29   |
+| Brock                | Brock                           | 布鲁克大学               | 30   |
+| Saint Mary's         | Saint Mary's                    | 圣玛丽大学               | 31   |
+| Windsor              | Windsor                         | 温莎大学                 | 32   |
+| Regina               | Regina                          | 里贾纳大学               | 33   |
+| Lethbridge           | Lethbridge                      | 莱斯布里奇大学           | 34   |
+| Acadia               | Acadia                          | 阿卡迪亚大学             | 35   |
+| UNBC                 | UNBC                            | 北不列颠哥伦比亚大学     | 36   |
+| Trent                | Trent                           | 特伦特大学               | 36   |
+| St. Francis Xavier   | St. Francis Xavier              | 圣弗朗西斯泽维尔大学     | 38   |
+| Bishop's             | Bishop's                        | 主教大学                 | 39   |
+| UPEI                 | UPEI                            | 爱德华王子岛大学         | 40   |
+| Winnipeg             | University of Winnipeg          | 温尼伯大学               | 41   |
+| Moncton              | Université de Moncton           | 蒙克顿大学               | 42   |
+| Lakehead             | Lakehead University             | 湖首大学                 | 43   |
+| Mount Saint Vincent  | Mount Saint Vincent University  | 圣文森特山大学           | 44   |
+| St. Thomas           | University of St. Thomas        | 圣托马斯大学             | 45   |
+| Nipissing            | Nipissing University            | 尼皮辛大学               | 46   |
+| Cape Breton          | Cape Breton University          | 布里多尼岬大学           | 47   |
+| Laurentian           | Laurentian University           | 拉瓦伦大学               | 48   |
+| Brandon              | Brandon University              | 布兰顿大学               | 49   |
+| Algoma               | Algoma University               | 阿尔戈玛大学             | 50   |
 ---
 ## 加拿大计算机专业大学2024排名
 
