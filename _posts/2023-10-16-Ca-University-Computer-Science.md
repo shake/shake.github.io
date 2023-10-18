@@ -84,7 +84,9 @@ tags:
 | Laurentian           | Laurentian University           | 拉瓦伦大学               | 48   |
 | Brandon              | Brandon University              | 布兰顿大学               | 49   |
 | Algoma               | Algoma University               | 阿尔戈玛大学             | 50   |
+
 ---
+
 ## 加拿大计算机专业大学2024排名
 
 麦考林（Maclean's）给出了20所计算机专业排名的大学。其中2所大学是法语授课。
