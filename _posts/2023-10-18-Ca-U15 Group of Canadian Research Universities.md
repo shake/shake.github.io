@@ -23,19 +23,19 @@ tags:
 
 数据终于更新成功。
 
-| 大学 | 英文 | 2024QS排名 | 麦考林2024计算机专业排名 |
-|---|---|---|---|
-| 多伦多大学 | University of Toronto | 21 | 1 |
-| 不列颠哥伦比亚大学 | University of British Columbia | 34 | 2 |
-| 滑铁卢大学 | University of Waterloo | 112 | 3 |
-| 麦吉尔大学 | McGill University | 30 | 4 |
-| 阿尔伯塔大学 | University of Alberta | 111 | 5 |
-| 麦克马斯特大学 | McMaster University | 125 | 6 |
-| 西安大略大学 | Western University | 126 | 7 |
-| 渥太华大学 | University of Ottawa | 203 | 8 |
-| 蒙特利尔大学 | Université de Montréal | 141 | 9 |
-| 女王大学 | Queen's University | 151 | 10 |
-| 卡尔加里大学 | University of Calgary | 172 | 11 |
-| 达尔豪斯大学 | Dalhousie University | 206 | 15 |
-| 曼尼托巴大学 | University of Manitoba | 253 | 20 |
-| 萨斯喀彻温大学 | University of Saskatchewan | 254 | - |
+| 大学 | 英文 | 2024QS排名 | 麦考林2024计算机专业排名 | 省份 | 教学语言 |
+|---|---|---|---|---|---|
+| 多伦多大学 | University of Toronto | 21 | 1 | 安大略省 | 英语 |
+| 不列颠哥伦比亚大学 | University of British Columbia | 34 | 2 | 不列颠哥伦比亚省 | 英语 |
+| 滑铁卢大学 | University of Waterloo | 112 | 3 | 安大略省 | 英语 |
+| 麦吉尔大学 | McGill University | 30 | 4 | 魁北克省 | 英语、法语 |
+| 阿尔伯塔大学 | University of Alberta | 111 | 5 | 阿尔伯塔省 | 英语 |
+| 麦克马斯特大学 | McMaster University | 125 | 6 | 安大略省 | 英语 |
+| 西安大略大学 | Western University | 126 | 7 | 安大略省 | 英语 |
+| 渥太华大学 | University of Ottawa | 203 | 8 | 安大略省 | 英语、法语 |
+| 蒙特利尔大学 | Université de Montréal | 141 | 9 | 魁北克省 | 法语 |
+| 女王大学 | Queen's University | 151 | 10 | 安大略省 | 英语 |
+| 卡尔加里大学 | University of Calgary | 172 | 11 | 阿尔伯塔省 | 英语 |
+| 达尔豪斯大学 | Dalhousie University | 206 | 15 | 新斯科舍省 | 英语 |
+| 曼尼托巴大学 | University of Manitoba | 253 | 20 | 曼尼托巴省 | 英语 |
+| 萨斯喀彻温大学 | University of Saskatchewan | 254 | - | 萨斯喀彻温省 | 英语 |
