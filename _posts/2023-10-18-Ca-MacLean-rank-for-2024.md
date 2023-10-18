@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      加拿大麦考林2024排名
-subtitle:   Canada Best Universities: Rankings 2024
+subtitle:   Canada Best Universities Rankings 2024
 date:       2023-10-18
 author:     shake
 header-img: img/post-bg-2015.jpg
