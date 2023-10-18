@@ -98,7 +98,7 @@ tags:
 | 滑铁卢大学       | University of Waterloo               | 安大略省         | 英语       | 1               | 112         | 22          |
 | 麦吉尔大学       | McGill University                    | 魁北克省         | 英语，法语 | 4               | 30          | 34          |
 | 阿尔伯塔大学     | University of Alberta                | 阿尔伯塔省       | 英语       | 5               | 111         | 114         |
-| 西蒙弗雷泽大学   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
+| 西蒙菲莎大学	   | Simon Fraser University              | 哥伦比亚省 | 英语       | 6               | 318         | 151         |
 | <font color='red'>蒙特利尔大学</font>     | Université de Montréal               | 魁北克省         | 法语       | 7               | 141         | 47          |
 | 卡尔加里大学     | University of Calgary                | 阿尔伯塔省       | 英语       | 8               | 182         | 151         |
 | 西安大略大学     | Western University                   | 安大略省         | 英语       | 9               | 114         | 301         |
