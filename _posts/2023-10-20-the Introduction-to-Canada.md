@@ -14,7 +14,8 @@ tags:
 
 ![加拿大地图](/img/ca-university/ca-map.png "中文")
 
-加拿大的安大略省（简称安省）和英属哥伦比亚省（British Columbia，简称BC省）
+* 加拿大的安大略省（简称安省）多伦多在安省
+* 英属哥伦比亚省（British Columbia，简称BC省），温哥华在BC省。
 
 ## 10个省和人口
 
