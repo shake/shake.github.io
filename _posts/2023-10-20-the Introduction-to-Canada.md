@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      加拿大地图和省份介绍
+title:      加拿大整体介绍
 subtitle:   ten province and free territory
 date:       2023-10-20
 author:     shake
