@@ -24,7 +24,7 @@ tags:
 
 正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 的技术方案，可以很彻底避免数据的丢失，同时让我真需要熟悉Markdown的语法。还有一个重点，解决以前托管和虚拟机的成本。
 
-# 优点
+# H1
 其优点非常明显：
 
 * **Markdown** 带来的优雅写作体验
@@ -34,11 +34,16 @@ tags:
 * Jekyll 的自定制非常容易，基本就是个模版引擎
 
 ---
-## 后记
+## H2
 
-### test
+## H2-1
 
-### test1
+
+### H3
+
+### H3
+
+#### H4
 
 最后，感谢 Hux 提供的的 [Blog 主题](https://github.com/Huxpro/huxpro.github.io)
 
