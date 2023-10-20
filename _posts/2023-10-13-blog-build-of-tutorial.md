@@ -39,7 +39,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 ---
 
-# 安装
+# 安装过程
 
 ## fork仓库
 
@@ -126,7 +126,9 @@ cname 设置，www，指向 shake.github.io
 
 ---
 
-# GithHub Desktop
+# 清理过程
+
+## GithHub Desktop
 
 这个工具确实非常不错，确实解决github维护blog的问题，完全可以在图形化界面上完成所有的操作。我是在windows机器安装，基本没太多麻烦。就是正常下载，安装，使用就可以。现在存储位置的地方，选择非系统盘就可以。
 
@@ -144,17 +146,17 @@ cname 设置，www，指向 shake.github.io
 
 这个时候，Github Desktop就会发现有内容变化，你就只需要 commit，push，就可以了。
 
-## 定制Blog
+# 定制过程
 
-### 修改网站的 icon 
+## 修改网站的 icon 
 
 在博客 img 目录下找到并替换 favicon.ico 这个图标即可，图标尺寸为32x32。我是使用我的照片，通过[wizlogo](https://wizlogo.com/favicon-generator) 转换，直接放到img目录下就可以了。
 
-### 修改主页的座右铭
+## 修改主页的座右铭
 
 直接在根目录下找到index.html,修改就可以。你完全可以在windows资源管理器下搜索就可以找到修改的文件的位置。记得修改**搜索选项**，选择**文件内容**和**所有子文件夹**。
 
-### 修改配置
+## 修改配置
 
 主要还是为了提升速度，减少加载的内容。把分析，评论都关闭，朋友链接，这次定制重点是Sidebar。
 
@@ -168,7 +170,7 @@ cname 设置，www，指向 shake.github.io
 	
 记得把你的照片也放到img目录下。
 
-### 修改About
+## 修改About
 
 这个地方同时支持中文和英文，考虑很周到。就是修改两个文件。
 
@@ -176,7 +178,7 @@ cname 设置，www，指向 shake.github.io
 
 包括如果你对首页的foot底下有什么修改需求，都是可以通过这个includes的目录下相关文件进行修改。
 
-### 压缩图片
+## 压缩图片
 
 其实是很有必要去对图片进行压缩，我是选择了在线压缩。
 [在线图片压缩jpeg-optimizer](https://jpeg-optimizer.com/)
