@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      澳大利亚大学计算机专业整理和介绍
-subtitle:   Australia University Computer Science
+title:      澳洲G8和加拿大U15对比
+subtitle:   Australia PK CA University 
 date:       2023-10-23
 author:     shake
 header-img: img/post-bg-2015.jpg
