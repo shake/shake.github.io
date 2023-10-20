@@ -76,7 +76,7 @@ Blog搭建的代码是由 Huxpro 开发和维护，
 
 ---
 
-#### 设置DNS
+## 设置DNS
 
 首先我们需要知道 shake.github.io 地址，通过[chinaz ](https://ip.chinaz.com/)
 
@@ -90,7 +90,7 @@ cname 设置，www，指向 shake.github.io
 
 我是使用namecheap，专门提供的视频设置DNS，实现Enforce HTTPS in GitHub Pages with Namecheap Domain。[视频地址](https://www.youtube.com/watch?v=FBtehan5DAo&ab_channel=WhatMakeArt)
 
-#### 修改配置
+## 修改配置
 
 修改 repo 根目录下的文件 _config.yml,这次就是修改一下URL
 
@@ -114,7 +114,7 @@ cname 设置，www，指向 shake.github.io
 很简单，把域名修改成自己的，就可以。
 
 
-#### 设置repo强制使用HTTPS
+## 设置repo强制使用HTTPS
 
 登录github，打开shake.github.io repo的 settings
 
@@ -132,7 +132,7 @@ cname 设置，www，指向 shake.github.io
 
 ---
 
-# 清理
+## 清理
 
 我是直接把两个目录：
 * img
@@ -144,15 +144,15 @@ cname 设置，www，指向 shake.github.io
 
 # 定制Blog
 
-#### 修改网站的 icon 
+## 修改网站的 icon 
 
 在博客 img 目录下找到并替换 favicon.ico 这个图标即可，图标尺寸为32x32。我是使用我的照片，通过[wizlogo](https://wizlogo.com/favicon-generator) 转换，直接放到img目录下就可以了。
 
-#### 修改主页的座右铭
+## 修改主页的座右铭
 
 直接在根目录下找到index.html,修改就可以。你完全可以在windows资源管理器下搜索就可以找到修改的文件的位置。记得修改**搜索选项**，选择**文件内容**和**所有子文件夹**。
 
-#### 修改配置
+## 修改配置
 
 主要还是为了提升速度，减少加载的内容。把分析，评论都关闭，朋友链接，这次定制重点是Sidebar。
 
@@ -166,7 +166,7 @@ cname 设置，www，指向 shake.github.io
 	
 记得把你的照片也放到img目录下。
 
-#### 修改About
+## 修改About
 
 这个地方同时支持中文和英文，考虑很周到。就是修改两个文件。
 
