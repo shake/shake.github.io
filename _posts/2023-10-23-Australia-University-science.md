@@ -20,9 +20,9 @@ tags:
 | QS排名 | 中文 | 英文 | 计算机 | 数学 |
 |---|---|---|---|---|
 | 14 | 墨尔本大学 | University of Melbourne | 47 | 51 |
-| 34 | 澳大利亚国立大学 | Australian National University | 34 | 31 |
 | 19 | 悉尼大学 | University of Sydney | 20 | 23 |
 | 19 | 新南威尔士大学 | University of New South Wales | 19 | 21 |
+| 34 | 澳大利亚国立大学 | Australian National University | 34 | 31 |
 | 50 | 昆士兰大学 | University of Queensland | 24 | 29 |
 | 57 | 莫纳什大学 | Monash University | 32 | 42 |
 | 72 | 西澳大学 | University of Western Australia | 39 | 45 |
