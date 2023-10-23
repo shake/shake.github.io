@@ -13,18 +13,17 @@ tags:
 
 # 澳洲G8
 
-澳大利亚八校联盟（Group of Eight，简称Go8或G8），先了解一下。
+澳大利亚八校联盟（Group of Eight，简称Go8或G8），专业QS排名是2023年。
 
-这次直接使用Bard来生成表格。目前Bard的排序，必须用第一列。
-
-| QS排名 | 中文 | 英文 | 计算机 | 数学 |
-|---|---|---|---|---|
-| 14 | 墨尔本大学 | University of Melbourne | 47 | 51 |
-| 19 | 悉尼大学 | University of Sydney | 20 | 23 |
-| 19 | 新南威尔士大学 | University of New South Wales | 19 | 21 |
-| 34 | 澳大利亚国立大学 | Australian National University | 34 | 31 |
-| 50 | 昆士兰大学 | University of Queensland | 24 | 29 |
-| 57 | 莫纳什大学 | Monash University | 32 | 42 |
-| 72 | 西澳大学 | University of Western Australia | 39 | 45 |
-| 89 | 阿德莱德大学 | University of Adelaide | 52 | 57 |
+| 大学中文名称     | 大学英文名称                        | 2024QS排名 | 计算机专业排名 | 数学专业排名 |
+|------------------|-------------------------------------|------------|----------------|--------------|
+| 墨尔本大学       | The University of Melbourne         | 14         | 41             | 43           |
+| 悉尼大学         | The University of Sydney            | 19         | 57             | 70           |
+| 新南威尔士大学   | The University of New South Wales   | 19         | 57             | 48           |
+| 澳大利亚国立大学 | The Australian National University  | 34         | 56             | 48           |
+| 莫纳什大学       | Monash University                   | 42         | 73             | 86           |
+| 昆士兰大学       | The University of Queensland        | 43         | 122            | 140          |
+| 西澳大利亚大学   | The University of Western Australia | 72         | 251            | 151          |
+| 阿德雷德大学     | The University of Adelaide          | 89         | 113            | 151          |
+| 悉尼科技大学     | University of Technology Sydney     | 90         | 73             | 201          |
 
