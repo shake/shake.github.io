@@ -11,7 +11,7 @@ tags:
 ---
 # AMC介绍
 
-AMC的官方网站是：[American Mathematics Competitions] (https://amc.maa.org/)
+AMC的官方网站是：[American Mathematics Competitions](https://amc.maa.org/)
 
 儿子的学校已经组织希望参加竞赛的学生去报名AMC数学竞赛，泰国清迈有专门的考点，考虑让孩子9年级参加U10，我也好好了解以下这个比赛的情况。
 
