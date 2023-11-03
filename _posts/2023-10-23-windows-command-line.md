@@ -15,4 +15,10 @@ windows很多命令，还是比较实用，这里就总结一下。
 
 `wmic bios get serialnumber `
 
+# 查看windows 11版本
+
+win+R
+
+`winver `
+
 
