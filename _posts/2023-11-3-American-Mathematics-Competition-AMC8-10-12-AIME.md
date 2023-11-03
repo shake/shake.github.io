@@ -9,6 +9,9 @@ catalog: true
 tags:
     - 儿子
 ---
+
+儿子的学校已经组织希望参加竞赛的学生去报名AMC数学竞赛，泰国清迈有专门的考点，个人也是可以报名，去考点考试就可以。考虑让孩子9年级参加U10，我也好好了解以下这个比赛的情况。
+
 # AMC介绍
 
 AMC的官方网站是：[American Mathematics Competitions](https://amc.maa.org/)
