@@ -40,6 +40,9 @@ AIME主要是面向在AMC10/12中取得优异成绩的学生，是美国数学�
 
 # AIME晋级
 
+AIME，American Invitational Mathematics Exam，从名字可以看出，AIME竞赛是邀请制，不是报名制。
+所以你可以凭借AMC10优秀的成绩，进入AIME竞赛，也可以通过AMC12的优秀成绩，进入AIME竞赛。
+
 AMC10/12的晋级标准如下：
 
 * AMC10：在AMC10中取得100分及以上的学生可以晋级参加AIME。
@@ -49,8 +52,7 @@ AMC10/12的晋级标准如下：
 * 在AMC10中取得前2.5%的学生可以晋级参加AIME，
 * 在AMC12中取得前5%的学生可以晋级参加AIME。
 
-AIME，American Invitational Mathematics Exam，从名字可以看出，AIME竞赛是邀请制，不是报名制。
-所以你可以凭借AMC10优秀的成绩，进入AIME竞赛，也可以通过AMC12的优秀成绩，进入AIME竞赛。
+
 
 # AMC8/AMC10/12知识点
 
