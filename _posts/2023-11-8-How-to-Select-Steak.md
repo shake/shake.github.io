@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      牛排分类
-subtitle:     Steak classification
+title:      如何选择牛排
+subtitle:   How to Select Steak
 date:       2023-11-8
 author:     shake
 header-img: img/post-bg-2015.jpg
