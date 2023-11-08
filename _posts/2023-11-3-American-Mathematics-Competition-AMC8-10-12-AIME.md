@@ -26,7 +26,7 @@ AMC系列活动主要包括
 * 美国数学邀请赛(AIME）、
 * 美国数学奥林匹克(USAJMO/USAMO)
 
-![AMC](img/amc/amc.jpg "AMC")
+![AMC](/img/amc/amc.jpg "AMC")
 
 
 # 参赛要求
