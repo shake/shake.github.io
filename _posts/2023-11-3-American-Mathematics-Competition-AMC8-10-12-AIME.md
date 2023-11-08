@@ -26,6 +26,9 @@ AMC系列活动主要包括
 * 美国数学邀请赛(AIME）、
 * 美国数学奥林匹克(USAJMO/USAMO)
 
+![AMC](img/amc/amc.jpg "AMC")
+
+
 # 参赛要求
 
 AIME主要是面向在AMC10/12中取得优异成绩的学生，是美国数学奥赛USA(J)MO和美国数学奥赛国家队的选拔赛。
