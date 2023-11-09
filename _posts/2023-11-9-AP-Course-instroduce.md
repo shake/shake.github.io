@@ -14,7 +14,7 @@ tags:
 ---
 
 
-# AP课程简介
+# AP简介
 
 AP课程，AP stands for Advanced Placement,是美国大学理事会（The College Board）在高中阶段开设的具有大学水平的课程，主要适合计划在美国就读本科的高中生学习。AP课程的难度相当于大学一年级的课程，通过AP考试可以获得大学学分。同时也可以提高你在高中的GPA成绩。
 
@@ -24,7 +24,7 @@ AP课程，AP stands for Advanced Placement,是美国大学理事会（The Colle
 
  [维基百科](https://en.wikipedia.org/wiki/Advanced_Placement#Courses)
 
-| 类别              | 数量 |
+| 类别              | 课程数量 |
 |-------------------|------|
 | 艺术              | 5    |
 | 英语              | 2    |
@@ -102,3 +102,13 @@ AP课程，AP stands for Advanced Placement,是美国大学理事会（The Colle
 * **顶石文凭项目类**（Capstone Diploma Project）：
     * AP Capstone Seminar（AP顶石研讨会）
     * AP Capstone Research（AP顶石研究）
+
+# 成绩分析
+
+这是2022年的数据，参加考试的人数和超过3分的统计。
+
+ [维基百科](https://en.wikipedia.org/wiki/Advanced_Placement#Recent_exam_information)
+ 
+我重点关注的科目的数据
+
+![2022 Performance analysis](/img/ap-course/performance.jpg "2022 Performance analysis")
