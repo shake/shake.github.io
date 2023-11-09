@@ -19,7 +19,12 @@ AP课程，AP stands for Advanced Placement,是美国大学理事会（The Colle
 
 孩子如果选择美制高中学制，那么你不参加AP课程，你肯定也是可以正常高中毕业，AP课程是提供给高中学有余力的学生学习，并不是高中毕业的必修课。
 
-英制的A-level，IB制，加拿大安省的OSSD（Ontario Secondary School Diploma）高中课程，为了提升学生自己的竞争力，也开始考AP课程。
+AP课程，并不是美制高中的专利，其实可以嫁接到任何的高中课程上，例如
+* 英制的A-level，
+* IB制，IB-DP（International Baccalaureate Diploma Programme）
+* 加拿大安省的OSSD（Ontario Secondary School Diploma）高中课程
+
+为了提升学生自己的竞争力，也开始考AP课程。
 
 # NIS
 
