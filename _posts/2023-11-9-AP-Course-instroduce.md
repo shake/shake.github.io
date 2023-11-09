@@ -23,6 +23,7 @@ AP课程，并不是美制高中的专利，其实可以嫁接到任何的高中
 * 英制的A-level，
 * IB制，IB-DP（International Baccalaureate Diploma Programme）
 * 加拿大安省的OSSD（Ontario Secondary School Diploma）高中课程
+* 中国高中课程和高考
 
 为了提升学生自己的竞争力，也开始考AP课程。
 
