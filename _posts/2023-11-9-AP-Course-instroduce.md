@@ -35,6 +35,7 @@ AP课程，AP stands for Advanced Placement,是美国大学理事会（The Colle
 * **艺术类**（Art）：
     * AP Art History（艺术史）
     * AP Music Theory（音乐理论）
+	
 * **英语类**（English）：
     * AP English Language and Composition（英语语言与写作）
     * AP English Literature and Composition（英语文学与写作）
