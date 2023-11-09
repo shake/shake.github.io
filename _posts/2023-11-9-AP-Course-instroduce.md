@@ -13,10 +13,6 @@ tags:
 
 ---
 
-孩子的学校有AP课程的学习，数学时间进度安排和建议。
-
-![Path](/img/ap-course/path1.jpg "Mathematics")
-
 # AP简介
 
 AP课程，AP stands for Advanced Placement,是美国大学理事会（The College Board）在高中阶段开设的具有大学水平的课程，主要适合计划在美国就读本科的高中生学习。AP课程的难度相当于大学一年级的课程，通过AP考试可以获得大学学分。同时也可以提高你在高中的GPA成绩。
