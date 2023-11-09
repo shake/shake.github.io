@@ -13,6 +13,9 @@ tags:
 
 ---
 
+孩子的学校有AP课程的学习，包括时间安排。这里我整理一下。
+
+![Path](/img/ap-course/path1.jpg "Mathematics")
 
 # AP简介
 
