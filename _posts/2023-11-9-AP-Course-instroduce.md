@@ -8,8 +8,9 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 儿子
-	- 教育
-	- 留学
+    - 教育
+    - 留学
+
 ---
 
 
