@@ -20,20 +20,23 @@ AP课程，AP stands for Advanced Placement,是美国大学理事会（The Colle
 孩子如果选择美制高中学制，那么你不参加AP课程，你肯定也是可以正常高中毕业，AP课程是提供给高中学有余力的学生学习，并不是高中毕业的必修课。
 
 AP课程，并不是美制高中的专利，其实可以嫁接到任何的高中课程上，例如
-* 英制的A-level，
-* IB制，IB-DP（International Baccalaureate Diploma Programme）
-* 加拿大安省的OSSD（Ontario Secondary School Diploma）高中课程
+* 英制的A-level （General Certificate of Education Advanced Level ）
+* IB高中文凭课程 IBDP（International Baccalaureate Diploma Programme）
+* 加拿大安省的OSSD（Ontario Secondary School Diploma）高中文凭课程
 * 中国高中课程和高考
 
-为了提升学生自己的竞争力，也开始考AP课程。
+为了提升学生自己的大学申请的竞争力，也开始考AP课程。很多高校也需要各种标化考试成绩来对学生能力进行横向对比。
 
-# NIS
+上面的高中课程，有一个地方差异很大，加拿大安省的OSSD这个高中课程是没有统考的。美制高中，也是没有统考，都是通过类似GPA，把日常上课的科目考试进行打分。
+英制的A-level，IB高中文凭课程 IBDP，是有统考，分2次来进行统考，中国的高考是一次统考。
+
+# NIS （Nakornpayap International School）
 
 孩子的学校有AP课程的学习，数学时间进度安排和建议。
 
 ![Path](/img/ap-course/path1.jpg "Mathematics")
 
-NIS学校提供17门AP课程，AP考试必须通过学校报名，你可以自学，再通过学校进行报名。
+NIS提供17门AP课程，AP考试必须通过学校报名，你可以自学，再通过学校进行报名。
 
 * **艺术类**（Art）：
 	* AP Drawing
