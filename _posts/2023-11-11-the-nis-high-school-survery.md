@@ -46,7 +46,7 @@ Unity，由于成立时间比较晚，2022年才第一批高中毕业生，整�
 
 美国高中课程分为必修课、AP课程和选修课三部分。必修课是所有学生都必须完成的课程，旨在为学生提供基础知识和技能，为大学学习做好准备。
 
-一般来说，学生需要在高中期间修满22-24个学分才能毕业。对学分统计和要求，不同学校不一样。对于NIS来说，Total Credits Required for Graduation:56学分。
+每所学校对学生高中要取得的学分的要求是不同的，学分的计算也是不同。对于NIS来说，Total Credits Required for Graduation:56学分。
 
 ## 必修课
 
@@ -76,11 +76,11 @@ Unity，由于成立时间比较晚，2022年才第一批高中毕业生，整�
 
 AP（Advanced Placement）课程也属于选修课程，不同的地方在于学生通过AP考试可以获得大学学分。AP课程可以帮助学生提前接触大学课程，提高大学学习的准备度，并在大学申请中获得竞争优势。想全面了解AP课程的内容体系，可以参考：AP课程介绍  [AP课程介绍](https://chenshake.com/2023/11/09/AP-Course-instroduce/)
 
+# NIS高中
+
 ## 毕业证
 
 ![NIS高中毕业证](/img/2023/nis/High-school-diploma.jpg "NIS High-school-diploma")
-
-# NIS高中
 
 ## NIS高中毕业要求
 
