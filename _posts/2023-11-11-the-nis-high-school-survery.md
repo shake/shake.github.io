@@ -80,6 +80,17 @@ AP（Advanced Placement）课程也属于选修课程，不同的地方在于学
 
 ![NIS高中毕业证](/img/2023/nis/High-school-diploma.jpg "NIS High-school-diploma")
 
+# NIS要求
+
+![NIS高中毕业学分要求](/img/2023/nis/require.jpg "NIS require")
+
+# 年级课程进度
+
+![NIS高中学习进度安排](/img/2023/nis/step.jpg "NIS step arrangement")
+
+
+
+
 
 # 毕业生
 
