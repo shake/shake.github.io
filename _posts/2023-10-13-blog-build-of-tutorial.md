@@ -183,6 +183,9 @@ cname 设置，www，指向 shake.github.io
 其实是很有必要去对图片进行压缩，我是选择了在线压缩。
 [在线图片压缩jpeg-optimizer](https://jpeg-optimizer.com/)
 
+不过我现在改成用windows 11的内置图片编辑软件就搞定。更加简单。有专门设置图片大小的选项。双击打开图片，就可以进行设置。
+
+![修改图片大小](/img/blog/resize.jpg "resize pic")
 
 
 
