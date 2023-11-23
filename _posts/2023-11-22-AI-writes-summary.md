@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Bard使用本地pdf写总结
+title:      AI写总结
 subtitle:   AI writes summary use local file
 date:       2023-11-22
 author:     shake
@@ -16,7 +16,7 @@ tags:
 
 很简单，不需要上传文件到google网盘，可以直接读取本地文件。
 
-![ChatGPT](/img/2023/ai/bard.png "chatgpt")
+![bard](/img/2023/AI/bard.png "chatgpt")
 
 `你能帮我总结pdf file:///d:/在不确定的世界里提高成功概率.pdf`.
 
@@ -46,11 +46,11 @@ tags:
 
 Claude，可以直接上传PDF，实现分析。
 
-![Claude](/img/2023/ai/Claude.png "Claude")
+![Claude](/img/2023/AI/Claude.png "Claude")
 
 
 # ChatGPT
 
 ChatGPT4，也是可以直接上传GPT
 
-![ChatGPT4](/img/2023/ai/ChatGPT.png "ChatGPT4")
+![ChatGPT4](/img/2023/AI/chatgpt.png "ChatGPT4")
