@@ -7,7 +7,7 @@ author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 技术
+    - AI
 ---
 
 一直以来都是听说AI可以对书籍，文档写总结，不过这个功能，确实没玩过。刚好今天群里有朋友上传了一个PDF，在不确定的世界里提高成功概率.pdf，读起来比较费劲。那么就借助一下AI，看看效果如何。
@@ -42,10 +42,15 @@ tags:
 
 总而言之，在不确定的世界里，我们需要转变思维，采用更加灵活、适应性强的模式，才能提高成功概率。
 
-# Chatgpt
+# Claude
 
-ChatGPT，可以直接上传PDF，实现分析。
+Claude，可以直接上传PDF，实现分析。
 
-![ChatGPT](/img/2023/ai/chatgpt.png "chatgpt")
+![Claude](/img/2023/ai/Claude.png "Claude")
 
 
+# ChatGPT
+
+ChatGPT4，也是可以直接上传GPT
+
+![ChatGPT4](/img/2023/ai/ChatGPT.png "ChatGPT4")
