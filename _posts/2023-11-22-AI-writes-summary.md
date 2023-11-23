@@ -53,5 +53,6 @@ Claude，可以直接上传PDF，实现分析。
 
 ChatGPT4，也是一样
 
-![ChatGPT4](/img/2023/AI/ChatGPT4.png "ChatGPT4")
+![ChatGPT](/img/2003/AI/ChatGPT4.png "ChatGPT")
+
 
