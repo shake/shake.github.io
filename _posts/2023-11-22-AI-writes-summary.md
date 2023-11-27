@@ -52,11 +52,11 @@ Claude，可以直接上传PDF，实现分析。
 
 ![Claude](/img/2023/AI/Claude.png "Claude")
 
-![ChatGPT](/img/2003/AI/chat.png "ChatGPT")
-
 
 # ChatGPT
 
 ChatGPT4，也是一样
 
 ![ChatGPT](/img/2003/AI/chat.png "ChatGPT")
+
+![Claude](/img/2023/AI/Claude.png "Claude")
