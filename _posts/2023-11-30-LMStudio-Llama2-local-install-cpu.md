@@ -38,11 +38,11 @@ tags:
 
 存放路径有要求，参考我存放模型的路径。用户名是huggingface的用户名。
 
-`
-/path/to/models_folder/用户名/项目名/ModelName
+
+`/path/to/models_folder/用户名/项目名/ModelName
 D:\models_folder\chenshake\chinese\Chinese-Llama-2-7b-ggml-q4.bin
-D:\models_folder\chenshake\en\llama-2-7b.ggmlv3.q4_0.bin
-`
+D:\models_folder\chenshake\en\llama-2-7b.ggmlv3.q4_0.bin`
+
 
 
 ## 注册账号
