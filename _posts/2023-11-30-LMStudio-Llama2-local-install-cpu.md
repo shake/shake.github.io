@@ -22,7 +22,7 @@ tags:
 
 安装和配置Llama 2，有很多方式，这次采用最简单的方式来快速搭建，基本可以理解是一键安装。
 
-你可以在windows ，apple，linux下安装Llama。
+LM Studio支持windows ，apple，linux。
 
 访问 [LM Studio](https://lmstudio.ai/) 
 
@@ -45,18 +45,18 @@ D:\models_folder\chenshake\en\llama-2-7b.ggmlv3.q4_0.bin`
 
 
 
-## 注册账号
+# 注册账号
 
 你需要登录大模型的github，huggingface [官方网站](https://huggingface.co) 注册一个账号。
 
-## 下载
+# 下载
 
 [英文LLama-2大模型](https://huggingface.co/TheBloke/Llama-2-7B-GGML) 
 
 ![版本](/img/2023/llama/version.jpg "version")
 
 
-页面里很多不同参数的版本下载，找到 llama-2-7b.ggmlv3.q4_0.bin，选择这个版本下载，可以降低对本地cpu和内存的要求。
+找到 llama-2-7b.ggmlv3.q4_0.bin 进行下载。
 
 [中文Llama-2大模型](https://huggingface.co/soulteary/Chinese-Llama-2-7b-ggml-q4/tree/main)
 
