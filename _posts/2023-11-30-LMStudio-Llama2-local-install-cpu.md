@@ -22,7 +22,7 @@ tags:
 
 安装和配置Llama 2，有很多方式，这次采用最简单的方式来快速搭建，基本可以理解是一键安装。
 
-LM Studio支持windows ，apple，linux。
+LM Studio支持windows ，apple，linux。解决大模型对本地的所有依赖，在LM Studio里，你就只需要下载大模型，就可以运行。
 
 访问 [LM Studio](https://lmstudio.ai/) 
 
@@ -63,7 +63,7 @@ D:\models_folder\chenshake\en\llama-2-7b.ggmlv3.q4_0.bin`
 该文件的名称可以分解如下：
 
 * llama-2-7b：表示模型的名称和参数量。
-* ggmlv3：表示模型所使用的 GGML 库的版本。
+* ggml：表示模型支持CPU
 * q4_0：表示模型的量化方法。
 
 具体来说，q4_0 表示该模型使用了 4 位量化方法。量化方法是一种减少模型大小和计算成本的方法，它通过将模型参数的值近似为较小的整数来实现。
