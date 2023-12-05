@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      LM Studio Llama-2 install local one click
-subtitle:   本地一件安装Llama-2
+title:      Run Llama 2 On Local With Simple Way
+subtitle:   Llama-2 安装指南
 date:       2023-11-30
 author:     shake
 header-img: img/post-bg-2015.jpg
