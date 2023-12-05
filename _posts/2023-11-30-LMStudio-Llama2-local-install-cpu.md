@@ -51,7 +51,12 @@ D:\models_folder\chenshake\en\llama-2-7b.ggmlv3.q4_0.bin`
 
 ## 下载
 
-[下载地址](https://huggingface.co/TheBloke/Llama-2-7B-GGML) 页面里很多不同参数的版本下载，找到 llama-2-7b.ggmlv3.q4_0.bin，选择这个版本下载，可以降低对本地cpu和内存的要求。
+[英文LLama-2大模型](https://huggingface.co/TheBloke/Llama-2-7B-GGML) 
+
+![版本](/img/2023/llama/version.jpg "version")
+
+
+页面里很多不同参数的版本下载，找到 llama-2-7b.ggmlv3.q4_0.bin，选择这个版本下载，可以降低对本地cpu和内存的要求。
 
 [中文Llama-2大模型](https://huggingface.co/soulteary/Chinese-Llama-2-7b-ggml-q4/tree/main)
 
