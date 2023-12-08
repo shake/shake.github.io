@@ -49,7 +49,7 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 
 # Install the web UI
 
-安装依赖比较复杂，你需要检测cpu是否支持avx2。
+需要检测cpu是否支持avx2。
 
 	lscpu | grep avx2
 	
@@ -62,6 +62,7 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 	git clone https://github.com/oobabooga/text-generation-webui
 	cd text-generation-webui
 	pip install -r requirements_cpu_only.txt
+
 
 # 下载大模型
 
