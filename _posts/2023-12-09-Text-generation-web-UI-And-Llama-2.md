@@ -76,8 +76,12 @@ text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4
 
 # 启动web
 
-	conda activate textgen
-	cd text-generation-webui
 	python server.py
+	
+![web 访问地址](/img/2023/modelscope/link.jpg "外网地址")
+
+魔搭做了网关的映射，直接点击，就可以web访问。
+
+
 
 
