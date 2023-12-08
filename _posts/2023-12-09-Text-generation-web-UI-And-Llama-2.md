@@ -58,10 +58,10 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 * linux
 * cpu only and support avx2
 
-
 	git clone https://github.com/oobabooga/text-generation-webui
 	cd text-generation-webui
 	pip install -r requirements_cpu_only.txt
+
 
 
 # 下载大模型
@@ -72,7 +72,7 @@ text-generation-webui目录下，大模型都是放在**models**下面
 	├── models
 	│   ├── llama-2-13b-chat.Q4_K_M.gguf
 
-手工下载。llama-2-13b-chat.Q4_K_M.gguf
+魔搭手工下载大模型 llama-2-13b-chat.Q4_K_M.gguf
 
 	curl -L “https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf”  -o models/llama-2-13b-chat.Q4_K_M.gguf
 
