@@ -73,8 +73,7 @@ text-generation-webui目录下，大模型都是放在**models**下面
 
 手工下载。llama-2-13b-chat.Q4_K_M.gguf
 
-`curl -L 
-“https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf”  -o models/llama-2-13b-chat.Q4_K_M.gguf`
+	curl -L “https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf”  -o models/llama-2-13b-chat.Q4_K_M.gguf
 
 # 启动web
 
