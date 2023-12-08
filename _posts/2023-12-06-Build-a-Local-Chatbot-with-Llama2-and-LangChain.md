@@ -34,7 +34,9 @@ tags:
 # 选择模型
 
 `TheBloke/Llama-2-13B-chat-GGUF
+
 TheBloke/Llama-2-13B-chat-GGML
+
 TheBloke/Llama-2-13B-chat-GPTQ`
 
 GGML是已经淘汰的格式，表示支持CPU，GGUF是新的支持CPU的格式。GPTQ是支持GPU的格式。
@@ -72,8 +74,9 @@ Llama.cpp 提供了以下功能：
 
 镜像里git，make，curl，已经是提前预装。
 
-‘cd /root/
-git clone https://github.com/shake/llama-cpp-setup.git && cd llama-cpp-setup && chmod +x setup.sh && ./setup.sh’
+`cd /root/
+
+git clone https://github.com/shake/llama-cpp-setup.git && cd llama-cpp-setup && chmod +x setup.sh && ./setup.sh`
 
 ![llama 2](/img/2023/modelscope/finish.jpg "llama")
 
