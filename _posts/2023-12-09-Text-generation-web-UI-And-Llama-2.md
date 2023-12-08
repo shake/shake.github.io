@@ -55,13 +55,9 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 	
 也是需要根据情况来选择不同的依赖。
 
-* linux
-* cpu only and support avx2
-
 	git clone https://github.com/oobabooga/text-generation-webui
 	cd text-generation-webui
 	pip install -r requirements_cpu_only.txt
-
 
 
 # 下载大模型
