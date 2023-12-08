@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      llama2 一键安装
-subtitle:   Build a Local Llama2 in shell
+subtitle:   Build a Local Llama2 in script
 date:       2023-12-6
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -73,6 +73,7 @@ Llama.cpp 提供了以下功能：
 
 ![魔搭](/img/2023/modelscope/notebook.jpg "notebook")
 ![魔搭](/img/2023/modelscope/notebook1.jpg "notebook")
+![终端](/img/2023/modelscope/terminal.jpg "终端")
 
 
 整个过程，其实很简单，通过一个脚本运行，就可以搞定。
