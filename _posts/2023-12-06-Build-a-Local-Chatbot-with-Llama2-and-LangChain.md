@@ -33,9 +33,9 @@ tags:
 
 # 选择模型
 
-‘TheBloke/Llama-2-13B-chat-GGUF
+`TheBloke/Llama-2-13B-chat-GGUF
 TheBloke/Llama-2-13B-chat-GGML
-TheBloke/Llama-2-13B-chat-GPTQ’
+TheBloke/Llama-2-13B-chat-GPTQ`
 
 GGML是已经淘汰的格式，表示支持CPU，GGUF是新的支持CPU的格式。GPTQ是支持GPU的格式。
 
