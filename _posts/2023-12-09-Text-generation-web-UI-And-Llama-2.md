@@ -46,7 +46,7 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 * linux
 * cpu only
 
-`pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
 # Install the web UI
 
