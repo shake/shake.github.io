@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      llama2 and Langchain 搭建聊天机器人（1）
-subtitle:   Build a Local Chatbot with Llama2 and LangChain
+title:      llama2 一键安装
+subtitle:   Build a Local Llama2 in shell
 date:       2023-12-6
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -73,13 +73,13 @@ Llama.cpp 提供了以下功能：
 镜像里git，make，curl，已经是提前预装。
 
 	cd /root/
-	git clone https://github.com/shake/llama-cpp-setup.git && cd llama-cpp-setup && chmod +x setup.sh && ./setup.sh`
+	git clone https://github.com/shake/llama-cpp-setup.git && cd llama-cpp-setup && chmod +x setup.sh && ./setup.sh
 
 ![llama 2](/img/2023/modelscope/finish.jpg "llama")
 
 ![ask question](/img/2023/modelscope/ai.jpg "question")
 
-
+已经可以进行交互，下一遍文章介绍web UI的交互。
 
 
 
