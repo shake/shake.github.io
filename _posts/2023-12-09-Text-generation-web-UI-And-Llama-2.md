@@ -25,6 +25,8 @@ Conda 的主要用途包括：
 * **创建和管理虚拟环境**：Conda 可以创建和管理虚拟环境。虚拟环境是独立的软件包环境，可以用于隔离不同项目的软件包依赖项。
 * **打包和分发软件**：Conda 可以用于打包和分发软件。它可以创建包含软件包、依赖项和配置文件的软件包。
 
+[官方说明](https://educe-ubc.github.io/conda.html)
+
 	curl -sL "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" > "Miniconda3.sh"
 	bash Miniconda3.sh
 
