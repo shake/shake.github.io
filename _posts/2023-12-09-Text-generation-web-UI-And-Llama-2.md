@@ -71,7 +71,12 @@ text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4
 
 	git clone https://www.modelscope.cn/Xorbits/Llama-2-13b-Chat-GGUF.git
 
-下载完成后，在移动到**models** 目录下。
+下载完成后，在移动到**models** 目录下。git需要支持LFS，魔搭默认已经支持，如果不支持，可以参考下面命令。
+
+	curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+	sudo apt-get install git-lfs
+	git lfs install
+
 
 大模型都是放在**models**下面
 
