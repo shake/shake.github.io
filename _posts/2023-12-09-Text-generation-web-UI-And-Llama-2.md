@@ -67,6 +67,12 @@ text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4
 	curl -L "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf" -output models/llama-2-13b-chat.Q4_K_M.gguf
 
 
+最近curl到最后，出现错误，**curl: (6) Could not resolve host**，没法解决，就改成用git的来下载大模型。
+
+	git clone https://www.modelscope.cn/Xorbits/Llama-2-13b-Chat-GGUF.git
+
+下载完成后，在移动到**models** 目录下。
+
 大模型都是放在**models**下面
 
 	text-generation-webui
