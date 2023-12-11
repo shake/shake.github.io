@@ -32,8 +32,8 @@ Conda 的主要用途包括：
 
 # Create a new conda environment
 
-	conda create -n textgen python=3.11
-	conda activate textgen
+	conda create -n shake python=3.11
+	conda activate shake
 	
 # Install Pytorch
 
@@ -64,10 +64,11 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 
 text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4_K_M.gguf
 
-	curl -L "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf" -output models/llama-2-13b-chat.Q4_K_M.gguf
+curl -LO "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf"
+mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-13b-chat.Q4_K_M.gguf
 
 
-最近curl到最后，出现错误，**curl: (6) Could not resolve host**，没法解决，就改成用git的来下载大模型。
+最近curl -o指定输出位置，会导致到出现错误，**curl: (6) Could not resolve host**，没法解决，所以你可以像上面的先通过curl下载回来，再移动和修改名字，或者改成用git的来下载大模型。
 
 	git clone https://www.modelscope.cn/Xorbits/Llama-2-13b-Chat-GGUF.git
 
