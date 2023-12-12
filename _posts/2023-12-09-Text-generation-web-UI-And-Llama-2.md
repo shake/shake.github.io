@@ -37,7 +37,10 @@ Conda 的主要用途包括：
 	
 # Install Pytorch
 
+
 PyTorch 是一个用于构建深度学习模型的开源框架。它使用 Python 编写，因此对于大多数机器学习开发者而言，学习和使用起来相对简单。PyTorch 的独特之处在于，它完全支持 GPU，并且使用反向模式自动微分技术，因此可以动态修改计算图形。
+
+## CPU
 
 Pytorch安装选项有点多，需要根据实际情况来选择。
 
@@ -46,23 +49,38 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 
 	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
+## GPU
+
+	nvidia-smi
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 # Install the web UI
+
 
 需要检测cpu是否支持avx2。
 
 	lscpu | grep avx2
+	
+## CPU
 	
 也是需要根据情况来选择不同的依赖。
 
 	git clone https://github.com/oobabooga/text-generation-webui
 	cd text-generation-webui
 	pip install -r requirements_cpu_only.txt
+	
+## GPU
+
+	git clone https://github.com/oobabooga/text-generation-webui
+	cd text-generation-webui
+	pip install -r requirements.txt
 
 
 # 下载大模型
 
 text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4_K_M.gguf
+
+## CPU
 
 curl -LO "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf"
 mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-13b-chat.Q4_K_M.gguf
@@ -72,12 +90,17 @@ mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-1
 
 	git clone https://www.modelscope.cn/Xorbits/Llama-2-13b-Chat-GGUF.git
 
+
+
 下载完成后，在移动到**models** 目录下。git需要支持LFS，魔搭默认已经支持，如果不支持，可以参考下面命令。
 
 	curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 	sudo apt-get install git-lfs
 	git lfs install
 
+## GPU
+
+	git clone https://www.modelscope.cn/Cookize/Llama-2-13B-chat.git
 
 大模型都是放在**models**下面
 
@@ -94,6 +117,8 @@ mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-1
 
 魔搭做了网关的映射，直接点击，就可以web访问。
 
+# Text generation web UI
 
+Text generation web UI配置还是比较复杂，可以设置的地方太多。而且迭代更新很快。慢慢琢磨。
 
 
