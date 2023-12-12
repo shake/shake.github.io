@@ -61,6 +61,8 @@ kuda的版本为11.8.
 
 
 	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+	pip3 show torch
+
 
 # Install the web UI
 
@@ -96,8 +98,8 @@ text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4
 
 ## CPU
 
-curl -LO "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf"
-mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-13b-chat.Q4_K_M.gguf
+	curl -LO "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf"
+	mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-13b-chat.Q4_K_M.gguf
 
 
 最近curl -o指定输出位置，会导致到出现错误，**curl: (6) Could not resolve host**，没法解决，所以你可以像上面的先通过curl下载回来，再移动和修改名字，或者改成用git的来下载大模型。
@@ -117,7 +119,7 @@ mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-1
 
 	git clone https://www.modelscope.cn/Cookize/Llama-2-13B-chat.git
 
-这个大模型，超过50G，磁盘占满。
+这个大模型，超过80G，磁盘占满。
 
 
 # 启动web
