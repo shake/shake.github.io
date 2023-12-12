@@ -17,6 +17,8 @@ tags:
 
 # Install Conda
 
+这一步可以省掉，如果是在阿里魔搭的机器上，默认已经安装。
+
 Conda 是一个开源包管理系统和环境管理系统，用于安装、运行和更新软件包及其依赖项。它适用于 Windows、macOS 和 Linux 平台，是为 Python 程序创建的，但可以打包和分发适用于任何语言的软件。
 
 Conda 的主要用途包括：
@@ -52,7 +54,13 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 ## GPU
 
 	nvidia-smi
-	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+	
+kuda的版本为11.8.
+
+![cuda](/img/2023/modelscope/cuda.jpg "cuda")
+
+
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 # Install the web UI
 
@@ -80,6 +88,12 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 
 text-generation-webui目录下，魔搭手工下载大模型 llama-2-13b-chat.Q4_K_M.gguf
 
+大模型都是放在**models**下面
+
+	text-generation-webui
+	├── models
+	│   ├── llama-2-13b-chat.Q4_K_M.gguf
+
 ## CPU
 
 curl -LO "https://modelscope.cn/api/v1/models/Xorbits/Llama-2-13b-Chat-GGUF/repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf"
@@ -100,13 +114,10 @@ mv 'repo?Revision=master&FilePath=llama-2-13b-chat.Q4_K_M.gguf' models/llama-2-1
 
 ## GPU
 
+
 	git clone https://www.modelscope.cn/Cookize/Llama-2-13B-chat.git
 
-大模型都是放在**models**下面
-
-	text-generation-webui
-	├── models
-	│   ├── llama-2-13b-chat.Q4_K_M.gguf
+这个大模型，超过50G，磁盘占满。
 
 
 # 启动web
