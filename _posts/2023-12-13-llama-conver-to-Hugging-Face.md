@@ -32,13 +32,14 @@ tags:
    首先确保你已经安装了`transformers`和`torch`库。
 
    ```
-   pip install transformers torch
+	pip install transformers torch
    ```
 
 2. **下载转换工具**：
 
+   ```
 	git clone https://github.com/huggingface/transformers
-
+   ```
 
 
 3. **格式转换**：
