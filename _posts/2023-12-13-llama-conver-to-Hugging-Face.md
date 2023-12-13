@@ -21,7 +21,7 @@ tags:
 
 ![llama-7B](/img/2023/modelscope/llama-7B.jpg "llama-7B")
 
-你需要增加最后的两个文件，才能顺利转换。
+你需要增加最后的两个文件，同时创建一个空目录**7B**，才能顺利转换。
 
 ![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
@@ -35,11 +35,16 @@ tags:
 	pip install transformers torch
    ```
 
+
 2. **下载转换工具**：
 
    ```
 	git clone https://github.com/huggingface/transformers
    ```
+   
+   安装转换工具的依赖
+   
+   pip install sentencepiece protobuf accelerate
 
 
 3. **格式转换**：
@@ -51,7 +56,11 @@ tags:
 运行下面命令，就可以获得HF格式。
 
 	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
+	
 
+4. **转换结果**：
+
+![llama-7B-hf](/img/2023/modelscope/hf.jpg "llama-7B-hf")
 
 # 转换优势
 
