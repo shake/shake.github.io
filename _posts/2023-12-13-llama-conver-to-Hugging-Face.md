@@ -44,7 +44,7 @@ tags:
    
    安装转换工具的依赖
    
-   pip install sentencepiece protobuf accelerate
+	pip install sentencepiece protobuf accelerate
 
 
 3. **格式转换**：
