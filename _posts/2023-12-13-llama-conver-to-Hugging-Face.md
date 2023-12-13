@@ -46,6 +46,9 @@ tags:
 
 在**Llama-2-7b** 同级的目录下，创建空目录**Llama-2-7b-hf**
 
+![目录结构](/img/2023/modelscope/dir.jpg "目录结构")
+
+
 	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 
 # 为啥需要格式转
