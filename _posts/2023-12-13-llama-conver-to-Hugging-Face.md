@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      原始格式LLama2-7B转为huggingface格式
+title:      LLama2-7B转huggingface
 subtitle:   LLaMA2-7B convert to HF model
 date:       2023-12-13
 author:     shake
@@ -15,13 +15,13 @@ tags:
 
 # 格式转换
 
-将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式
+将原始格式的LLaMA模型，也就是你从官方下载回来的代码，转换为Hugging Face Transformers支持的格式
 
-原始模型包括文件如下
+原始模型，官方下载回来的文件包括：
 
 ![llama-7B](/img/2023/modelscope/llama-7B.jpg "llama-7B")
 
-你需要调整目录如下
+你需要增加最后的两个文件，才能顺利转换成果。
 
 ![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
@@ -29,69 +29,21 @@ tags:
 将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式:
 
 1. **安装所需库**：
-   首先确保你已经安装了`transformers`和`torch`库。如果没有，可以使用以下命令安装：
+   首先确保你已经安装了`transformers`和`torch`库。
 
    ```
    pip install transformers torch
    ```
 
-2. **下载LLaMA权重文件**：
-   由于LLaMA的权重文件不能直接从Hugging Face Model Hub下载，你需要按照官方指南或授权流程来获取这些权重。
+2. **下载转换工具**：
 
-3. **编写转换脚本**：
-   创建一个Python脚本来执行模型权重的转换。这个脚本通常会包含加载原始权重、实例化LLaMA模型配置和模型类、然后将权重加载到模型中。最后，将模型保存为Hugging Face的`.pt`格式。
+git clone https://github.com/huggingface/transformers
 
-   下面是一个简化的示例代码（假设你已经有了一个名为`convert_llama.py`的脚本）：
+3. **创建转换的目录**：
 
-   ```python
-   # convert_llama.py
-   import torch
-   from llama.config_mymodel import MyModelConfig
-   from llama.modeling_mymodel import MyModel
+在**llama-2-7b** 同级的目录下，创建空目录**llama-2-7b-hf**
 
-   def convert_to_hf_format(input_path, output_path):
-       # 加载原始权重
-       state_dict = torch.load(input_path)
-
-       # 实例化模型配置
-       config = MyModelConfig()
-
-       # 实例化模型
-       model = MyModel(config)
-
-       # 转换并加载权重
-       model.load_state_dict(state_dict, strict=False)  # 注意：如果模型结构有差异，需要设置strict=False
-
-       # 保存为Hugging Face格式
-       torch.save(model.state_dict(), output_path)
-
-   if __name__ == "__main__":
-       input_path = "path/to/your/original/llama_weights.pth"
-       output_path = "path/to/save/hf_format/model.pth"
-
-       convert_to_hf_format(input_path, output_path)
-   ```
-
-4. **运行转换脚本**：
-   使用Python运行你的转换脚本：
-
-   ```
-   python convert_llama.py
-   ```
-
-5. **检查输出**：
-   确保转换后的模型权重文件已经成功创建在指定的位置。
-
-6. **使用转换后的模型**：
-   你可以像使用任何其他Hugging Face Transformer模型一样使用这个转换后的模型。例如，将其加载到`AutoModel`中：
-
-   ```python
-   from transformers import AutoModel
-
-   model = AutoModel.from_pretrained("path/to/save/hf_format/model.pth")
-   ```
-
-注意，这里给出的步骤和代码是基于一般的转换过程，具体的实现可能需要根据LLaMA模型的实际结构和权重文件进行调整。如果你遇到问题，建议参考LLaMA的官方文档或者社区中的相关教程。
+	python3 transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./llama2-7b --model_size 7B --output_dir ./llama-2-7b-hf
 
 # 为啥需要格式转
 
