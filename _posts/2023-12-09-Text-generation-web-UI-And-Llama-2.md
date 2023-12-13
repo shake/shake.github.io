@@ -15,6 +15,8 @@ tags:
 感谢 [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 安装文档写的如此详细，我只是重复做了一遍，记录下来。
 
+目前CPU是没问题，GPU应该由于模型下载的原因，导致还无法运行，正在解决中。
+
 # Install Conda
 
 这一步可以省掉，如果是在阿里魔搭的机器上，默认已经安装。
@@ -55,7 +57,7 @@ Pytorch安装选项有点多，需要根据实际情况来选择。
 
 	nvidia-smi
 	
-kuda的版本为11.8.
+Cuda的版本为11.8.
 
 ![cuda](/img/2023/modelscope/cuda.jpg "cuda")
 
