@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LLama2-7B转huggingface
+title:      LLama2-7B转HuggingFace
 subtitle:   LLaMA2-7B convert to HF model
 date:       2023-12-13
 author:     shake
@@ -21,7 +21,7 @@ tags:
 
 ![llama-7B](/img/2023/modelscope/llama-7B.jpg "llama-7B")
 
-你需要增加最后的两个文件，才能顺利转换成果。
+你需要增加最后的两个文件，才能顺利转换。
 
 ![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
@@ -37,13 +37,14 @@ tags:
 
 2. **下载转换工具**：
 
-git clone https://github.com/huggingface/transformers
+	git clone https://github.com/huggingface/transformers
 
-3. **创建转换的目录**：
 
-在**llama-2-7b** 同级的目录下，创建空目录**llama-2-7b-hf**
+3. **格式转换**：
 
-	python3 transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./llama2-7b --model_size 7B --output_dir ./llama-2-7b-hf
+在**Llama-2-7b** 同级的目录下，创建空目录**Llama-2-7b-hf**
+
+	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 
 # 为啥需要格式转
 
