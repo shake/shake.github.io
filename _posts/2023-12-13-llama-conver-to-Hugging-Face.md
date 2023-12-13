@@ -48,10 +48,12 @@ tags:
 
 ![目录结构](/img/2023/modelscope/dir.jpg "目录结构")
 
+运行下面命令，就可以获得HF格式。
 
 	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 
-# 为啥需要格式转
+
+# 转换优势
 
 将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式有以下几个原因：
 
