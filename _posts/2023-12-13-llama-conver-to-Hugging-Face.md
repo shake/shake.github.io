@@ -143,18 +143,6 @@ GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进
 
 在Llama-2-7b ,Llama-2-7b-hf,同级的目录下,建立目录**Llama-2-7b-gptq**
 
-	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# ls -la
-	总计 6994244
-	drwxr-xr-x  1 root root       4096 12月 14 19:14 .
-	drwxr-xr-x  1 root root       4096 12月 14 18:43 ..
-	drwxr-xr-x 11 root root       4096 12月 14 19:14 AutoGPTQ
-	drwxr-xr-x  3 root root       4096 12月 14 18:48 Llama-2-7b
-	drwxr-xr-x  2 root root       4096 12月 14 19:14 Llama-2-7b-gptq
-	drwxr-xr-x  2 root root       4096 12月 14 18:57 Llama-2-7b-hf
-	-rw-r--r--  1 root root 7162063008 12月 14 19:01 llama-2-7b-Q8_0.gguf
-	drwxr-xr-x 19 root root       4096 12月 14 18:44 llama.cpp
-	drwxr-xr-x 15 root root       4096 12月 14 18:44 transformers
-
 创建一个文件**quant_autogptq.py**
 
 [quant_autogptq.py](https://gist.github.com/TheBloke/b47c50a70dd4fe653f64a12928286682#file-quant_autogptq-py)
