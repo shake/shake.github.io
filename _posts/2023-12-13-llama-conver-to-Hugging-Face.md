@@ -72,7 +72,10 @@ Cuda的版本为11.8.
 	pip3 show torch
 	pip3 install transformers
 
+### CPU
 
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+	pip3 install transformers
 
 
 ## 转换工具
