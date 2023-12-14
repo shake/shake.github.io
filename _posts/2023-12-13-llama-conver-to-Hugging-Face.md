@@ -122,6 +122,11 @@ GGUF格式，表示这个模型只支持CPU
 	
 outtype的选项有： 'f32', 'f16', 'q8_0'
 
+
+	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# ls llama-2-7b-Q8_0.gguf -lash
+	6.7G -rw-r--r-- 1 root root 6.7G 12月 14 19:01 llama-2-7b-Q8_0.gguf
+
+
 ![llama-7B-gguf](/img/2023/modelscope/gguf.jpg "llama-7B-gguf")
 
 [How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
