@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      LLama2-7B model convert 
-subtitle:   LLaMA2-7B  HF model GGUF and GPTQ
+subtitle:   LLaMA2-7B  HF GGUF and GPTQ
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -12,7 +12,10 @@ tags:
 
 希望可以从零开始，一步一步进行模型的微调。发现第一步，就是需要拿llama 2的原始模型，进行格式的转换，国内外使用HuggingFace模型格式（简称HF格式）和其配套的通用代码进行微调是主流。这里就记录格式转换全过程。
 
-访问HuggingFace，很多模型提供GGUF格式和GPTQ格式，其实这些大模型都是
+[超详细LLama2+Lora微调实战
+](https://mp.weixin.qq.com/s/KJTkatOrf9TqSrtBPZbKwA)
+
+访问HuggingFace，很多模型提供GGML,GGUF格式和GPTQ格式，目前GGML格式已经淘汰，使用GGUF替代，其实这些大模型格式是这样进行转换：
 
 * **原始格式LLama ->转为huggingface（HF）格式**
 * **huggingface格式（HF） ->转为GGUF格式**
@@ -42,10 +45,15 @@ tags:
 
 ## 安装所需库
 
-   首先确保你已经安装了`transformers`和`torch`库。
+   首先确保你已经安装了`transformers`和`torch`库。需要确认是否使用GPU
 
+### GPU
 
 	pip install transformers torch
+
+### CPU
+
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
 
 
@@ -100,13 +108,14 @@ GGUF格式，表示这个模型只支持CPU
 GPTQ格式，就是支持GPU。
 
 	pip3 uninstall -y auto-gptq
+	pip3 install gekko pandas
 	git clone https://github.com/PanQiWei/AutoGPTQ
 	cd AutoGPTQ
 	pip3 install .
 
-建立一个同级目录**llama-2-7b-gptq**
+建立一个同级目录**Llama-2-7b-gptq**
 
-	python3 quant_autogptq.py ./llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
+	python3 quant_autogptq.py ./Llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
 
 use the **wikitext dataset** for quantisation，If your model is trained on something more specific, like code, or non-English language, then you may want to change to a different dataset. Doing that would require editing **quant_autogptq.py** to load an alternative dataset.
 
