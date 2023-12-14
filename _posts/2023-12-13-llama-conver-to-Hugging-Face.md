@@ -150,9 +150,3 @@ use the **wikitext dataset** for quantisation，If your model is trained on some
 
 总的来说，将LLaMA模型转换为Hugging Face Transformers格式可以让你充分利用这个强大的库，并使你的研究更具可重复性和可扩展性。
 
-# 备注
-
-如果你无法从官网下载Llama-2-7b的模型，可以参考。
-
-	git clone https://www.modelscope.cn/angelala00/Llama-2-7b.git
-
