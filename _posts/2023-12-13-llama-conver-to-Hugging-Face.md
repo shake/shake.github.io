@@ -20,7 +20,7 @@ tags:
 
 原始格式LLama转换HF格式，是没有精度的损失，转换成GGUF和GPTQ，你可以设置参数，降低精度，缩小模型。
 
-# HF格式转换
+# HF转换
 
 将原始格式的LLaMA模型，也就是你从官方下载回来的代码，转换为Hugging Face Transformers支持的格式
 
@@ -78,7 +78,7 @@ tags:
 
 ![llama-7B-hf](/img/2023/modelscope/hf.jpg "llama-7B-hf")
 
-# convert HuggingFace model to GGUF format
+# convert HF model to GGUF format
 
 GGUF格式，表示这个模型只支持CPU
 
@@ -96,8 +96,10 @@ GGUF格式，表示这个模型只支持CPU
 [How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
 
 
-# convert HuggingFace model to GPTQ format
+# convert HF model to GPTQ format
 
+
+[How to convert HuggingFace model to GGPTQ format](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ/discussions/26)
 
 # HF优势
 
