@@ -17,16 +17,16 @@ tags:
 
 将原始格式的LLaMA模型，也就是你从官方下载回来的代码，转换为Hugging Face Transformers支持的格式
 
+## 原始模型准备
+
 原始模型，官方下载回来的文件包括：
 
 ![llama-7B](/img/2023/modelscope/llama-7B.jpg "llama-7B")
 
-你需要增加最后的两个文件，同时创建一个空目录**7B**，才能顺利转换。
+你需要增加最后的两个文件，同时创建一个空目录**7B**，才能顺利转换为Hugging Face Transformers支持的格式:
 
 ![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
-
-将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式:
 
 ## conda
 
@@ -44,9 +44,9 @@ tags:
 
 ## 转换工具
 
-   ```
+
 	git clone https://github.com/huggingface/transformers
-   ```
+
    
    安装转换工具的依赖
    
