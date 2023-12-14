@@ -61,6 +61,10 @@ tags:
 
 ### GPU
 
+	nvidia-smi
+
+确认显卡支持的CUDA版本。
+
 	pip install transformers torch
 
 ### CPU
@@ -109,7 +113,9 @@ GGUF格式，表示这个模型只支持CPU
 
 进行转换
 
-	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-Q8_0.gguf --outtype Q8_0
+	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-Q8_0.gguf --outtype q8_0
+	
+outtype的选项有： 'f32', 'f16', 'q8_0'
 
 ![llama-7B-gguf](/img/2023/modelscope/gguf.jpg "llama-7B-gguf")
 
@@ -118,7 +124,7 @@ GGUF格式，表示这个模型只支持CPU
 
 # HF to GPTQ
 
-GPTQ格式，就是支持GPU。
+GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进行转换。
 
 	pip3 uninstall -y auto-gptq
 	pip3 install gekko pandas
