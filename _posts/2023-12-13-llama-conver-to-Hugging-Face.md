@@ -42,9 +42,11 @@ tags:
 	git clone https://www.modelscope.cn/angelala00/Llama-2-7b.git
 
 下载完成后，需要删除没必要的文件
+
 	cd Llama-2-7b/
 	rm -rf .git .gitattributes configuration.json gitattributes LICENSE.txt README.md USE_POLICY.md Responsible-Use-Guide.pdf 
 	mkdir 7B
+
 
 下载回来的repo是26G，删除隐藏文件后，变成13G。
 
