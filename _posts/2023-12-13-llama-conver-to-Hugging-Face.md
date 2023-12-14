@@ -131,7 +131,7 @@ outtype的选项有： 'f32', 'f16', 'q8_0'
 [How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
 
 
-# HF to GPTQ
+# HF to GPTQ（有问题）
 
 GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进行转换。
 
@@ -196,28 +196,4 @@ use the **wikitext dataset** for quantisation，If your model is trained on some
 
 
 [How to convert HuggingFace model to GGPTQ format](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ/discussions/26)
-
-# HF优势
-
-将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式有以下几个原因：
-
-1. **统一性**：
-   Hugging Face Transformers是一个流行的自然语言处理库，它提供了大量的预训练模型和易于使用的API。将LLaMA模型转换为这个库支持的格式可以使你的工作流程与其他使用Transformers的项目保持一致。
-
-2. **兼容性**：
-   转换后的模型可以无缝地与Hugging Face Transformers生态系统集成。这包括使用`AutoModel`、`Trainer`和其他高级工具来微调、评估和部署模型。
-
-3. **易用性**：
-   使用Hugging Face Transformers意味着你可以利用其丰富的功能集，如自动日志记录、多GPU支持、混合精度训练等，这些功能可以帮助你更高效地进行实验和开发工作。
-
-4. **社区支持**：
-   Hugging Face Transformers拥有一个庞大的开发者社区，这意味着你可以找到许多教程、代码示例和问题解答，这对于快速解决问题和学习新技术非常有帮助。
-
-5. **可扩展性**：
-   通过将LLaMA模型转换为Hugging Face Transformers格式，你可以轻松地将其与其他Transformers模型组合，比如在流水线（pipeline）中使用不同的模型组件。
-
-6. **标准化**：
-   Hugging Face Transformers提供了一种标准化的方式来加载和保存模型，这样其他人也可以更容易地复现你的工作或贡献代码。
-
-总的来说，将LLaMA模型转换为Hugging Face Transformers格式可以让你充分利用这个强大的库，并使你的研究更具可重复性和可扩展性。
 
