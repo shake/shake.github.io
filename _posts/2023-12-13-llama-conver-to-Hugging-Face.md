@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      LLama2-7B转HuggingFace
-subtitle:   LLaMA2-7B convert to HF model
+title:      LLama2-7B model convert 
+subtitle:   LLaMA2-7B  HF model GGUF and GPTQ
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -12,8 +12,15 @@ tags:
 
 希望可以从零开始，一步一步进行模型的微调。发现第一步，就是需要拿llama 2的原始模型，进行格式的转换，国内外使用Huggingface模型格式和其配套的通用代码进行微调是主流。这里就记录格式转换全过程。
 
+访问Huggingface，很多模型提供GGUF格式和GPTQ格式，其实这些大模型都是
 
-# 格式转换
+* **原始格式LLama ->转为huggingface格式**
+* **huggingface格式 ->转为GGUF格式**
+* **huggingface格式 ->转为GPTQ格式**
+
+原始格式LLama转换HF格式，是没有精度的损失，转换成GGUF和GPTQ，你可以设置参数，降低精度，缩小模型。
+
+# HF格式转换
 
 将原始格式的LLaMA模型，也就是你从官方下载回来的代码，转换为Hugging Face Transformers支持的格式
 
@@ -65,12 +72,34 @@ tags:
 
 	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama-2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 	
+![转换过程](/img/2023/modelscope/hf-step.jpg "comand run")
 
 **转换结果**：
 
 ![llama-7B-hf](/img/2023/modelscope/hf.jpg "llama-7B-hf")
 
-# 转换优势
+# convert HuggingFace model to GGUF format
+
+GGUF格式，表示这个模型只支持CPU
+
+	git clone https://github.com/ggerganov/llama.cpp.git
+	pip install -r llama.cpp/requirements.txt
+	# check help
+	python llama.cpp/convert.py -h
+
+## 转换GGUF
+
+	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-v1.5.gguf --outtype f32
+
+![llama-7B-gguf](/img/2023/modelscope/gguf.jpg "llama-7B-gguf")
+
+[How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
+
+
+# convert HuggingFace model to GPTQ format
+
+
+# HF优势
 
 将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式有以下几个原因：
 
@@ -95,6 +124,8 @@ tags:
 总的来说，将LLaMA模型转换为Hugging Face Transformers格式可以让你充分利用这个强大的库，并使你的研究更具可重复性和可扩展性。
 
 # 备注
+
+如果你无法从官网下载Llama-2-7b的模型，可以参考。
 
 	git clone https://www.modelscope.cn/angelala00/Llama-2-7b.git
 
