@@ -109,7 +109,7 @@ GGUF格式，表示这个模型只支持CPU
 
 进行转换
 
-	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-v1.5.gguf --outtype f32
+	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-Q8_0.gguf --outtype Q8_0
 
 ![llama-7B-gguf](/img/2023/modelscope/gguf.jpg "llama-7B-gguf")
 
