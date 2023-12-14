@@ -63,7 +63,7 @@ tags:
 
 运行下面命令，就可以获得HF格式。
 
-	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
+	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama-2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 	
 
 **转换结果**：
