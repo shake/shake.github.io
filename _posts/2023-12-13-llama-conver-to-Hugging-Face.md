@@ -97,6 +97,19 @@ GGUF格式，表示这个模型只支持CPU
 
 # HF to GPTQ
 
+GPTQ格式，就是支持GPU。
+
+	pip3 uninstall -y auto-gptq
+	git clone https://github.com/PanQiWei/AutoGPTQ
+	cd AutoGPTQ
+	pip3 install .
+
+建立一个同级目录**llama-2-7b-gptq**
+
+	python3 quant_autogptq.py ./llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
+
+use the **wikitext dataset** for quantisation，If your model is trained on something more specific, like code, or non-English language, then you may want to change to a different dataset. Doing that would require editing **quant_autogptq.py** to load an alternative dataset.
+
 
 [How to convert HuggingFace model to GGPTQ format](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ/discussions/26)
 
