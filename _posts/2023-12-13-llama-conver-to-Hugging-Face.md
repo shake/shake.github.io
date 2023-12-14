@@ -127,7 +127,6 @@ outtype的选项有： 'f32', 'f16', 'q8_0'
 	6.7G -rw-r--r-- 1 root root 6.7G 12月 14 19:01 llama-2-7b-Q8_0.gguf
 
 
-![llama-7B-gguf](/img/2023/modelscope/gguf.jpg "llama-7B-gguf")
 
 [How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
 
@@ -142,7 +141,7 @@ GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进
 	cd AutoGPTQ
 	pip3 install .
 
-建立一个同级目录**Llama-2-7b-gptq**
+在Llama-2-7b ,Llama-2-7b-hf,同级的目录下,建立目录**Llama-2-7b-gptq**
 
 	python3 quant_autogptq.py ./Llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
 
