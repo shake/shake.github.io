@@ -143,9 +143,68 @@ GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进
 
 在Llama-2-7b ,Llama-2-7b-hf,同级的目录下,建立目录**Llama-2-7b-gptq**
 
+	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# ls -la
+	总计 6994244
+	drwxr-xr-x  1 root root       4096 12月 14 19:14 .
+	drwxr-xr-x  1 root root       4096 12月 14 18:43 ..
+	drwxr-xr-x 11 root root       4096 12月 14 19:14 AutoGPTQ
+	drwxr-xr-x  3 root root       4096 12月 14 18:48 Llama-2-7b
+	drwxr-xr-x  2 root root       4096 12月 14 19:14 Llama-2-7b-gptq
+	drwxr-xr-x  2 root root       4096 12月 14 18:57 Llama-2-7b-hf
+	-rw-r--r--  1 root root 7162063008 12月 14 19:01 llama-2-7b-Q8_0.gguf
+	drwxr-xr-x 19 root root       4096 12月 14 18:44 llama.cpp
+	drwxr-xr-x 15 root root       4096 12月 14 18:44 transformers
+
+创建一个文件**quant_autogptq.py**
+
+[quant_autogptq.py](https://gist.github.com/TheBloke/b47c50a70dd4fe653f64a12928286682#file-quant_autogptq-py)
+
+最终你看到的目录
+
+	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# ls -lash
+	总计 6.7G
+	4.0K drwxr-xr-x  1 root root 4.0K 12月 14 19:20 .
+	4.0K drwxr-xr-x  1 root root 4.0K 12月 14 18:43 ..
+	4.0K drwxr-xr-x 11 root root 4.0K 12月 14 19:14 AutoGPTQ
+	4.0K drwxr-xr-x  3 root root 4.0K 12月 14 18:48 Llama-2-7b
+	4.0K drwxr-xr-x  2 root root 4.0K 12月 14 19:14 Llama-2-7b-gptq
+	4.0K drwxr-xr-x  2 root root 4.0K 12月 14 18:57 Llama-2-7b-hf
+	6.7G -rw-r--r--  1 root root 6.7G 12月 14 19:01 llama-2-7b-Q8_0.gguf
+	4.0K drwxr-xr-x 19 root root 4.0K 12月 14 18:44 llama.cpp
+	 12K -rw-r--r--  1 root root  11K 12月 14 19:20 quant_autogptq.py
+	4.0K drwxr-xr-x 15 root root 4.0K 12月 14 18:44 transformers
+
+进行转换
+
 	python3 quant_autogptq.py ./Llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
 
 use the **wikitext dataset** for quantisation，If your model is trained on something more specific, like code, or non-English language, then you may want to change to a different dataset. Doing that would require editing **quant_autogptq.py** to load an alternative dataset.
+
+出现错误，应该是网络的原因，这个暂时无法解决。
+
+	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# python3 quant_autogptq.py ./Llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
+	2023-12-14 19:27:17 INFO [__main__] Loading tokenizer
+	^FTraceback (most recent call last):
+	  File "/mnt/quant_autogptq.py", line 231, in <module>
+		quantizer.run_quantization()
+	  File "/mnt/quant_autogptq.py", line 134, in run_quantization
+		traindataset = self.get_wikitext2()
+					   ^^^^^^^^^^^^^^^^^^^^
+	  File "/mnt/quant_autogptq.py", line 50, in get_wikitext2
+		wikidata = load_dataset('wikitext', 'wikitext-2-raw-v1', split='test')
+				   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 2128, in load_dataset
+		builder_instance = load_dataset_builder(
+						   ^^^^^^^^^^^^^^^^^^^^^
+	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1814, in load_dataset_builder
+		dataset_module = dataset_module_factory(
+						 ^^^^^^^^^^^^^^^^^^^^^^^
+	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1511, in dataset_module_factory
+		raise e1 from None
+	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1467, in dataset_module_factory
+		raise ConnectionError(f"Couldn't reach '{path}' on the Hub ({type(e).__name__})")
+	ConnectionError: Couldn't reach 'wikitext' on the Hub (ConnectionError)
+	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# 
 
 
 [How to convert HuggingFace model to GGPTQ format](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ/discussions/26)
