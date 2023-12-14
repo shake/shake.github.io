@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      LLama2-7B Format Convert 
-subtitle:   LLaMA2-7B  HF GGUF GPTQ Convert
+title:      LLama2-7B Models Format Convert 
+subtitle:   LLaMA2-7B  HF GGUF GPTQ 
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -37,6 +37,10 @@ tags:
 
 ![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
+如果你无法从官网下载Llama-2-7b的模型，可以参考,git clone ，删除多余的文件,我的实验也是使用这个repo来完成。
+
+	git clone https://www.modelscope.cn/angelala00/Llama-2-7b.git
+
 
 ## conda
 
@@ -45,7 +49,7 @@ tags:
 
 ## 安装所需库
 
-   首先确保你已经安装了`transformers`和`torch`库。需要确认是否使用GPU
+   首先确保你已经安装了`transformers`和`torch`库。需要确认是否使用GPU，如果是GPU，需要确认显卡支持的Cuda的版本。
 
 ### GPU
 
