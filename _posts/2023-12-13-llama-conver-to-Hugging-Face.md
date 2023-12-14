@@ -28,7 +28,13 @@ tags:
 
 将原始格式的LLaMA模型转换为Hugging Face Transformers支持的格式:
 
-1. **安装所需库**：
+## conda
+
+	conda create -n shake python=3.11
+	conda activate shake
+
+## 安装所需库
+
    首先确保你已经安装了`transformers`和`torch`库。
 
    ```
@@ -36,7 +42,7 @@ tags:
    ```
 
 
-2. **下载转换工具**：
+## 转换工具
 
    ```
 	git clone https://github.com/huggingface/transformers
@@ -47,18 +53,20 @@ tags:
 	pip install sentencepiece protobuf accelerate
 
 
-3. **格式转换**：
+## 创建输出目录
 
 在**Llama-2-7b** 同级的目录下，创建空目录**Llama-2-7b-hf**
 
 ![目录结构](/img/2023/modelscope/dir.jpg "目录结构")
+
+## 进行转换
 
 运行下面命令，就可以获得HF格式。
 
 	python3 transformers/src/transformers/models/llama/convert_llama_weights_to_hf.py --input_dir ./Llama2-7b --model_size 7B --output_dir ./Llama-2-7b-hf
 	
 
-4. **转换结果**：
+**转换结果**：
 
 ![llama-7B-hf](/img/2023/modelscope/hf.jpg "llama-7B-hf")
 
