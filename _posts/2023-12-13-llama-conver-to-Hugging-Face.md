@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      LLama2-7B Models Format Convert 
-subtitle:   LLaMA2-7B  HF GGUF GPTQ 
+subtitle:   Models Format HF GGUF GPTQ 
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -64,6 +64,7 @@ tags:
 ### CPU
 
 	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+	pip3 install transformers
 
 
 
