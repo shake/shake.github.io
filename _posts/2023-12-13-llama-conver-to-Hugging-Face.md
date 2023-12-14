@@ -63,14 +63,15 @@ tags:
 
 	nvidia-smi
 
-确认显卡支持的CUDA版本。
+Cuda的版本为11.8.
 
-	pip install transformers torch
+![cuda](/img/2023/modelscope/cuda.jpg "cuda")
 
-### CPU
 
-	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+	pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+	pip3 show torch
 	pip3 install transformers
+
 
 
 
