@@ -37,9 +37,9 @@ tags:
 
    首先确保你已经安装了`transformers`和`torch`库。
 
-   ```
+
 	pip install transformers torch
-   ```
+
 
 
 ## 转换工具
