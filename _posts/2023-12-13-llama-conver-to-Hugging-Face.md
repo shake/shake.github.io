@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      LLama2-7B model convert 
-subtitle:   LLaMA2-7B  HF GGUF and GPTQ
+title:      LLama2-7B Format Convert 
+subtitle:   LLaMA2-7B  HF GGUF GPTQ Convert
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
