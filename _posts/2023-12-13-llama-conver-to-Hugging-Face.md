@@ -46,6 +46,7 @@ tags:
 	cd Llama-2-7b/
 	rm -rf .git .gitattributes configuration.json gitattributes LICENSE.txt README.md USE_POLICY.md Responsible-Use-Guide.pdf 
 	mkdir 7B
+	cd ..
 
 
 下载回来的repo是26G，删除隐藏文件后，变成13G。
