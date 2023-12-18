@@ -44,7 +44,7 @@ GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用�
 原始的模型，很多情况厂商并不会提供GGUF,GPTQ,AWQ格式。TheBloke对厂商的大模型进行了这种压缩转换，让用户更加方便来测试大模型。
 
 
-# 部署过程
+# 配置环境
 
 ## 查看显卡
 
@@ -56,7 +56,8 @@ GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用�
 
 由于大模型的迅速发展，各个包的依赖，版本都会发生变化，如果出错，就根据错误提示，调整一下就可以。
 	
-## 初始化 Hugging Face Pipeline
+# 初始化 Hugging Face Pipeline
+
 
 
 	from torch import cuda, bfloat16
