@@ -10,6 +10,8 @@ tags:
     - AI
 ---
 
+# Colab
+
 Google 提供的colab实在是太方便了。免费用户，可以使用T4的GPU，通过这个基本可以完成很多实验。这次 LLaMA 2.0（大模型）, FAISS（向量数据库） and LangChain（链） 来实现一个最问答系统的demo。这次实验是通过notebook来完成，把整个操作的过程都记录下来。
 
 [Using LLaMA 2.0, FAISS and LangChain for Question-Answering on Your Own Data](https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476)
@@ -37,9 +39,9 @@ TheBloke，一个大模型的开发者（真名是：Tom Jobbins），他对各�
 
 GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用更少的资源，CPU和内存进行运行。
 
-每种的压缩，后来都是不同的算法，算法优秀，压缩比更高，同时表现更好。目前GGML的算法已经被GGUF淘汰。
+每种的压缩，后来都是不同的算法，算法优秀，压缩比更高，同时损失最小。目前GGML的压缩格式，已经淘汰，由GGUF来替代。
 
-原始的模型，很多情况并不会提供GGUF,GPTQ,AWQ格式。TheBloke对厂商的大模型进行了这种压缩转换，让用户更加方便来测试大模型。
+原始的模型，很多情况厂商并不会提供GGUF,GPTQ,AWQ格式。TheBloke对厂商的大模型进行了这种压缩转换，让用户更加方便来测试大模型。
 
 
 # 部署过程
@@ -175,7 +177,7 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 	llm(prompt="Explain me the difference between Data Lakehouse and Data Warehouse.")
 
 
-# Ingesting Data using Document Loader
+## Ingesting Data using Document Loader
 
 	from langchain.document_loaders import WebBaseLoader
 
@@ -184,7 +186,7 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 	loader = WebBaseLoader(web_links)
 	documents = loader.load()
 
-# Splitting in Chunks using Text Splitters
+## Splitting in Chunks using Text Splitters
 
 
 	from langchain.text_splitter import RecursiveCharacterTextSplitter
