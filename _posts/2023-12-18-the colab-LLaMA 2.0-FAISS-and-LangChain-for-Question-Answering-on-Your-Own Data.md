@@ -56,7 +56,8 @@ GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用�
 
 由于大模型的迅速发展，各个包的依赖，版本都会发生变化，如果出错，就根据错误提示，调整一下就可以。
 	
-# 初始化 Hugging Face Pipeline
+
+# Hugging Face Pipeline
 
 
 
@@ -166,7 +167,7 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 	print(res[0]["generated_text"])
 
 
-# Implementing HF Pipeline in LangChain
+# HF Pipeline in LangChain
 
 
 
