@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      LLama2-7B Models Format Convert 
-subtitle:   Models Format HF GGUF GPTQ 
+title:      LLama2-7B Models Quantization Method 
+subtitle:   Quantization Method GGUF GPTQ 
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
