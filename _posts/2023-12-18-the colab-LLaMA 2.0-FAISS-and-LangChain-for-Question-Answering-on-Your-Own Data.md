@@ -78,7 +78,7 @@ GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用�
 	)
 
 	# begin initializing HF items, you need an access token
-	# hf_auth = <font color='red'>'hf_SFVATnoGtfsnyyZVwbSLyKTXR'</font>
+	# hf_auth = 'hf_SFVATnoGtfsyyZVwbSLyKTXR'
 	hf_auth = '<add your access token here>'
 	model_config = transformers.AutoConfig.from_pretrained(
 		model_id,
@@ -100,7 +100,8 @@ GGML,GGUF,GPTQ,AWQ，都是针对大模型进行压缩和优化，让他使用�
 	print(f"Model loaded on {device}")
 
 
-只需要把huggingface上你自己的token填上就可以。meta-llama/Llama-2-7b-chat-hf就会下载。
+只需要把**hf_auth **填上Huggingface个人账号Token。
+**Settings** ->**Access Token**,创建一个**只读Token** 
 
 
 ## tokenizer
@@ -252,12 +253,12 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 
 # 备注
 
-## 进入目录
+**进入目录**
 
 	%cd /content/text-generation-webui
 	!echo "dark_theme: true" > /content/settings.yaml
 	
-## login
+**login**
 
 	!pip install transformers torch accelerate
 
@@ -265,17 +266,17 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 
 	!huggingface-cli whoami
 
-## lfs 
+**lfs **
 
 git lfs install
 git clone https://huggingface.co/meta-llama/Llama-2-7b
 
 
-## 查看显卡
+**查看显卡**
 
 !nvidia-smi
 
-## pip
+**pip**
 
 	!pip install -Uqqq pip
 	!pip install -qqq bitsandbytes==0.40.0
@@ -288,17 +289,17 @@ git clone https://huggingface.co/meta-llama/Llama-2-7b
 	!pip install -qqq sentencepiece==0.1.99
 
 
-## improt
+**improt**
 
 	import torch
 	from huggingface_hub import notebook_login
 	from transformers import GenerationConfig, LlamaForCausalLM, LlamaTokenizer
 
-## login notebook
+**login notebook**
 
 	notebook_login()
 
-## 模型名字
+**模型名字**
 
 	MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"
 	tokenizer = LlamaTokenizer.from_pretrained(MODEL_NAME)
