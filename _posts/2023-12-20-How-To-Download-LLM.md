@@ -31,7 +31,11 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 国外的网速和阿里云内部的网速是差不多的。一个100G 的大模型，无论下载和上传，都不是一件容易的事情，对基础设施，真的是一个很大的考验。
 
-下面就使用Llama-2-7b这个大模型做例子。
+下面就使用Llama-2-7b这个大模型做例子。下面的colab代码，基本都是参考[huggingface-China](https://github.com/playmobil/huggingface-China)
+
+感谢作者的分享，在调整过程中，确实是学到不少东西。
+
+[我的Colab](https://github.com/shake/LargeLanguageModelsProjects/blob/main/Colab_download_LLM_and_upload_to_aliyunpan.ipynb)
 
 # Colab
 
