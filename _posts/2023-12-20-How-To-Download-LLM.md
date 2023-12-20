@@ -205,7 +205,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 把模型上传到模型库，可以用git或SDK。
 
-## 模型库创建
+## 创建新模型
 
 首先需要在ModelScope模型库，创建一个新的模型
 
@@ -233,16 +233,13 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 ![md5](/img/2023/colab/md5.jpg "md5")
 
 
-创建一个**upload_LLM.py** 文件。
-
-	# 本地模型目录，要求目录中必须包含configuration.json
+	# 记得替换token
 	from modelscope.hub.api import HubApi
-	YOUR_ACCESS_TOKEN = '请从ModelScope--首页->访问令牌'
-
+	YOUR_ACCESS_TOKEN = 'f368c21f-2ade-4ac0-876f-8bfb5d'
 	api = HubApi()
 	api.login(YOUR_ACCESS_TOKEN)
 	api.push_model(
-		model_id="yourname/your_model_id", 
-		model_dir="my_model_dir" 
+		model_id="shakechen/Llama-2-7b", 
+		model_dir="/mnt/huggingface/meta-llama---Llama-2-7b" 
 	)
 
