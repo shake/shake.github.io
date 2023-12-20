@@ -39,7 +39,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 感谢作者的分享，在调整过程中，确实是学到不少东西。
 
-[我的Colab](https://github.com/shake/LargeLanguageModelsProjects/blob/main/Colab_download_LLM_and_upload_to_aliyunpan.ipynb)
+[我的第一个Colab](https://github.com/shake/LargeLanguageModelsProjects/blob/main/Colab_download_LLM_and_upload_to_aliyunpan.ipynb)
 
 # Colab
 
