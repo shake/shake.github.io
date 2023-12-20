@@ -167,3 +167,32 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	ali.upload_folder(out_path)
 	
 ![yunpan](/img/2023/colab/yunpan.jpg "yunpan")
+
+# ModelScope虚拟机
+
+登录ModelScope社区，启动虚拟机。
+
+![md](/img/2023/colab/md.jpg "md")
+
+登录虚拟机，可以用终端，也是可以通过notebook，就是比较难用，这次我还尽量在notebook来完成操作。
+
+[阿里云盘操作手册](https://github.com/tickstep/aliyunpan/blob/main/docs/manual.md)
+
+通过阿里云盘CLI，实现大模型下载。
+
+	# 安装阿里云盘linux客户端
+	!curl -fsSL http://file.tickstep.com/apt/pgp | gpg --dearmor | tee /etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg > /dev/null && echo "deb [signed-by=/etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg arch=amd64,arm64] http://file.tickstep.com/apt aliyunpan main" | tee /etc/apt/sources.list.d/tickstep-aliyunpan.list > /dev/null && apt-get update && apt-get install -y aliyunpan
+
+	# CLI通过RefreshToken登录
+	aliyunpan login -RefreshToken=<网盘的RefreshToken，上面上传网盘使用的那个RefreshToken>
+
+	# 设置下载存储路径
+	!aliyunpan config set -savedir /mnt
+
+	# 查看云盘根目录
+	!aliyunpan ls
+
+	# 下载云盘大模型
+	!aliyunpan download meta-llama---Llama-2-7b
+
+
