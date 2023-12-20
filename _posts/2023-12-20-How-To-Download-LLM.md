@@ -160,7 +160,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	ll
 
 
-## 上传大模型到阿里网盘
+## 上传模型到阿里网盘
 
 	# 无法指定文件夹上传，只能传到根目录下，估计是cli的bug
 	remote_folder = ali.get_folder_by_path()
@@ -182,11 +182,11 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 通过阿里云盘CLI，实现大模型下载。
 
-	# 安装阿里云盘linux客户端
+	# 云盘linux客户端
 	!curl -fsSL http://file.tickstep.com/apt/pgp | gpg --dearmor | tee /etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg > /dev/null && echo "deb [signed-by=/etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg arch=amd64,arm64] http://file.tickstep.com/apt aliyunpan main" | tee /etc/apt/sources.list.d/tickstep-aliyunpan.list > /dev/null && apt-get update && apt-get install -y aliyunpan
 
 	# CLI通过RefreshToken登录
-	!aliyunpan login -RefreshToken=<网盘的RefreshToken，上面上传网盘使用的那个RefreshToken>
+	!aliyunpan login -RefreshToken=<网盘的RefreshToken，上传网盘使用的那个RefreshToken>
 
 	# 设置下载存储路径
 	!aliyunpan config set -savedir /mnt
@@ -200,6 +200,12 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	# 查看下载结果
 	!du -sh /mnt
 	!ls -lsh /mnt
+	
+由于云盘CLI,会对目录生成一串数字，目录下，才是模型
+
+	# 一串数字改成huggingface
+	!mv 127d6e7249c548cbb773138c67178ea2 huggingface
+
 
 # ModelScope 模型库
 
@@ -243,3 +249,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 		model_dir="/mnt/huggingface/meta-llama---Llama-2-7b" 
 	)
 
+大概10分钟，就上传完毕。可以在模型文件下看到上传的文件。
+
+目前模型文件只有2个文件
+![md6](/img/2023/colab/md6.jpg "md6")
