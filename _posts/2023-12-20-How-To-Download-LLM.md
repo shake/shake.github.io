@@ -231,8 +231,10 @@ notebook包括模型的下载和上传到ModelScope模型库
 
 ## 模型上传
 
-[ModelScope 模型下载](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD)
-[ModelScope模型上传](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8A%E4%BC%A0)
+**参考文档**
+
+* [ModelScope 模型下载](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD)
+* [ModelScope模型上传](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8A%E4%BC%A0)
 
 ### Python SDK上传模型
 
