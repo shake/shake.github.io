@@ -38,18 +38,18 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	# 安装需要的包
 	!pip install gradio huggingface_hub aligo
 
+	# import
+	import os
+	import shutil
+	import huggingface_hub as hh
+	import pandas as pd
+	
 	#下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。
 	hf_auth = '<add your access token here>'
 
 	# 下载模型，设置huggingface的repo_id
 	repo_id = "meta-llama/Llama-2-7b"
 	repo_name = repo_id.replace("/","---")
-
-	# import
-	import os
-	import shutil
-	import huggingface_hub as hh
-	import pandas as pd
 
 	# 定义容量显示和下载路径
 
