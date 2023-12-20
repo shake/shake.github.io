@@ -98,6 +98,9 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 		out_path = f"./download/{repo_name}"
 		return out_path
 
+
+登录huggingface cli截图
+
 ![HuggingFace](/img/2023/colab/hf-cli.jpg "HuggingFace")
 
 
@@ -242,8 +245,9 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 ![md5](/img/2023/colab/md5.jpg "md5")
 
+上传
 
-	# 记得替换token
+	# 记得替换ModelScope token
 	from modelscope.hub.api import HubApi
 	YOUR_ACCESS_TOKEN = 'f368c21f-2ade-4ac0-876f-8bfb5d'
 	api = HubApi()
