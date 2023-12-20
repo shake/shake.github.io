@@ -212,8 +212,10 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	!mv 127d6e7249c548cbb773138c67178ea2 huggingface
 
 ModelScope要求模型上传必须包含**configuration.json** 文件，所以专门在repo里创建一个空文件。
+
 	# 创建一个空文件，满足repo上传ModelScope要求
 	!touch ./huggingface/meta-llama---Llama-2-7b/configuration.json
+
 
 # ModelScope 模型库
 
@@ -267,6 +269,6 @@ ModelScope要求模型上传必须包含**configuration.json** 文件，所以�
 
 大概10分钟，就上传完毕。可以在模型文件下看到上传的文件。
 
-如果你对比HuggingFace的repo的文件，你会发现文件的大小有差异，这个是因为HuggingFace每G是1000M，不是1024M导致的。整个过程，就多了一个**configuration.json** 空文件。
+对比HuggingFace的repo的文件，会发现文件的大小有差异，这个是因为HuggingFace按G是1000M，不是1024M导致的。整个过程，就多了一个**configuration.json** 空文件。
 
 ![md6](/img/2023/colab/md6.jpg "md6")
