@@ -10,7 +10,7 @@ tags:
     - AI
 ---
 
-下载大模型，都是通过huggingface。以前Llama 2的下载，必须通过Meta才能下载，现在你通过了Meta申请通过后，已经不需要去Meta使用代码来下载，可以在huggingface进行下载。直接使用Meta的代码去Meta官方下载，国内是很容易中断，导致无法下载。
+下载大模型，都是通过huggingface。以前Llama 2的下载，必须通过Meta才能下载，直接使用Meta的代码去Meta官方下载，国内是很容易中断，导致无法下载。现在你通过了Meta申请通过后，可以直接在huggingface进行下载。
 
 ![meta](/img/2023/colab/meta.jpg "meta")
 
