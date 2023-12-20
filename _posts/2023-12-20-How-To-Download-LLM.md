@@ -18,13 +18,13 @@ tags:
 
 国内从HuggingFace 下载大模型，也不容易，目前国内已经是无法直接访问HuggingFace。各种的mirror，代理，其实都很难保证你成功下载。
 
-我需要把下载的大模型，放到阿里的ModelScope模型库，方便我使用ModelScope提供的虚拟机学习大模型。
+我需要把下载的大模型，放到阿里的ModelScope模型库，方便我使用ModelScope提供的虚拟机进行大模型微调。
 
 没有太好的一步到位的办法，只能通过中转多次，才上传到ModelScope的模型库
 
 HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型库
 
-本来最简单的方式，应该是Colab下载完成后，直接上传到ModelScope模型库，这个是没问题的，通过ModelScope API 是可以实现，就是速度太慢，缺少网盘秒传的功能。
+本来最简单的方式，应该是Colab下载完成后，直接上传到ModelScope模型库，这个是没问题的。通过ModelScope API 是可以实现，就是速度太慢，缺少网盘秒传的功能，只能放弃。
 
 采用这个方案的优势
 
