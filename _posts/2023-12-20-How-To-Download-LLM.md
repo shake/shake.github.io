@@ -168,7 +168,9 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	
 ![yunpan](/img/2023/colab/yunpan.jpg "yunpan")
 
-# ModelScope虚拟机
+# 虚拟机
+
+[notebook](https://github.com/shake/LargeLanguageModelsProjects/blob/main/alipan_download.ipynb)
 
 登录ModelScope社区，启动虚拟机。
 
@@ -184,7 +186,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	!curl -fsSL http://file.tickstep.com/apt/pgp | gpg --dearmor | tee /etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg > /dev/null && echo "deb [signed-by=/etc/apt/trusted.gpg.d/tickstep-packages-archive-keyring.gpg arch=amd64,arm64] http://file.tickstep.com/apt aliyunpan main" | tee /etc/apt/sources.list.d/tickstep-aliyunpan.list > /dev/null && apt-get update && apt-get install -y aliyunpan
 
 	# CLI通过RefreshToken登录
-	aliyunpan login -RefreshToken=<网盘的RefreshToken，上面上传网盘使用的那个RefreshToken>
+	!aliyunpan login -RefreshToken=<网盘的RefreshToken，上面上传网盘使用的那个RefreshToken>
 
 	# 设置下载存储路径
 	!aliyunpan config set -savedir /mnt
@@ -194,5 +196,53 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 	# 下载云盘大模型
 	!aliyunpan download meta-llama---Llama-2-7b
+	
+	# 查看下载结果
+	!du -sh /mnt
+	!ls -lsh /mnt
 
+# ModelScope 模型库
+
+把模型上传到模型库，可以用git或SDK。
+
+## 模型库创建
+
+首先需要在ModelScope模型库，创建一个新的模型
+
+![models](/img/2023/colab/mdels.jpg "models")
+
+顺便把从huggingface相应的模型下载REDME，直接上传就可以，这样就有模型的介绍。
+
+![md2](/img/2023/colab/md2.jpg "md2")
+
+进入创建的模型
+![md3](/img/2023/colab/md3.jpg "md3")
+
+目前模型文件只有2个文件
+![md4](/img/2023/colab/md4.jpg "md4")
+
+## 模型上传
+
+[ModelScope 模型下载](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD)
+[ModelScope模型上传](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8A%E4%BC%A0)
+
+### Python SDK上传模型
+
+获取令牌
+
+![md5](/img/2023/colab/md5.jpg "md5")
+
+
+创建一个**upload_LLM.py** 文件。
+
+	# 本地模型目录，要求目录中必须包含configuration.json
+	from modelscope.hub.api import HubApi
+	YOUR_ACCESS_TOKEN = '请从ModelScope--首页->访问令牌'
+
+	api = HubApi()
+	api.login(YOUR_ACCESS_TOKEN)
+	api.push_model(
+		model_id="yourname/your_model_id", 
+		model_dir="my_model_dir" 
+	)
 
