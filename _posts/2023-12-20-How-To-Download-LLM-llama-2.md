@@ -206,11 +206,14 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	!du -sh /mnt
 	!ls -lsh /mnt
 	
-由于云盘CLI,会对目录生成一串数字，目录下，才是模型
+云盘CLI,会对目录生成一串数字，目录下，才是模型
 
 	# 一串数字改成huggingface
 	!mv 127d6e7249c548cbb773138c67178ea2 huggingface
 
+ModelScope要求模型上传必须包含**configuration.json** 文件，所以专门在repo里创建一个空文件。
+	# 创建一个空文件，满足repo上传ModelScope要求
+	!touch ./huggingface/meta-llama---Llama-2-7b/configuration.json
 
 # ModelScope 模型库
 
@@ -232,12 +235,16 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 目前模型文件只有2个文件
 ![md4](/img/2023/colab/md4.jpg "md4")
 
+
+
 ## 模型上传
 
 **参考文档**
 
 * [ModelScope 模型下载](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8B%E8%BD%BD)
 * [ModelScope模型上传](https://modelscope.cn/docs/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%8A%E4%BC%A0)
+
+
 
 ### Python SDK上传模型
 
@@ -258,5 +265,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	)
 
 大概10分钟，就上传完毕。可以在模型文件下看到上传的文件。
+
+如果你对比HuggingFace的repo的文件，你会发现文件的大小有差异，这个是因为HuggingFace每G是1000M，不是1024M导致的。整个过程，因为阿里必须repo包含一个
 
 ![md6](/img/2023/colab/md6.jpg "md6")
