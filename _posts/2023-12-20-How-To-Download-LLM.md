@@ -126,6 +126,12 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 ## 获取网盘refresh_token
 
+打开Chrome，登录阿里网盘。
+
+![dev-tool](/img/2023/colab/dev-tool.jpg "dev-tool")
+
+找到**应用** 标签：
+
 ![refresh_token](/img/2023/colab/refresh.jpg "refresh_token")
 
 ## 环境配置
