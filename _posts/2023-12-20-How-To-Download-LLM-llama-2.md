@@ -229,9 +229,8 @@ ModelScope要求模型上传必须包含**configuration.json** 文件，所以�
 
 顺便把从huggingface相应的模型下载REDME，直接上传就可以，这样就有模型的介绍。
 
-![md2](/img/2023/colab/md2.jpg "md2")
-
 进入创建的模型
+
 ![md3](/img/2023/colab/md3.jpg "md3")
 
 目前模型文件只有2个文件
