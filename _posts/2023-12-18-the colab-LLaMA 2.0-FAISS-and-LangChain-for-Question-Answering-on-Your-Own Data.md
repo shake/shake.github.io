@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LLaMA2 FAISS LangChain for Question-Answering
+title:      LLaMA2 FAISS LangChain for QA
 subtitle:   Colab Deploy LLaMA 2.0, FAISS and LangChain
 date:       2023-12-18
 author:     shake
@@ -266,7 +266,9 @@ The pipeline requires a tokenizer which handles the translation of human readabl
 
 	!huggingface-cli whoami
 
+
 **lfs **
+
 
 git lfs install
 git clone https://huggingface.co/meta-llama/Llama-2-7b
@@ -274,7 +276,7 @@ git clone https://huggingface.co/meta-llama/Llama-2-7b
 
 **查看显卡**
 
-!nvidia-smi
+	!nvidia-smi
 
 **pip**
 
