@@ -44,10 +44,12 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	import huggingface_hub as hh
 	import pandas as pd
 	
-	# 下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。有一个方框，输入token。
+	# 下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。
+	#有一个方框，输入token。
 	!huggingface-cli login
 
-	# 下载模型，设置huggingface的repo_id，更换不同的模型，只需要在这个地方设置就可以。后面内容不需要调整。
+	# 下载模型，设置huggingface的repo_id，更换不同的模型，
+	# 只需要在这个地方设置就可以。后面内容不需要调整。
 	repo_id = "meta-llama/Llama-2-7b"
 	repo_name = repo_id.replace("/","---")
 
