@@ -31,7 +31,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 * colab下载大模型速度快，大约5分钟。
 * 阿里云盘上传快，因为网盘秒传特性，多大的模型基本都是3分钟。
 * 网盘的CLI，可以快速下载到阿里的虚拟机上，大约5-10分钟。
-* 内网Git上传大模型到ModelScope模型库，速度保证，大约5-10分钟。
+* 内网Git或Python SDK上传大模型到ModelScope模型库，速度保证，大约10分钟。
 
 国外的网速和阿里云内部的网速是差不多的。一个100G 的大模型，无论下载和上传，都不是一件容易的事情，对基础设施，真的是一个很大的考验。尤其大模型的微调，就类似开发的CI过程，对git仓库是一个考验。
 
@@ -217,7 +217,7 @@ notebook包括模型的下载和上传到ModelScope模型库
 
 首先需要在ModelScope模型库，创建一个新的模型
 
-![models](/img/2023/colab/mdels.jpg "models")
+![md7](/img/2023/colab/md7.jpg "md7")
 
 顺便把从huggingface相应的模型下载REDME，直接上传就可以，这样就有模型的介绍。
 
