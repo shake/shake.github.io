@@ -118,16 +118,23 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	!du -sh $path
 	!ls -lsh $path
 
+![路径](/img/2023/colab/download.jpg "路径")
 
 # 阿里云盘
 
 这个地方，最麻烦的就是拿到云盘的refresh_token。
 
+## 获取网盘refresh_token
+
 ![refresh_token](/img/2023/colab/refresh.jpg "refresh_token")
+
+## 环境配置
+
+下面的操作，其实都是在Colab上进行。
 
 	# 填上token
 	from aligo import Aligo
-	refresh_token = "33bf1ec81ada651"
+	refresh_token = "自己的token"
 	ali = Aligo(refresh_token=refresh_token)
 
 	# 获取用户信息和获取网盘根目录文件列表
@@ -137,7 +144,8 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	ll
 
 
-## 上传大模型到网盘
-	# 无法指定文件夹上传，只能传到根目录下，估计是cli的bug。
+## 上传大模型到阿里网盘
+
+	# 无法指定文件夹上传，只能传到根目录下，估计是cli的bug
 	remote_folder = ali.get_folder_by_path()
 	ali.upload_folder(out_path)
