@@ -165,3 +165,5 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	# 无法指定文件夹上传，只能传到根目录下，估计是cli的bug
 	remote_folder = ali.get_folder_by_path()
 	ali.upload_folder(out_path)
+	
+![yunpan](/img/2023/colab/yunpan.jpg "yunpan")
