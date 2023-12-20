@@ -172,7 +172,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 登录ModelScope社区，启动虚拟机。
 
-![md](/img/2023/colab/md.jpg "md")
+![md](/img/2023/colab/md-1.jpg "md")
 
 登录虚拟机，可以用终端，也是可以通过notebook，就是比较难用，这次我还尽量在notebook来完成操作。
 
