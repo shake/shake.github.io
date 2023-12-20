@@ -170,7 +170,9 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 # 虚拟机
 
-[notebook](https://github.com/shake/LargeLanguageModelsProjects/blob/main/alipan_download.ipynb)
+notebook包括模型的下载和上传到ModelScope模型库
+
+[notebook](https://github.com/shake/LargeLanguageModelsProjects/blob/main/alipan_download_and_upload_ModelScope.ipynb)
 
 登录ModelScope社区，启动虚拟机。
 
