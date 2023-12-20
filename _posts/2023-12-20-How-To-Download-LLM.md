@@ -102,7 +102,16 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 ## 查看模型下载结果
 
 	# 查看模型的大小和文件
-	!du -sh ./download/repo_name
-	!ls -l ./download/repo_name
+
+	import os.path
+	from pathlib import Path
+	path ="/content/download/"
+	path=os.path.join(path, repo_name)
+	print(path)
+	
+	查看模型大小
+	!du -sh $path
+	!ls -lsh $path
+
 
 
