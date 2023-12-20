@@ -254,7 +254,8 @@ ModelScope要求模型上传必须包含**configuration.json** 文件，所以�
 
 上传
 
-	# 记得替换ModelScope token
+	# 记得替换ModelScope token，
+	# repo必须包含一个configuration.json文件
 	from modelscope.hub.api import HubApi
 	YOUR_ACCESS_TOKEN = 'f368c21f-2ade-4ac0-876f-8bfb5d'
 	api = HubApi()
@@ -266,6 +267,6 @@ ModelScope要求模型上传必须包含**configuration.json** 文件，所以�
 
 大概10分钟，就上传完毕。可以在模型文件下看到上传的文件。
 
-如果你对比HuggingFace的repo的文件，你会发现文件的大小有差异，这个是因为HuggingFace每G是1000M，不是1024M导致的。整个过程，因为阿里必须repo包含一个
+如果你对比HuggingFace的repo的文件，你会发现文件的大小有差异，这个是因为HuggingFace每G是1000M，不是1024M导致的。整个过程，就多了一个**configuration.json** 空文件。
 
 ![md6](/img/2023/colab/md6.jpg "md6")
