@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How To Download LLM Llama 2
-subtitle:   国内高效下载大模型
+subtitle:   国内高效下载HuggingFace大模型
 date:       2023-12-20
 author:     shake
 header-img: img/post-bg-2015.jpg
