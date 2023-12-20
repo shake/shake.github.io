@@ -22,7 +22,7 @@ tags:
 
 没有太好的一步到位的办法，只能通过中转多次，才上传到ModelScope的模型库
 
-HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型库
+HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模型库
 
 本来最简单的方式，应该是Colab下载完成后，直接上传到ModelScope模型库，这个是没问题的。通过ModelScope API 是可以实现，就是速度太慢，缺少网盘秒传的功能，只能放弃。
 
@@ -171,7 +171,7 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	
 ![yunpan](/img/2023/colab/yunpan.jpg "yunpan")
 
-# 虚拟机
+# ModelScope虚拟机
 
 我的所有操作，都记录在notebook。包括模型的下载和上传到ModelScope模型库
 
@@ -217,7 +217,7 @@ ModelScope要求模型上传必须包含**configuration.json** 文件，所以�
 	!touch ./huggingface/meta-llama---Llama-2-7b/configuration.json
 
 
-# ModelScope 模型库
+# ModelScope模型库
 
 把模型上传到模型库，可以用git或SDK。
 
