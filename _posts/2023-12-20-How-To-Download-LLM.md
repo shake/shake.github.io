@@ -44,8 +44,8 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 	import huggingface_hub as hh
 	import pandas as pd
 	
-	#下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。
-	hf_auth = '<add your access token here>'
+	# 下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。
+	!huggingface-cli login
 
 	# 下载模型，设置huggingface的repo_id
 	repo_id = "meta-llama/Llama-2-7b"
@@ -90,15 +90,18 @@ HuggingFace --> Colab --> 阿里云盘 --> 魔搭虚拟机--> ModelScope模型�
 
 ## 查看模型文件大小
 
+	# 查看模型的文件
 	data, filenames = list_repo_files_info(repo_id)
 	filenames
 
 ## 下载模型
 
+	# 开始下载模型
 	out_path = download_file(repo_id,filenames)
 	
 ## 查看模型下载结果
 
+	# 查看模型的大小和文件
 	!du -sh ./download/repo_name
 	!ls -l ./download/repo_name
 
