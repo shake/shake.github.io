@@ -39,7 +39,7 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 
 感谢作者的分享，在调整过程中，确实是学到不少东西。
 
-[我的第一个Colab](https://colab.research.google.com/drive/1wEcpKc2xkeP73Z5LHQjpppixv5Cqn0zt?usp=sharing)
+[colab](https://github.com/shake/LargeLanguageModelsProjects/blob/main/colab_download_lama2_13b_upload_to_alipan.ipynb)
 
 这个colab，已经很完美。大家体验一下。我是提前把注释和代码填上，包括token，确认没有问题，再逐步运行，还可以选择：**runtime-->run all** 全部运行,比脚本运行还爽，提前把token填好，整个过程已经是无需交互。
 
@@ -163,7 +163,7 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 ## 上传模型到阿里网盘
 
 	# 无法指定文件夹上传，只能传到根目录下，估计是cli的bug
-	remote_folder = ali.get_folder_by_path()
+	remote_folder = ali.get_folder_by_path(out_path, create_folder=True)
 	ali.upload_folder(out_path)
 	
 ![yunpan](/img/2023/colab/yunpan.jpg "yunpan")
