@@ -39,7 +39,9 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 
 感谢作者的分享，在调整过程中，确实是学到不少东西。
 
-[我的第一个Colab](https://github.com/shake/LargeLanguageModelsProjects/blob/main/Colab_download_LLM_and_upload_to_aliyunpan.ipynb)
+[我的第一个Colab](https://colab.research.google.com/drive/1wEcpKc2xkeP73Z5LHQjpppixv5Cqn0zt?usp=sharing)
+
+这个colab，已经很完美。大家体验一下。我是提前把注释和代码填上，包括token，确认没有问题，再逐步运行，还可以选择：**runtime-->run all** 全部运行,比脚本运行还爽，提前把token填好，整个过程已经是无需交互。
 
 # Colab
 
@@ -53,8 +55,7 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 	import pandas as pd
 	
 	# 下载llama 2，需要使用HuggingFace的token通过验证才能下载，其他模型，这一步可以省掉。
-	# 有一个方框，输入token。
-	!huggingface-cli login
+	!huggingface-cli login --token hf_ziljuWSLzXXrlDvrUuB
 
 	# 下载模型，设置huggingface的repo_id，更换不同的模型，
 	# 只需要在repo_id设置就可以。其他地方无需调整。
@@ -99,9 +100,6 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 		return out_path
 
 
-登录huggingface cli截图
-
-![HuggingFace](/img/2023/colab/hf-cli.jpg "HuggingFace")
 
 
 ## 查看模型文件大小
@@ -125,7 +123,6 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 	path=os.path.join(path, repo_name)
 	print(path)
 	
-	查看模型大小
 	!du -sh $path
 	!ls -lsh $path
 
@@ -151,7 +148,7 @@ HuggingFace --> Colab --> 阿里云盘 --> ModelScope虚拟机--> ModelScope模�
 
 下面的操作，其实都是在Colab上进行。
 
-	# 填上token
+	# 上传阿里云盘，填上token
 	from aligo import Aligo
 	refresh_token = "自己的token"
 	ali = Aligo(refresh_token=refresh_token)
