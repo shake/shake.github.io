@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      LLama2-7B Models Quantization Method 
-subtitle:   Quantization Method GGUF GPTQ 
+subtitle:   Quantization Method GGUF GPTQ AWQ
 date:       2023-12-13
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -20,8 +20,11 @@ tags:
 * **原始格式LLama ->转为huggingface（HF）格式**
 * **huggingface格式（HF） ->转为GGUF格式**
 * **huggingface格式（HF） ->转为GPTQ格式**
+* **huggingface格式（HF） ->转为AWQ格式**
 
 原始格式LLama转换HF格式，是没有精度的损失，转换成GGUF和GPTQ，你可以设置参数，降低精度，缩小模型。
+
+GGUF,GPTQ,AWQ 我都在colab上实现量化，GPTQ和AWQ对GPU的要求还是很高，需要至少24G的显存。
 
 # HF转换
 
@@ -31,15 +34,11 @@ tags:
 
 原始模型，官方下载回来的文件包括：
 
-![llama-7B](/img/2023/modelscope/llama-7B.jpg "llama-7B")
 
-你需要增加最后的两个文件，同时创建一个空目录**7B**，才能顺利转换为Hugging Face Transformers支持的格式:
-
-![llama-7B](/img/2023/modelscope/llama-7B-add.jpg "llama-7B")
 
 如果你无法从官网下载Llama-2-7b的模型，可以参考,git clone ，删除多余的文件,我的实验也是使用这个repo来完成。
 
-	git clone https://www.modelscope.cn/angelala00/Llama-2-7b.git
+	git clone https://www.modelscope.cn/chenshake/Llama-2-7b.git
 
 下载完成后，需要删除没必要的文件
 
@@ -90,11 +89,6 @@ Cuda的版本为11.8.
 	pip install sentencepiece protobuf accelerate
 
 
-## 创建输出目录
-
-在**Llama-2-7b** 同级的目录下，创建空目录**Llama-2-7b-hf**
-
-![目录结构](/img/2023/modelscope/dir.jpg "目录结构")
 
 ## 进行转换
 
@@ -108,7 +102,7 @@ Cuda的版本为11.8.
 
 ![llama-7B-hf](/img/2023/modelscope/hf.jpg "llama-7B-hf")
 
-# HF  to GGUF
+# HF to GGUF Quantization
 
 GGUF格式，表示这个模型只支持CPU
 
@@ -116,7 +110,7 @@ GGUF格式，表示这个模型只支持CPU
 	pip install -r llama.cpp/requirements.txt
 	python llama.cpp/convert.py -h
 
-进行转换
+**进行转换**
 
 	python llama.cpp/convert.py  Llama-2-7b-hf --outfile llama-2-7b-Q8_0.gguf --outtype q8_0
 	
@@ -131,7 +125,7 @@ outtype的选项有： 'f32', 'f16', 'q8_0'
 [How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
 
 
-# HF to GPTQ（有问题）
+# HF to GPTQ Quantization
 
 GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进行转换。
 
@@ -143,9 +137,10 @@ GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进
 
 在Llama-2-7b ,Llama-2-7b-hf,同级的目录下,建立目录**Llama-2-7b-gptq**
 
-创建一个文件**quant_autogptq.py**
+下载一个文件**quant_autogptq.py**
 
-[quant_autogptq.py](https://gist.github.com/TheBloke/b47c50a70dd4fe653f64a12928286682#file-quant_autogptq-py)
+	!wget https://gist.githubusercontent.com/TheBloke/b47c50a70dd4fe653f64a12928286682/raw/ebcee019d90a178ee2e6a8107fdd7602c8f1192a/quant_autogptq.py
+
 
 最终你看到的目录
 
@@ -168,32 +163,77 @@ GPTQ格式，就是支持GPU。必须有GPU的虚拟机，装上Cuda，才能进
 
 use the **wikitext dataset** for quantisation，If your model is trained on something more specific, like code, or non-English language, then you may want to change to a different dataset. Doing that would require editing **quant_autogptq.py** to load an alternative dataset.
 
-出现错误，应该是网络的原因，这个暂时无法解决。
+对于GPTQ的量化，需要用到dataset，看材料，你使用不同的Dataset的最后量化的效果可能是不一样。
 
-	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# python3 quant_autogptq.py ./Llama-2-7b-hf ./llama-2-7b-gptq wikitext --bits 4 --group_size 128 --desc_act 0 --damp 0.1 --dtype float16 --seqlen 4096 --num_samples 128 --use_fast
-	2023-12-14 19:27:17 INFO [__main__] Loading tokenizer
-	^FTraceback (most recent call last):
-	  File "/mnt/quant_autogptq.py", line 231, in <module>
-		quantizer.run_quantization()
-	  File "/mnt/quant_autogptq.py", line 134, in run_quantization
-		traindataset = self.get_wikitext2()
-					   ^^^^^^^^^^^^^^^^^^^^
-	  File "/mnt/quant_autogptq.py", line 50, in get_wikitext2
-		wikidata = load_dataset('wikitext', 'wikitext-2-raw-v1', split='test')
-				   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 2128, in load_dataset
-		builder_instance = load_dataset_builder(
-						   ^^^^^^^^^^^^^^^^^^^^^
-	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1814, in load_dataset_builder
-		dataset_module = dataset_module_factory(
-						 ^^^^^^^^^^^^^^^^^^^^^^^
-	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1511, in dataset_module_factory
-		raise e1 from None
-	  File "/opt/conda/envs/shake/lib/python3.11/site-packages/datasets/load.py", line 1467, in dataset_module_factory
-		raise ConnectionError(f"Couldn't reach '{path}' on the Hub ({type(e).__name__})")
-	ConnectionError: Couldn't reach 'wikitext' on the Hub (ConnectionError)
-	(shake) root@eais-bjrs3yp8aak1upawsmjg-54f5dcbfbc-tvpsm:/mnt# 
-
+在国内由于无法连接huggingface的Dataset，导致无法转换成功，利用Colab，我已经转换成功。说明过程是没问题的。
 
 [How to convert HuggingFace model to GGPTQ format](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ/discussions/26)
 
+# HF to AWQ Quantization
+
+这是最新的一种Quantization方法，效果最好。
+
+[github](https://github.com/casper-hansen/AutoAWQ)
+
+有Quantization详细说明
+
+**autoawq**
+
+	!pip install -q  autoawq
+
+**量化**
+
+	from awq import AutoAWQForCausalLM
+	from transformers import AutoTokenizer
+
+	model_path = 'meta-llama/Llama-2-7b-hf'
+	quant_path = 'Llama-2-7b-awq'
+	quant_config = { "zero_point": True, "q_group_size": 128, "w_bit": 4, "version": "GEMM" }
+
+	# Load model
+	model = AutoAWQForCausalLM.from_pretrained(model_path)
+	tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
+
+	# Quantize
+	model.quantize(tokenizer, quant_config=quant_config)
+
+	# Save quantized model
+	model.save_quantized(quant_path)
+	tokenizer.save_pretrained(quant_path)
+
+
+**检查**
+
+	quant_config
+	
+**compatible with transformers**
+
+
+	from transformers import AwqConfig, AutoConfig
+	from huggingface_hub import HfApi
+
+	# modify the config file so that it is compatible with transformers integration
+	quantization_config = AwqConfig(
+		bits=quant_config["w_bit"],
+		group_size=quant_config["q_group_size"],
+		zero_point=quant_config["zero_point"],
+		version=quant_config["version"].lower(),
+	).to_dict()
+
+	# the pretrained transformers model is stored in the model attribute + we need to pass a dict
+	model.model.config.quantization_config = quantization_config
+	# a second solution would be to use Autoconfig and push to hub (what we do at llm-awq)
+
+
+	# save model weights
+	model.save_quantized(quant_path)
+	tokenizer.save_pretrained(quant_path)
+	
+**上传模型到huggingface**
+
+	api = HfApi()
+	api.upload_folder(
+		folder_path="Llama-2-7b-awq",
+		repo_id="chenshake/Llama-2-7b-awq",
+		repo_type="model",
+	)
