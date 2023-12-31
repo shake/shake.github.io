@@ -110,49 +110,50 @@ HuggingFace出品，当下最热、最常使用的自然语言处理工具包之
 当前支持的任务集合包括：
 
 文本相关任务：
-text-classification (sentiment-analysis)：情感分析
-token-classification (ner): 命名实体识别
-question-answering: 自动问答
-fill-mask: 填充被遮盖的词、片段
-summarization: 自动摘要
-translation: 机器翻译
-text2text-generation：指转换文本，就像您将文本翻译成另一种语言
-text-generation：文本生成
-conversational：对话响应建模是根据提示生成相关、连贯且知识丰富的对话文本的任务。 这些模型在聊天机器人中得到应用，并作为语音助手的一部分
-table-question-answering：表问答（Table QA）数据库查询
-zero-shot-classification：零训练样本分类
+
+* text-classification (sentiment-analysis)：情感分析
+* token-classification (ner): 命名实体识别
+* question-answering: 自动问答
+* fill-mask: 填充被遮盖的词、片段
+* summarization: 自动摘要
+* translation: 机器翻译
+* text2text-generation：指转换文本，就像您将文本翻译成另一种语言
+* text-generation：文本生成
+* conversational：对话响应建模是根据提示生成相关、连贯且知识丰富的对话文本的任务。 这些模型在聊天机器人中得到应用，并作为语音助手的一部分
+* table-question-answering：表问答（Table QA）数据库查询
+* zero-shot-classification：零训练样本分类
 
 
 完整pipeline支持的任务内容
 
-audio-classification
-automatic-speech-recognition
-text-to-audio
-feature-extraction
-text-classification
-token-classification
-question-answering
-table-question-answering
-visual-question-answering
-document-question-answering
-fill-mask
-summarization
-translation
-text2text-generation
-text-generation
-zero-shot-classification
-zero-shot-image-classification
-zero-shot-audio-classification
-conversational
-image-classification
-image-segmentation
-image-to-text
-object-detection
-zero-shot-object-detection
-depth-estimation
-video-classification
-mask-generation
-image-to-image
+* audio-classification
+* automatic-speech-recognition
+* text-to-audio
+* feature-extraction
+* text-classification
+* token-classification
+* question-answering
+* table-question-answering
+* visual-question-answering
+* document-question-answering
+* fill-mask
+* summarization
+* translation
+* text2text-generation
+* text-generation
+* zero-shot-classification
+* zero-shot-image-classification
+* zero-shot-audio-classification
+* conversational
+* image-classification
+* image-segmentation
+* image-to-text
+* object-detection
+* zero-shot-object-detection
+* depth-estimation
+* video-classification
+* mask-generation
+* image-to-image
 
 ## Pipeline创建与使用
 
