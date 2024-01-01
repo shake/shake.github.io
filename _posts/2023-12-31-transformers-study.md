@@ -109,24 +109,57 @@ HuggingFace出品，当下最热、最常使用的自然语言处理工具包之
 
 当前支持的任务集合包括：
 
-文本相关任务：
-
-| 文本任务                                   | 说明                                                                                                                    |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| text-classification   (sentiment-analysis) | 情感分析                                                                                                                |
-| token-classification   (ner): 命名实体识别 | 命名实体识别                                                                                                            |
-| question-answering                         | 自动问答                                                                                                                |
-| fill-mask                                  | 填充被遮盖的词、片段                                                                                                    |
-| summarization                              |  自动摘要                                                                                                               |
-| translation                                | 机器翻译                                                                                                                |
-| text2text-generation                       | 指转换文本，就像您将文本翻译成另一种语言                                                                                |
-| text-generation                            | 文本生成                                                                                                                |
-| conversational                             | 对话响应建模是根据提示生成相关、连贯且知识丰富的对话文本的任务。 这些模型在聊天机器人中得到应用，并作为语音助手的一部分 |
-| table-question-answering                   | 表问答（Table QA）数据库查询                                                                                            |
-| zero-shot-classification                   | 零训练样本分类                                                                                                          |
+### 文本相关任务（Text-related tasks）
 
 
-完整pipeline支持的任务内容
+
+| 序号 | 文本任务                                   | 说明                                                                                                                    |
+|------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 1    | text-classification   (sentiment-analysis) | 情感分析                                                                                                                |
+| 2    | token-classification (ner)                 | 命名实体识别                                                                                                            |
+| 3    | question-answering                         | 自动问答                                                                                                                |
+| 4    | fill-mask                                  | 填充被遮盖的词、片段                                                                                                    |
+| 5    | summarization                              |  自动摘要                                                                                                               |
+| 6    | translation                                | 机器翻译                                                                                                                |
+| 7    | text2text-generation                       | 指转换文本，就像您将文本翻译成另一种语言                                                                                |
+| 8    | text-generation                            | 文本生成                                                                                                                |
+| 9    | conversational                             | 对话响应建模是根据提示生成相关、连贯且知识丰富的对话文本的任务。 这些模型在聊天机器人中得到应用，并作为语音助手的一部分 |
+| 10   | table-question-answering                   | 表问答（Table QA）数据库查询                                                                                            |
+| 11   | zero-shot-classification                   | 零训练样本分类                                                                                                          |
+### 音频相关任务（Audio-related tasks）
+
+
+
+| 序号 | 任务                           | 说明                                               |
+|------|--------------------------------|----------------------------------------------------|
+| 1    | Audio classification           | 将音频分类为预定义的类别，如音乐类型、声音类型等。 |
+| 2    | Automatic speech recognition   |  将语音转录为文本                                  |
+| 3    | Text-to-audio                  | 从文本生成语音。                                   |
+| 4    | Zero-shot audio classification | 无需训练样本即可对音频进行分类。                   |
+
+### 图像相关任务（Image-related tasks）
+
+| 序号 | 任务                       | 说明                                                 |
+|------|----------------------------|------------------------------------------------------|
+| 1    | Image classification       | 将图像分类为预定义的类别，如物体识别、场景分类等     |
+| 2    | Image segmentation         | 图像分割，将图像中的每个像素分配一个类别标签。       |
+| 3    | Image-to-text              | 生成描述图像内容的文本。                             |
+| 4    | Object detection           | 检测图像中的物体并标注其位置。                       |
+| 5    | Zero-shot object detection | 零样本物体检测，无需训练样本即可检测图像中的物体     |
+| 6    | Depth estimation           |  估计图像中每个像素的深度。                          |
+| 7    | Mask generation            | 为图像中的物体生成遮罩                               |
+| 8    | Image-to-image             | 将一张图像转换为另一张图像，如风格转换、图像修复等。 |
+
+
+### 多模态 （Multimodality）
+
+| 序号 | 任务                        | 说明                                                                                                                                                         |
+|------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | visual-question-answering   |      VQA，视觉问答，是指对于给定的一张图像和一个问题，回答问题所需的信息都包含在图像中。VQA   是一个具有挑战性的任务，因为它需要模型同时理解图像和自然语言。 |
+| 2    | document-question-answering | DQA 是指对于给定的一个文档和一个问题，回答问题所需的信息都包含在文档中。DQA 与 VQA 类似，但 DQA   需要处理的文本数据是文档，而不是图像。                     |
+
+
+### 完整pipeline支持的任务内容
 
 * audio-classification
 * automatic-speech-recognition
