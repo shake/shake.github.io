@@ -69,9 +69,13 @@ Colab提供密钥管理的功能，你可以把Huggingface的token存放并在co
 
 # 微调需要安装包
 
-有时候需要很清楚自己使用的版本号，避免麻烦。
+有时候需要很清楚自己使用的版本号，避免麻烦。transformers,colab是预安装，有时候会遇到需要最新版本。
 
-	!pip install -q accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7
+	!pip install -q \
+	git+https://github.com/huggingface/transformers.git \
+	accelerate==0.21.0 \
+	peft==0.4.0 bitsandbytes==0.40.2\ 
+	trl==0.4.7
 	
 # GIT LFS
 
