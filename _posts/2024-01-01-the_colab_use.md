@@ -85,6 +85,10 @@ safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权
 
 所以对你有用的是safetensors，无需下载bin格式
 
-	git lfs clone "https://huggingface.co/meta-llama/Llama-2-7b-hf" --include="*.safetensors"
+	git lfs clone "https://huggingface.co/meta-llama/Llama-2-7b-hf" --exclude="*.bin"
 	
-这样可以实现存放在LFS存储的文件，只下载safetensors格式的文件，不会下载其他。你也可以尝试一下exclude这个参数。
+这样可以实现存放在LFS存储的文件，不会下载bin的文件，其他都会下载。
+
+如果你不希望下载任何lfs的文件
+
+	export GIT_LFS_SKIP_SMUDGE=1
