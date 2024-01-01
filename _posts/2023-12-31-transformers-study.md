@@ -126,6 +126,8 @@ HuggingFace出品，当下最热、最常使用的自然语言处理工具包之
 | 9    | conversational                             | 对话响应建模是根据提示生成相关、连贯且知识丰富的对话文本的任务。 这些模型在聊天机器人中得到应用，并作为语音助手的一部分 |
 | 10   | table-question-answering                   | 表问答（Table QA）数据库查询                                                                                            |
 | 11   | zero-shot-classification                   | 零训练样本分类                                                                                                          |
+
+
 ### 音频相关任务（Audio-related tasks）
 
 
