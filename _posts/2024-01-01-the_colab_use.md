@@ -14,7 +14,7 @@ tags:
 
 # 密钥
 
-登录huggingface是需要密钥，但是入股你把colab的notebook分享出去，这个会导致你的密钥泄露。你是可以提前处理，但是总会有忘记的时候。
+登录huggingface是需要密钥，把colab的notebook分享出去，这个会导致你的密钥泄露。你是可以提前处理，但是总会有忘记的时候。
 
 Colab提供密钥管理的功能，你可以把Huggingface的token存放并在colab进行调用。
 
@@ -73,7 +73,7 @@ Colab提供密钥管理的功能，你可以把Huggingface的token存放并在co
 
 	!pip install -q accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7
 	
-# git
+# GIT LFS
 
 在[meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main)
 
