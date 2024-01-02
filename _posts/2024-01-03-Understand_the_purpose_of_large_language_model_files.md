@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Purpose of LLM Files
-subtitle:   理解大语言模型Llama-2文件用途
+title:      Purpose of Llama-2 Files
+subtitle:   Llama-2文件用途介绍
 date:       2024-01-03
 author:     shake
 header-img: img/post-bg-2015.jpg
