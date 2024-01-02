@@ -96,3 +96,9 @@ safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权
 如果你不希望下载任何lfs的文件
 
 	export GIT_LFS_SKIP_SMUDGE=1
+
+# colab模型文件位置
+
+	# make a soft link for  /root/.cache
+	!mkdir -p /root/.cache/huggingface
+	!ln -s /root/.cache/huggingface /content
