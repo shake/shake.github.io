@@ -20,7 +20,7 @@ tags:
 
 # llama-2-7b
 
-这是Facebook开源的原始模型文件。
+这是Facebook开源的原始模型文件。红框的5个文件，下面逐一介绍。
 
 ![7B](/img/2024/huggingface/7b.jpg "7B")
 
@@ -87,7 +87,7 @@ hf，就是表示hggingface的格式，支持transformers，可以使用到很�
 
 原始格式LLama ->转为huggingface（HF）格式，可以很方便使用工具进行就可以实现让llama-2-7b支持transformers，这个可以看我写的 [LLama2-7B Models Quantization Method](https://chenshake.com/2023/12/13/llama-conver-to-Hugging-Face/)
 
-由于支持HF，模型的文件也发生不小变化。
+这是Facebook开源的huggingface（HF）格式。一共有12个文件。逐一介绍。
 
 ![7B-hf](/img/2024/huggingface/7b-hf.jpg "7B-hf")
 
