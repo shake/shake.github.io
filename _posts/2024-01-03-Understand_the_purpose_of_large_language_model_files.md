@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Purpose of LLM files
-subtitle:   理解大语言模型Llama-2文件作用
+title:      Purpose of LLM Files
+subtitle:   理解大语言模型Llama-2文件用途
 date:       2024-01-03
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -41,7 +41,7 @@ tags:
 
 ## consolidated.00.pth
 
-保存模型权重的文件，使用使用Python的 pickle工具将数据序列化到一个文件中。
+模型权重的文件，使用使用Python的 pickle工具将数据序列化到一个文件中。文件边上有一个pikle的标识。huggingface不建议使用这样的文件格式，出于安全的原因。
 
 权重文件会具体记录模型中每个层（包括但不限于自注意力层、全连接层等）的所有权重和偏置。对于Transformer架构的语言模型，这些参数通常包括：
 
@@ -75,7 +75,7 @@ tags:
 
 ## tokenizer.model
 
-tokenizer就理解成分词器，通过tokenizer对文字进行分词。
+tokenizer就理解成分词器，通过tokenizer对文本进行分词。
 
 # llama-2-7b-hf
 
@@ -136,7 +136,7 @@ hf，就是表示hggingface的格式，支持transformers，可以使用到很�
 
 ## safetensors文件格式
 
-safetensors 是一种安全快速存储和加载tensors的文件格式，safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权重。
+模型权重的文件。safetensors 是一种安全快速存储和加载tensors的文件格式，safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权重。
 
 * model-00001-of-00002.safesensors 模型权重参数分块1
 * model-00002-of-00002.safesensors，模型权重参数分块2
@@ -160,14 +160,16 @@ safesensors模型参数文件索引和描述模型切片的 JSON 文件。这个
 		"lm_head.weight": "model-00002-of-00002.safetensors",
 		"model.embed_tokens.weight": "model-00001-of-00002.safetensors",
 		
-safetensors2个文件，需要结合model.safetensors.index.json，进行加载。
+safetensors2个模型权重文件，需要结合model.safetensors.index.json，进行加载。
 
 ## pytorch文件格式
+
+模型权重的文件。
 
 * pytorch_model-00001-of-00002.bin
 * pytorch_model-00002-of-00002.bin
 
-pytorch文件，你会砍价文件列表上有一个pickle标记，表示是使用Python的 pickle工具将数据序列化。由于不安全的原因，现在已经是不推荐使用。
+pytorch文件，你会发现文件列表上有一个pickle标记，表示是使用Python的 pickle工具将数据序列化。由于不安全的原因，现在已经是不推荐使用。
 
 ## pytorch_model.bin.index.json
 
