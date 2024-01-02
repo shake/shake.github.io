@@ -102,3 +102,9 @@ safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权
 	# make a soft link for  /root/.cache
 	!mkdir -p /root/.cache/huggingface
 	!ln -s /root/.cache/huggingface /content
+	
+# 文件下载
+
+	huggingface-cli download \
+	--local-dir=/path/to/store/tokenizer meta-llama/Llama-2-7b-hf \
+	tokenizer.model tokenizer.json tokenizer_config.json

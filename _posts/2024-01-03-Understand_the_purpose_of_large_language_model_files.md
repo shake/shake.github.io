@@ -14,6 +14,8 @@ tags:
 
 需要致谢一下这位博主：[01coder](https://www.youtube.com/watch?v=eHZRt7DNuts&list=PL2fGiugrNoohh4jfFxfMvcK1ktfLyM41a) 分享。
 
+[Tokenizer说明](https://medium.com/@vyperius117/understanding-the-llama2-tokenizer-working-with-the-tokenizer-locally-using-transformers-2e0f9e69d786)
+
 # 模型文件介绍
 
 今天我们就以模型 [meta-llama/Llama-2-7b](https://huggingface.co/meta-llama/Llama-2-7b/tree/main) 和 [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main) 做一个说明。
@@ -201,34 +203,24 @@ tokenizer中特殊标记符(special tokens)到其对应的数字id的映射。�
 
 一些常见的特殊标记符定义包括:
 
-unk_token - 未登录词(out-of-vocabulary words)的标记id
-sep_token - 句子分隔的标记id
-pad_token - 填充序列到相等长度时使用的填充标记id
-cls_token - 分类任务中使用的分类标记id
-mask_token - 掩码语言模型任务中使用的掩码标记id
+* unk_token - 未登录词(out-of-vocabulary words)的标记id
+* sep_token - 句子分隔的标记id
+* pad_token - 填充序列到相等长度时使用的填充标记id
+* cls_token - 分类任务中使用的分类标记id
+* mask_token - 掩码语言模型任务中使用的掩码标记id
 
 
 ## tokenizer.json
 
-tokenizer的配置信息,如字典大小,tokenize的策略等。
-
-在Hugging Face的Transformers库中，`tokenizer.json`文件是用于存储预训练模型tokenizer的配置信息的。对于Llama-2-7b-hf这样的模型，其`tokenizer.json`文件通常包含以下信息：
-
-1. **词汇表（Vocabulary）**：定义了每个token（包括子词、单词或特殊符号）与唯一ID之间的映射关系。
-2. **分词规则（Tokenization Rules）**：描述了如何将原始文本分割成tokens的策略和参数，比如对于BERT这样的基于Byte-Pair-Encoding (BPE) 的模型，会记录合并的字符对规则。
-3. **特殊令牌（Special Tokens）**：如起始符 `[CLS]`、结束符 `[SEP]`、填充符 `[PAD]` 以及其他自定义的特殊令牌及其对应的ID。
-4. **其他配置参数**：可能还包括最大序列长度、是否进行lowercasing处理、是否保留标点符号等。
-
-因此，`tokenizer.json` 文件对于正确设置和使用tokenizer至关重要，使得模型能够理解和生成符合其训练格式的输入输出数据。
+分词器的词汇配置文件。
 
 ## tokenizer.model
 
-tokenizer，分词器，,这是经过训练得到的二进制文件,不可读。
+模型的分词器，这是经过训练得到的二进制文件,不可读。
 
 ## tokenizer_config.json
 
-是用于配置和初始化模型的分词器（tokenizer）的配置文件。
-
+分词器的配置文件
 
 # llama-2-7b-hf加载过程
 
