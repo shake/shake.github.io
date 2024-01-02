@@ -24,8 +24,6 @@ tags:
 
 ## checklist.chk
 
-在 Meta 的 LLaMA 模型中，checklist.chk 文件对于确保 LLaMA 模型的正确性。
-
 打开checklist.chk，其实就是2个文件的MD5数值。确保下载和加载的完整性。
 
 	daa8e3109935070df7fe8fc42d34525e  consolidated.00.pth
@@ -54,7 +52,6 @@ tags:
 5. **LayerNorm层的参数**：包括每一层的均值和标准差归一化的gamma和beta参数。
 6. **分类器头部的权重**（如果适用）：在预训练阶段用于生成下一个词预测任务的输出层参数，在微调时可能会用作其他下游任务的输出层。
 
-此外，权重文件不包含模型结构信息，但为了恢复模型并进行推理或继续训练，通常需要与之配套的模型架构描述文件或代码来解析加载这些权重。
 
 ## params.json
 
@@ -78,11 +75,7 @@ tags:
 
 ## tokenizer.model
 
-tokenizer的具体模型参数,这是经过训练得到的二进制文件,不可读。
-
-tokenizer.model 文件存储了对输入文本进行编码和解码所需的特定参数。
-
-具体来说，tokenizer 负责将原始的自然语言文本转换成模型可以理解的数值形式——通常是 token ID 序列。这个过程中涉及分词（将文本分割成单词、子词或字符）、添加特殊标记（如起始符、结束符、padding 符号等），以及可能的词汇表查找或嵌入矩阵操作。
+tokenizer就理解成分词器，通过tokenizer对文字进行分词。
 
 # llama-2-7b-hf
 
@@ -145,8 +138,8 @@ hf，就是表示hggingface的格式，支持transformers，可以使用到很�
 
 safetensors 是一种安全快速存储和加载tensors的文件格式，safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权重。
 
-model-00001-of-00002.safesensors 模型权重参数分块1
-model-00002-of-00002.safesensors，模型权重参数分块2
+* model-00001-of-00002.safesensors 模型权重参数分块1
+* model-00002-of-00002.safesensors，模型权重参数分块2
 
 ## model.safetensors.index.json
 
@@ -157,11 +150,7 @@ safesensors模型参数文件索引和描述模型切片的 JSON 文件。这个
 * 切片如何组合起来重新组成完整模型的说明
 * 一些额外的模型信息,如模型名称、框架版本等元数据
 
-3个文件是一组的。
-
-* model.safetensors.index.json
-* model-00001-of-00002.safesensors
-* model-00002-of-00002.safesensors
+文件的简单内容：
 
 	{
 	  "metadata": {
@@ -171,12 +160,14 @@ safesensors模型参数文件索引和描述模型切片的 JSON 文件。这个
 		"lm_head.weight": "model-00002-of-00002.safetensors",
 		"model.embed_tokens.weight": "model-00001-of-00002.safetensors",
 		
+safetensors2个文件，需要结合model.safetensors.index.json，进行加载。
+
 ## pytorch文件格式
 
 * pytorch_model-00001-of-00002.bin
 * pytorch_model-00002-of-00002.bin
 
-pytorch文件的用途，和safetensors文件用途一样，就是安全性不同，所以现在其实已经很少使用pytorch格式
+pytorch文件，你会砍价文件列表上有一个pickle标记，表示是使用Python的 pickle工具将数据序列化。由于不安全的原因，现在已经是不推荐使用。
 
 ## pytorch_model.bin.index.json
 
@@ -195,6 +186,8 @@ pickle序列化的pytorch索引和描述模型切片的 JSON 文件。可以看�
     "lm_head.weight": "pytorch_model-00002-of-00002.bin",
     "model.embed_tokens.weight": "pytorch_model-00001-of-00002.bin",
     "model.layers.0.input_layernorm.weight": "pytorch_model-00001-of-00002.bin",
+	
+pytorch的2个文件，需要结合pytorch_model.bin.index.json，进行加载。
 	
 ## special_tokens_map.json
 
