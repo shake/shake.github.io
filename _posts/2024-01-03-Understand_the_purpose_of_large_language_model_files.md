@@ -20,6 +20,8 @@ tags:
 
 # llama-2-7b
 
+这是Facebook开源的原始模型文件。
+
 ![7B](/img/2024/huggingface/7b.jpg "7B")
 
 ## checklist.chk
@@ -233,9 +235,4 @@ tokenizer，分词器，,这是经过训练得到的二进制文件,不可读。
 ![7B-hf-load](/img/2024/huggingface/7b-hf-load.jpg "7B-hf-load")
 
 下载过程，发现有Downloading shards。
-
-在大型语言模型中，由于文件大小通常非常大（几十GB甚至上百GB），为了方便管理和下载，这些模型的权重文件经常会被分割成多个小块或碎片（称为shards）。当加载模型时，如果配置正确且工具支持自动分片下载，它会根据需要去下载并整合这些shards。
-
-当你看到"Downloading shards:"这样的提示时，意味着你的工具正在按照模型配置信息从服务器上获取相应的shard文件，并将它们拼接起来以完整加载模型。这种方式有助于在网络连接不稳定或者带宽有限的情况下更稳定地下载和使用大型模型。
-
-例如，在Hugging Face Transformers库中，对于非常大的模型，其模型权重会存储在多个文件， 文件中，每个文件代表一个shard。加载时，库会自动处理shard的下载与合并。
+在Hugging Face Transformers库中，对于非常大的模型，其模型权重会存储在多个文件， 每个文件代表一个shard。加载时，库会自动处理shard的下载与合并。
