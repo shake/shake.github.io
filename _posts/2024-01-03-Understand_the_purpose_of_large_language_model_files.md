@@ -16,6 +16,12 @@ tags:
 
 [Tokenizer说明](https://medium.com/@vyperius117/understanding-the-llama2-tokenizer-working-with-the-tokenizer-locally-using-transformers-2e0f9e69d786)
 
+# 总结
+
+特斯拉前AI总监Andrej Karpathy使用说，大模型本质就是2个文件，一个是参数文件（权重文件，整个神经网络的权重），一个是包含运行这些参数的代码文件（用来运行这个神经网络的代码，可以是C或者其他任何编程语言写的。不超过500行代码。）
+
+Llama 2 提供tokenizer（分词器）目的就是让开源的社区可以进行微调。
+
 # 模型文件介绍
 
 今天我们就以模型 [meta-llama/Llama-2-7b](https://huggingface.co/meta-llama/Llama-2-7b/tree/main) 和 [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main) 做一个说明。
