@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Understand the purpose of large language model files
-subtitle:   理解大语言模型文件用途
+title:      Purpose of LLM files
+subtitle:   理解大语言模型Llama-2文件作用
 date:       2024-01-03
 author:     shake
 header-img: img/post-bg-2015.jpg
