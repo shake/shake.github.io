@@ -105,6 +105,22 @@ safetensors 是 pickle 的一个安全替代方案，非常适合共享模型权
 	
 # 文件下载
 
-	huggingface-cli download \
-	--local-dir=/path/to/store/tokenizer meta-llama/Llama-2-7b-hf \
-	tokenizer.model tokenizer.json tokenizer_config.json
+	!huggingface-cli download \
+		--local-dir=/content/Llama-2-7b \
+		meta-llama/Llama-2-7b \
+		checklist.chk consolidated.00.pth params.json \
+		tokenizer.model tokenizer_checklist.chk
+		
+		
+# colab 环境检测
+
+	# check default cuda version
+	!nvcc --version 4
+
+	# check default torch version
+	import torch
+	print(torch.__version__)
+
+	# check default transformers version
+	import transformers
+	print (transformers.__version__)
