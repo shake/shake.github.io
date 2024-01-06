@@ -38,7 +38,7 @@ GGUF,GPTQ,AWQ 我都在colab上实现量化，GPTQ和AWQ对GPU的要求还是很
 
 如果你无法从官网下载Llama-2-7b的模型，可以参考,git clone ，删除多余的文件,我的实验也是使用这个repo来完成。
 
-	git clone https://www.modelscope.cn/chenshake/Llama-2-7b.git
+	git clone https://www.modelscope.cn/shakechen/Llama-2-7b.git
 
 下载完成后，需要删除没必要的文件
 

@@ -76,7 +76,17 @@ Colab提供密钥管理的功能，你可以把Huggingface的token存放并在co
 	accelerate==0.21.0 \
 	peft==0.4.0 bitsandbytes==0.40.2\ 
 	trl==0.4.7
-	
+
+选择使用
+
+	!pip install -q huggingface_hub
+	!pip install -q -U trl transformers accelerate peft
+	!pip install -q -U datasets bitsandbytes einops wandb
+
+	# Uncomment to install new features that support latest models like Llama 2
+	# !pip install git+https://github.com/huggingface/peft.git
+	# !pip install git+https://github.com/huggingface/transformers.git
+		
 # GIT LFS
 
 在[meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf/tree/main)
