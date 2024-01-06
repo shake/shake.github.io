@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Official documentation run and testing Llama-2 
+title:      Official code run and testing Llama-2 
 subtitle:   官方文档运行和测试Llama-2 
 date:       2023-10-11
 author:     shake
@@ -39,10 +39,10 @@ Llama-2的原始模型，其实我没运行过，尝试照着官方的文档运�
 
 **运行Llama-2-7b**
 
-!torchrun --nproc_per_node 1 /mnt/llama/example_text_completion.py \
-     --ckpt_dir /mnt/Llama-2-7b \
-     --tokenizer_path /mnt/Llama-2-7b/tokenizer.model \
-     --max_seq_len 128 --max_batch_size 4
+	!torchrun --nproc_per_node 1 /mnt/llama/example_text_completion.py \
+		 --ckpt_dir /mnt/Llama-2-7b \
+		 --tokenizer_path /mnt/Llama-2-7b/tokenizer.model \
+		 --max_seq_len 128 --max_batch_size 4
 	 
 **输出结果**
 
