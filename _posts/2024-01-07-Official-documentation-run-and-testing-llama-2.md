@@ -2,7 +2,7 @@
 layout:     post
 title:      Official code run and testing Llama-2 
 subtitle:   官方文档运行和测试Llama-2 
-date:       2023-10-11
+date:       2024-01-07
 author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
