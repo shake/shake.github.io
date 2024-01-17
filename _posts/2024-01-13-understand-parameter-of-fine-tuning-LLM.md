@@ -20,13 +20,17 @@ epochs：中文含义是纪元的意思，那么在微调里，就是一个周�
 
 数据集，在hanggingface上有大量开源的数据集，你可以拿来训练。大小不同，看数据集大小，就看有多少行数据。
 
+[guanaco-llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k)
+
+这个数据集是1000行的数据。
+
 # batch_size
 
 per_device_train_batch_size=4
 
-提交给每个GPU卡的dataset的数据量。如果一个dataset有100，那么就是需要25次提交。
+提交给每个GPU卡的dataset的数据量。如果一个dataset有1000，那么就是需要250次提交。
 
-# step
+# gradient
 
 gradient_accumulation_steps=4
 
@@ -34,17 +38,30 @@ gradient_accumulation_steps=4
 
 如果是4，那么就是完成4次的数据提交，才去更新权重参数。可以换算成，16行的数据，训练完成，才去更新权重参数。可以换算成，16行的数据，训练完成，才去更新权重参数。
 
-# 问题
+# 结论
 
-一个epochs过程，有多少step？
+epochs Setp= dataset行数/（per_device_train_batch_size*gradient_accumulation_steps）
 
-数据集：1600行。
+## 问题（1）
 
-gradient_accumulation_steps=4
+一个epochs训练过程，有多少step？
 
-per_device_train_batch_size=4
+数据集：1000行。
 
-100个step，就是数据集，除16(4*4)=100setp
+	gradient_accumulation_steps=1
+	per_device_train_batch_size=4
+
+答案
+250 setp
+
+## 问题（2）
+
+其他条件不变，就是 gradient_accumulation_steps=4
+
+	gradient_accumulation_steps=4
+
+答案
+63 setp
 
 
 
