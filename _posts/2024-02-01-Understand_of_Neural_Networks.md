@@ -12,8 +12,8 @@ tags:
 
 最近看到了很多很好的学习材料，帮助我理解神经网络。
 
-[用三种函数带你秒懂神经网络算法](https://www.youtube.com/watch?v=0L-3XgE-eiA&t=153s)
-[用Excel輕鬆建立、訓練和使用神經網路Neural Network](https://www.youtube.com/watch?v=rcwpFQHgZTk&list=PLpnzkr5S5scc_6ZMKNJUdTARnCe3zLXUA&index=10)
+* [用三种函数带你秒懂神经网络算法](https://www.youtube.com/watch?v=0L-3XgE-eiA&t=153s)
+* [用Excel輕鬆建立、訓練和使用神經網路Neural Network](https://www.youtube.com/watch?v=rcwpFQHgZTk&list=PLpnzkr5S5scc_6ZMKNJUdTARnCe3zLXUA&index=10)
 
 基于上面的材料，我整理自己的学习笔记。
 
