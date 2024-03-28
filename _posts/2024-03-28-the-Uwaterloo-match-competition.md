@@ -72,7 +72,7 @@ tags:
 | **推荐教材** | 《The Art of Problem Solving》、《Fermat's Contest Math》 | 《The Art of Problem Solving》、《Hypatia's Contest Math》 |
 
 
-## Euclid 数学竞赛介绍
+## Euclid  (Grade 12） 
 
 **简介:**
 
