@@ -16,6 +16,9 @@ tags:
 
 唯一的问题就是中文教编程，而我希望孩子是用英文来学编程。
 
+* 海外学生可以参与海狸计算机挑战赛（BCC）
+* 只有加拿大境内的学生才可以参加 计算机竞赛（CCC）。
+
 
 [历年真题和答案](https://www.cemc.uwaterloo.ca/contests/past_contests.html)
 
@@ -60,9 +63,9 @@ BCC 竞赛分为三个级别：
 
 **报名方式:**
 
-* 每年举办一次，通常在 10 月份进行。
-* 参赛者可以通过学校或个人报名。
-* 具体报名方式详见 竞赛官网: [https://beavercomputingchallenge.ca/](https://beavercomputingchallenge.ca/)。
+* 每年举办一次，通常在 10 月份报名，11月份考试
+* 参赛者可以通过学校或个人报名。允许个人直接报名
+
 
 **备考资源:**
 
@@ -82,6 +85,8 @@ BCC 竞赛分为三个级别：
 # 加拿大计算机竞赛（Canadian Computing Competition，简称 CCC）
 
 **面向年级:** 高中
+
+根据加拿大计算机竞赛（CCC）官方网站的规定，只有加拿大境内的学生才可以参加 CCC 竞赛。
 
 **简介:**
 
