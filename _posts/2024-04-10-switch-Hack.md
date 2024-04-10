@@ -61,6 +61,8 @@ Switch启动的时候，先到这个画面，让你选择
 
 唯一的选择就是**大气层虚拟系统**。 
 
+![choose](/img/2024/son/choose.jpg "choose")
+
 ## Ban 机
 
 也就是被任天堂拉黑的机器，被 Ban 后的机器无法与任天堂官方服务器联网，除此外和未 Ban 的机器无任何区别，判断是否 Ban 机也很简单，在正版系统下进入 eshop 看看是否能加载出来就知道了。
@@ -119,5 +121,52 @@ Switch启动的时候，先到这个画面，让你选择
 
 # 更换内存卡
 
-现在是一张512G的内存卡，家里还有一张1T的内存卡，如何把1T的卡也能用起来呢。琢磨中。
+现在是一张512G的内存卡，家里还有一张1T的内存卡，如何把1T的卡也能用起来呢。
 
+1：格式化
+
+电脑格式化SD卡为exfat格式，分配单元大小为32k。
+
+![exfat](/img/2024/son/exfat.jpg "exfat")
+
+2：switch 支持exfat驱动
+
+让swich识别exfat格式的卡。
+
+由于我的switch已经破解使用中，所以肯定是带驱动，不需要操心。
+
+这个步骤可以跳过
+
+3：大气层整合包
+
+把大气层整合包解压，放到SD卡根目录下。
+
+4：开机启动
+
+进入Hekate，选择虚拟系统
+
+![vir](/img/2024/son/vir.jpg "vir")
+
+5：创建emuMMC
+
+![emc](/img/2024/son/emc.jpg "emc")
+
+6：SD卡文件
+
+![sd](/img/2024/son/sd.jpg "sd")
+
+7：成功
+
+![ok](/img/2024/son/ok.jpg "ok")
+
+8：检查
+
+![open](/img/2024/son/open.jpg "open")
+
+9：启动
+
+![test](/img/2024/son/test.jpg "test")
+
+10：选择大气层虚拟系统
+
+![end](/img/2024/son/end.jpg "end")
