@@ -180,3 +180,5 @@ Switch启动的时候，先到这个画面，让你选择
 * [Switch破解后做双系统教程大气层虚拟系统emuMMC](https://www.youtube.com/watch?v=u4vuDy2RI30&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
 
 * [硬破后如何上传游戏](https://www.youtube.com/watch?v=v3jilUWPs20&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
+
+* [商家文档](https://docs.qq.com/doc/DTkV1QUdGVFhMVHR3?u=6b808ad5aa794c9d8cd732746e4733da)
