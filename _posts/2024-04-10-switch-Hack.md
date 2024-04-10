@@ -126,6 +126,13 @@ Switch启动的时候，先到这个画面，让你选择
 
 ![version](/img/2024/son/version.jpg "version")
 
+上图，应该是狠古老。目前主流的版本应该是
+
+* 大气层1.7.0 支持switch 18.0.0
+* 大气层1.6.2 支持switch 17.0.1 （孩子当前使用的版本）
+
+
+
 # 游戏不能玩
 
 ![work](/img/2024/son/work.jpg "work")
