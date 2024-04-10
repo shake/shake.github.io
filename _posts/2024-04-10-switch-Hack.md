@@ -125,13 +125,13 @@ Switch启动的时候，先到这个画面，让你选择
 
 已经破解的系统，默认是从SD卡启动。
 
-1. 格式化
+## 格式化
 
 电脑格式化SD卡为exfat格式，分配单元大小为32k。
 
 ![exfat](/img/2024/son/exfat.jpg "exfat")
 
-2. switch 支持exfat驱动
+## switch 支持exfat驱动
 
 让swich识别exfat格式的卡。
 
@@ -139,36 +139,44 @@ Switch启动的时候，先到这个画面，让你选择
 
 这个步骤可以跳过
 
-3. 大气层整合包
+## 大气层整合包
 
 把大气层整合包解压，放到SD卡根目录下。
 
-4. 开机启动
+## 开机启动
 
 把SD卡插入switch，进入Hekate，选择虚拟系统
 
 ![vir](/img/2024/son/vir.jpg "vir")
 
-5. 创建emuMMC
+## 创建emuMMC
 
 ![emc](/img/2024/son/emc.jpg "emc")
 
-6. SD卡文件
+## SD卡文件
 
 ![sd](/img/2024/son/sd.jpg "sd")
 
-7. 成功
+## 成功
 
 ![ok](/img/2024/son/ok.jpg "ok")
 
-8. 检查
+## 检查
 
 ![open](/img/2024/son/open.jpg "open")
 
-9. 启动
+## 启动
 
 ![test](/img/2024/son/test.jpg "test")
 
-10. 选择大气层虚拟系统
+## 选择大气层虚拟系统
 
 ![end](/img/2024/son/end.jpg "end")
+
+# 备注
+
+* [任天堂Switch NS 破解硬破装树莓派芯片 游戏机
+](https://www.youtube.com/watch?v=KLayLc8TI9c&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
+* [Switch破解后做双系统教程大气层虚拟系统emuMMC](https://www.youtube.com/watch?v=u4vuDy2RI30&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
+
+* [硬破后如何上传游戏](https://www.youtube.com/watch?v=v3jilUWPs20&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
