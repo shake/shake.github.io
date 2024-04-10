@@ -75,6 +75,8 @@ Switch启动的时候，先到这个画面，让你选择
 
 需要一台windows电脑和一根Type-c的数据线。
 
+要记住，内存卡任何文件不能出现中文
+
 1：下载好游戏的安装包，打开switch相册
 
 ![相册](/img/2024/son/pic.jpg "相册")
@@ -106,3 +108,16 @@ Switch启动的时候，先到这个画面，让你选择
 选择：数据管理，选择删除软件就可以。
 
 ![delete](/img/2024/son/delete.jpg "delete")
+
+# 系统版本和大气层版本
+
+![version](/img/2024/son/version.jpg "version")
+
+# 游戏不能玩
+
+![work](/img/2024/son/work.jpg "work")
+
+# 更换内存卡
+
+现在是一张512G的内存卡，家里还有一张1T的内存卡，如何把1T的卡也能用起来呢。琢磨中。
+
