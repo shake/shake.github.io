@@ -65,6 +65,15 @@ Switch启动的时候，先到这个画面，让你选择
 
 ![choose](/img/2024/son/choose.jpg "choose")
 
+大气层整合包，其实就是包括Hekate和大气层 Atmosphere，还有一堆的工具。
+
+大气层的版本，可以通过[大气层版本号](https://github.com/Atmosphere-NX/Atmosphere/releases)
+
+每个版本支持的switch的版本是不一样的。
+
+* 大气层1.7.0 支持switch 18.0.0
+* 大气层1.6.2 支持switch 17.0.1 （孩子当前使用的版本）
+
 ## Ban 机
 
 也就是被任天堂拉黑的机器，被 Ban 后的机器无法与任天堂官方服务器联网，除此外和未 Ban 的机器无任何区别，判断是否 Ban 机也很简单，在正版系统下进入 eshop 看看是否能加载出来就知道了。
