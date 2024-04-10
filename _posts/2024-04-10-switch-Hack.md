@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Switch 硬破和入门
+title:      Switch 硬破和使用
 subtitle:   Switch Cracked 
 date:       2024-04-10
 author:     shake
@@ -99,3 +99,10 @@ Switch启动的时候，先到这个画面，让你选择
 
 ![home](/img/2024/son/home.png "home")
 
+# 删除软件
+
+找到要删除的游戏，点击手柄上的 + 号，最后点击删除软件即可
+
+选择：数据管理，选择删除软件就可以。
+
+![delete](/img/2024/son/delete.jpg "delete")
