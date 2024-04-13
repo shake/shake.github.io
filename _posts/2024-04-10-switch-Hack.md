@@ -47,7 +47,7 @@ tags:
 * 下载switch 18.0.0 固件，解压后，在sd卡里建立自己命名文件夹，例如fireware，把固件放进去。
 * 插入sd卡到switch，启动，这个时候，你就可以进入虚拟系统，这个时候，表示已经升级完成大气层系统到1.7.0。
 * 进入虚拟系统后，通过daybreak，选择fireware的文件夹，进行虚拟系统的switch版本升级，把虚拟系统switch固件离线升级到18.0.0 。
-*最终的效果就是虚拟系统的switch的固件版本，和正版switch的固件版本一致。
+* 最终的效果就是虚拟系统的switch的固件版本，和正版switch的固件版本一致。
 
 
 # Switch 版本
@@ -250,13 +250,9 @@ Switch启动的时候，先到这个画面，让你选择
 * [3：硬破后如何上传游戏](https://www.youtube.com/watch?v=v3jilUWPs20&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
 
 * [4：商家文档](https://docs.qq.com/doc/DTkV1QUdGVFhMVHR3?u=6b808ad5aa794c9d8cd732746e4733da)
-
 * [5：硬破后升级大气层和switch固件](https://zhuanlan.zhihu.com/p/627504313)
-
 * [6：升级视频](https://www.youtube.com/watch?v=MB4jEhz84E4&t=204s&ab_channel=%E5%A5%BD%E7%89%A9%E6%80%AA%E5%92%96)
-
 *[7：砖头修复](https://www.youtube.com/watch?v=t0Y342KsKtc&ab_channel=%E6%80%80%E6%97%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8F%94%E5%A4%A7%E6%85%A7)
+*[8：香港人救砖过程](https://www.youtube.com/watch?v=34VANDsiuqs&t=300s&ab_channel=carcaschoi)
 
-*[香港人救砖过程](https://www.youtube.com/watch?v=34VANDsiuqs&t=300s&ab_channel=carcaschoi)
-
-* [Switch系统升级和大气层破解相关](https://songlin.me/2023/05/13/switch/)
+* [9：Switch系统升级和大气层破解相关](https://songlin.me/2023/05/13/switch/)
