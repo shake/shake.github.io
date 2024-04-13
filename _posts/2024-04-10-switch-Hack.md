@@ -17,6 +17,7 @@ tags:
 这几天深入学习switch，了解一下所谓的switch的生态。
 
 * [Switch Firmwares](https://darthsternie.net/switch-firmwares/)
+* [大气层]（https://github.com/Atmosphere-NX/Atmosphere/releases）
 * [大气层整合包](https://codeberg.org/carcaschoi/Shallowsea/releases)
 
 有这两个资源，软件上，你就可以做点事情。
@@ -28,15 +29,15 @@ tags:
 
 假设
 
-* 正版系统：switch 版本 17.0.1
-* 虚拟系统：switch 版本 17.0.1+大气层1.6.2
+* 正版系统：switch 固件版本 17.0.1，升级固件版本可以在线升级。
+* 虚拟系统：switch 固件版本 17.0.1+大气层1.6.2，虚拟系统固件升级，只能是离线升级。
 
 大气层的版本支持的switch的版本是有对应关系的。如果你进入正版系统，升级版本到18.0.0，那么你的witch，就会变成砖头。
 
 救砖头也简单，你需要
 
 * 升级sd卡的大气层系统到1.7.0
-* 升级虚拟系统的switch 版本到18.0.0
+* 离线升级虚拟系统的switch 固件版本到18.0.0
 
 具体的操作过程，我大概记录一下
 
