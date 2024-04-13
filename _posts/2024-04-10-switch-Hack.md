@@ -224,6 +224,8 @@ Switch启动的时候，先到这个画面，让你选择
 
 ![emc](/img/2024/son/emc.jpg "emc")
 
+这其实是从系统的正版固件，copy到sd卡里虚拟系统。
+
 ### SD卡文件
 
 ![sd](/img/2024/son/sd.jpg "sd")
