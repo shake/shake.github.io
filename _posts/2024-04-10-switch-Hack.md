@@ -17,7 +17,7 @@ tags:
 这几天深入学习switch，了解一下所谓的switch的生态。
 
 * [Switch Firmwares](https://darthsternie.net/switch-firmwares/)
-* [大气层]（https://github.com/Atmosphere-NX/Atmosphere/releases）
+* [大气层](https://github.com/Atmosphere-NX/Atmosphere/releases)
 * [大气层整合包](https://codeberg.org/carcaschoi/Shallowsea/releases)
 
 整合包是解决大气层还欠缺的各种工具，汉化等。让你开箱即用。
