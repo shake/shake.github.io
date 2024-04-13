@@ -12,6 +12,42 @@ tags:
 
 主要是给孩子做一个记录。
 
+# 总结
+
+这几天深入学习switch，了解一下所谓的switch的生态。
+
+* [Switch Firmwares](https://darthsternie.net/switch-firmwares/)
+* [大气层整合包](https://codeberg.org/carcaschoi/Shallowsea/releases)
+
+有这两个资源，软件上，你就可以做点事情。
+
+
+## 砖头修复
+
+理解系统的版本，开机启动的时候，有一个正版系统，一个虚拟系统
+
+假设
+
+* 正版系统：switch 版本 17.0.1
+* 虚拟系统：switch 版本 17.0.1+大气层1.6.2
+
+大气层的版本支持的switch的版本是有对应关系的。如果你进入正版系统，升级版本到18.0.0，那么你的witch，就会变成砖头。
+
+救砖头也简单，你需要
+
+* 升级sd卡的大气层系统到1.7.0
+* 升级虚拟系统的switch 版本到18.0.0
+
+具体的操作过程，我大概记录一下
+
+* 从switch拔下sd卡
+* 挂载电脑上，只保留**emuMMC** 和 **Nintendo** 两个文件夹，其余删除
+* 下载1.7.0的大气层整合包，上面的地址可以直接下载，解压放到根目录。
+* 下载switch 18.0.0 固件，解压后，在sd卡里建立自己命名文件夹，例如fireware，把固件放进去。
+* 插入sd卡到switch，启动，这个时候，你就可以进入虚拟系统，通过daybreak，选择fireware的文件夹，进行虚拟系统的switch版本升级。
+*最终的效果就是虚拟系统的switch的版本，和正版switch的版本一致。
+
+
 # Switch 版本
 
 游戏机和其他电子产品不一样，版本更新比较慢。
@@ -37,7 +73,7 @@ tags:
 
 # 破解
 
-逛淘宝，会发现所谓软破和硬破，对于2024年，硬破是唯一选择，并且现在的硬破，采用树莓派的方案，拆开主机焊接破解芯片的方式破解，费用已经降低到150元以下，包括OLED的硬破，以前因为OLED的硬破解方案，手工费会贵一点，现在收费都一样了。
+逛淘宝，会发现所谓软破和硬破，对于2024年，硬破是唯一选择，并且现在的硬破，以前硬破有所谓的芯片选择，所谓的国产芯片，由于主控，成本高，价格要400多，现在改成树莓派的主控，成本就降低到40，采用树莓派主控方案，拆开主机焊接破解芯片的方式破解，费用已经降低到150元以下，可以理解就是100块钱的手工费。
 
 推荐师傅：郭师傅数码电玩DIY，淘宝抖音同名。
 
@@ -205,10 +241,20 @@ Switch启动的时候，先到这个画面，让你选择
 
 # 备注
 
-* [任天堂Switch NS 破解硬破装树莓派芯片 游戏机
+* [1：任天堂Switch NS 破解硬破装树莓派芯片 游戏机
 ](https://www.youtube.com/watch?v=KLayLc8TI9c&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
-* [Switch破解后做双系统教程大气层虚拟系统emuMMC](https://www.youtube.com/watch?v=u4vuDy2RI30&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
+* [2：Switch破解后做双系统教程大气层虚拟系统emuMMC](https://www.youtube.com/watch?v=u4vuDy2RI30&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
 
-* [硬破后如何上传游戏](https://www.youtube.com/watch?v=v3jilUWPs20&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
+* [3：硬破后如何上传游戏](https://www.youtube.com/watch?v=v3jilUWPs20&ab_channel=%E4%BA%8C%E6%89%8B%E5%85%89%E5%9C%88)
 
-* [商家文档](https://docs.qq.com/doc/DTkV1QUdGVFhMVHR3?u=6b808ad5aa794c9d8cd732746e4733da)
+* [4：商家文档](https://docs.qq.com/doc/DTkV1QUdGVFhMVHR3?u=6b808ad5aa794c9d8cd732746e4733da)
+
+* [5：硬破后升级大气层和switch固件](https://zhuanlan.zhihu.com/p/627504313)
+
+* [6：升级视频](https://www.youtube.com/watch?v=MB4jEhz84E4&t=204s&ab_channel=%E5%A5%BD%E7%89%A9%E6%80%AA%E5%92%96)
+
+*[7：砖头修复](https://www.youtube.com/watch?v=t0Y342KsKtc&ab_channel=%E6%80%80%E6%97%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8F%94%E5%A4%A7%E6%85%A7)
+
+*[香港人救砖过程](https://www.youtube.com/watch?v=34VANDsiuqs&t=300s&ab_channel=carcaschoi)
+
+* [Switch系统升级和大气层破解相关](https://songlin.me/2023/05/13/switch/)
