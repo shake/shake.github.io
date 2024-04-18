@@ -38,6 +38,8 @@ switch的破解分成两种：硬破和软破。他们都是利用了芯片的�
 
 ![Hekate](/img/2024/son/Hekate.webp "Hekate")
 
+软破买一个RCMLoader，成本在50~80RMB，硬破使用树莓派的方案，加上手工费，应该是150块钱。
+
 
 ## 硬破流程
 
