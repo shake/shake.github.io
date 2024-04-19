@@ -285,3 +285,4 @@ Switch启动的时候，先到这个画面，让你选择
 
 * [9：Switch系统升级和大气层破解相关](https://songlin.me/2023/05/13/switch/)
 * [10：软解流程](https://www.corys.fun/?p=125)
+* [11:使用注入器開機方法](https://www.youtube.com/watch?v=veh_fkcZgqI&ab_channel=SeanChan)
