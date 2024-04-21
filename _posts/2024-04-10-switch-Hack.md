@@ -286,3 +286,5 @@ Switch启动的时候，先到这个画面，让你选择
 * [9：Switch系统升级和大气层破解相关](https://songlin.me/2023/05/13/switch/)
 * [10：软解流程](https://www.corys.fun/?p=125)
 * [11:使用注入器開機方法](https://www.youtube.com/watch?v=veh_fkcZgqI&ab_channel=SeanChan)
+* [老外软解过程，缺少底下电脑的操作](https://www.youtube.com/watch?v=7EsPvinHZKY&ab_channel=Nevercholt)
+* [软解机器使用电脑通过TegraRcmGUI注入](https://www.bilibili.com/video/BV11r4y1K73i/?vd_source=2d2cd39fe7b6ad8e2806cdd37537049e)
