@@ -223,6 +223,8 @@ Switch启动的时候，先到这个画面，让你选择
 
 电脑格式化SD卡为exfat格式，分配单元大小为32k。选择32k，可以装更多游戏，如果是128k，那么性能更好，建议使用128k，我咨询了Gemini AI。
 
+有用户建议用fat32格式，32k。文件系统不容易损坏。
+
 ![exfat](/img/2024/son/exfat.jpg "exfat")
 
 ### switch 支持exfat驱动
@@ -269,6 +271,19 @@ Switch启动的时候，先到这个画面，让你选择
 
 ![end](/img/2024/son/end.jpg "end")
 
+
+# 软解流程
+
+刚好身边有一台软解的switch，打算验证一遍网上所学
+
+* sd卡格式化fat32格式
+* 放上整合包（1.7.0）+switch 18.0.0 固件版本
+* ssd卡放入switch
+* 开机通过usb线，使用TegraRcmGUI_v2.6注入（hekate v6.1.1 & Nyx v1.6.1），启动进入Hekate界面
+
+下周进行操作，希望和预期一致。
+
+
 # 备注
 
 * [1：任天堂Switch NS 破解硬破装树莓派芯片 游戏机
@@ -288,3 +303,5 @@ Switch启动的时候，先到这个画面，让你选择
 * [11:使用注入器開機方法](https://www.youtube.com/watch?v=veh_fkcZgqI&ab_channel=SeanChan)
 * [老外软解过程，缺少底下电脑的操作](https://www.youtube.com/watch?v=7EsPvinHZKY&ab_channel=Nevercholt)
 * [软解机器使用电脑通过TegraRcmGUI注入](https://www.bilibili.com/video/BV11r4y1K73i/?vd_source=2d2cd39fe7b6ad8e2806cdd37537049e)
+*[Tinfoil 黑商店](https://www.youtube.com/watch?v=o9qUgJtO8u8&t=2s&ab_channel=ThaGle%C7%9Dsh)
+* [软解step by step](https://www.youtube.com/watch?v=OvZhFX183xg&t=10s&ab_channel=Manito)
