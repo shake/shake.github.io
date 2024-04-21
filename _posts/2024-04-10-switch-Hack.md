@@ -278,10 +278,17 @@ Switch启动的时候，先到这个画面，让你选择
 
 * sd卡格式化fat32格式
 * 放上整合包（1.7.0）+switch 18.0.0 固件版本
+* switch装上短接器
 * ssd卡放入switch
-* 开机通过usb线，使用TegraRcmGUI_v2.6注入（hekate v6.1.1 & Nyx v1.6.1），启动进入Hekate界面
+* 先按住音量加不放手再按一下电源键进入黑屏rcm模式
+* 通过usb线，使用TegraRcmGUI_v2.6注入（hekate v6.1.1 & Nyx v1.6.1），
+* 马上按住音量减不放手就可以进入RCM模式
+
+看到启动进入Hekate界面，就算成功。
 
 下周进行操作，希望和预期一致。
+
+[参考文章](https://www.2023game.com/nsaita/pojie/205278.html)
 
 
 # 备注
@@ -305,3 +312,4 @@ Switch启动的时候，先到这个画面，让你选择
 * [软解机器使用电脑通过TegraRcmGUI注入](https://www.bilibili.com/video/BV11r4y1K73i/?vd_source=2d2cd39fe7b6ad8e2806cdd37537049e)
 *[Tinfoil 黑商店](https://www.youtube.com/watch?v=o9qUgJtO8u8&t=2s&ab_channel=ThaGle%C7%9Dsh)
 * [软解step by step](https://www.youtube.com/watch?v=OvZhFX183xg&t=10s&ab_channel=Manito)
+* [详细过程，软解](https://www.youtube.com/watch?v=GfZXbCLVFB8&t=238s&ab_channel=Kristofer)
