@@ -8,7 +8,7 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 儿子
-	- python
+    - Python
 ---
 
 自己儿子爱自学，我也顺便整理一下油管上的免费python视频教程。希望孩子在读大学前，可以好好看看。
