@@ -313,3 +313,4 @@ Switch启动的时候，先到这个画面，让你选择
 *[Tinfoil 黑商店](https://www.youtube.com/watch?v=o9qUgJtO8u8&t=2s&ab_channel=ThaGle%C7%9Dsh)
 * [软解step by step](https://www.youtube.com/watch?v=OvZhFX183xg&t=10s&ab_channel=Manito)
 * [详细过程，软解](https://www.youtube.com/watch?v=GfZXbCLVFB8&t=238s&ab_channel=Kristofer)
+* [switch知识合集](https://docs.qq.com/doc/DYVNDUG54V3J5V25E)
