@@ -314,3 +314,16 @@ Switch启动的时候，先到这个画面，让你选择
 * [软解step by step](https://www.youtube.com/watch?v=OvZhFX183xg&t=10s&ab_channel=Manito)
 * [详细过程，软解](https://www.youtube.com/watch?v=GfZXbCLVFB8&t=238s&ab_channel=Kristofer)
 * [switch知识合集](https://docs.qq.com/doc/DYVNDUG54V3J5V25E)
+
+
+## 链接
+
+LINKS TO MOD，
+
+* Check If Your Switch Is Patched: https://ismyswitchpatched.com/
+* EaseUs Partition: https://www.easeus.com/partition-manager/epm-free.html
+* TegraRCM: https://github.com/eliboa/TegraRcmGUI/releases
+* Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
+* Hekate: https://github.com/CTCaer/hekate/releases
+* Sig Patches: https://sigmapatches.su
+* https://rentry.org/EristaEmuNAND
