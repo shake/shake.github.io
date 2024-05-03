@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Switch 软破、硬破
-subtitle:   Switch Cracked 
+title:      Switch 软破、硬破总结
+subtitle:   Switch Cracked Summarize 
 date:       2024-04-10
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -305,7 +305,7 @@ Switch启动的时候，先到这个画面，让你选择
 * ssd卡放入switch
 * 先按住音量加不放手再按一下电源键进入黑屏rcm模式
 * 通过usb线，使用TegraRcmGUI_v2.6注入（hekate v6.1.1 & Nyx v1.6.1），
-* 马上按住音量减不放手就可以进入RCM模式
+
 
 看到启动进入Hekate界面，就算成功。进入Hekate界面后松开音量减。
 
