@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Switch 硬破和使用
+title:      Switch 软破、硬破
 subtitle:   Switch Cracked 
 date:       2024-04-10
 author:     shake
@@ -10,18 +10,43 @@ tags:
     - 生活
 ---
 
-主要是给孩子做一个记录。
+刚好假期，把过去一个月网上看到的关于switch的操作练习一遍，完全和预期一致。这里就先做一个总结。
 
 # 总结
+
+## 软破和硬破
+
+switch的软破和硬破，都是利于相同的一个漏洞，达到的目的也是相同的，通过SSD启动，绕过限制。
+
+所以SSD卡的大气层整合包，是相同的。
+
+## 大气层整合包和大气层差异
+
+我看了很多视频，包括对比目录。我这里整理一下
+
+下载大气层的解压包，你还需要做下面2件事情，才能正常使用。
+
+* bootloader，将Hekate下载到本地，复制到SSD卡根目录
+* 证书：需要下载switch的证书，放到大气层文件夹里，这样你才能启动游戏。
+* tools：switch目录下工具并不是必须，有几个工具是刚需：dns屏蔽，升级固件的daybreak_x，安装游戏的DBI。
+
+这样基本一个整合包就可以正常运行。
+
+
+
+# 学习材料
 
 这几天深入学习switch，了解一下所谓的switch的生态。
 
 * [Switch Firmwares](https://darthsternie.net/switch-firmwares/)
 * [大气层](https://github.com/Atmosphere-NX/Atmosphere/releases)
-* [大气层整合包](https://codeberg.org/carcaschoi/Shallowsea/releases)
+* [大气层整合包](https://docs.qq.com/doc/DTlJyb25FZ2ViTXhj?u=6b808ad5aa794c9d8cd732746e4733da)
 
 整合包是解决大气层还欠缺的各种工具，汉化等。让你开箱即用。
 
+**SD卡根目录**
+
+![dir](/img/2024/son/dir.jpg "sd卡目录")
 
 # 破解
 
@@ -327,3 +352,4 @@ LINKS TO MOD，
 * Hekate: https://github.com/CTCaer/hekate/releases
 * Sig Patches: https://sigmapatches.su
 * https://rentry.org/EristaEmuNAND
+* Sig Patches： https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/
