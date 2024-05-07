@@ -71,7 +71,7 @@ PlayStation Plus订阅分为：基本，Extra，白金。Extra应该就够用，
 
 ![ps5-slim](/img/2024/game/ps5-slim.jpg "PS5")
 
-其实我考虑是给孩子准备一个PS 5 Pro。
+其实我考虑是给孩子准备一个PS 5 Pro。左边是Slim版本，最大区别就是一根斜线。
 
 # Xbox
 
@@ -81,7 +81,7 @@ Xbox Series X 和 Xbox Series S 是微软于 2020 年 11 月推出的第八代�
 
 ![xbox](/img/2024/game/xbox.jpg "xbox")
 
-Xbox Series S，simple版本，价格便宜很多，299美金，基本是switch一样的价格。
+Xbox Series S，simple版本，上图白色，，价格便宜很多，299美金，基本是switch一样的价格。
 
 Xbox订阅，Xbox Game Pass，这个是需要深入了解，如果购买xbox。
 
