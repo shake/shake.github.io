@@ -39,9 +39,9 @@ tags:
 
 目前一张512G的卡，装上50个自己喜欢的游戏，真的已经满足孩子的游戏需求。
 
-# play station
+# PlayStation
 
-这是sony play station，据说这个名字的来源是work station，工作站。玩游戏，就称呼play station。很有意思。
+这是sony PlayStation，据说这个名字的来源是work station，工作站。玩游戏，就称呼PlayStation。很有意思。
 
 1994 年 12 月 3 日随着初代 PlayStation 游戏机的发布而首次推出，并在随后几年中推出了多个后续产品。
 
