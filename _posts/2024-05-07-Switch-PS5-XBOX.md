@@ -26,7 +26,7 @@ tags:
 
 ![任天堂](/img/2024/game/game1.jpg "任天堂游戏机")
 
-90年代后，感觉任天堂的游戏机，就没进入大陆，或者是我没关注。
+90年代后，感觉任天堂的游戏机，因为防盗版的原因，没进入大陆，或者是我没关注。
 
 等再次关注的时候，已经是switch流行的的时候。
 
@@ -79,7 +79,7 @@ Xbox 2001 年发布首款 Xbox 游戏机，与索尼的 PlayStation 2 和任天�
 
 Xbox Series X 和 Xbox Series S 是微软于 2020 年 11 月推出的第八代家用游戏机。它们是 Xbox One 的继任者，并与索尼的 PlayStation 5 和任天堂的 Switch 竞争。
 
-![xbox](/img/2024/game/xbox.jpg. "xbox")
+![xbox](/img/2024/game/xbox.jpg "xbox")
 
 Xbox Series S，simple版本，价格便宜很多，299美金，基本是switch一样的价格。
 
