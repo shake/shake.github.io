@@ -16,7 +16,7 @@ tags:
 
 对于游戏主机来说，设备本身不贵，真的游戏贵。
 
-# switch
+# Nintendo Switch
 
 任天堂的第一代游戏主机是：1983年发售，红白机（Family Computer，FC），最著名的游戏是：《魂斗罗》
 
