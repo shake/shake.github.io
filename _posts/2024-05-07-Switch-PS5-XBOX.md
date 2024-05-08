@@ -39,6 +39,8 @@ tags:
 
 目前一张512G的卡，装上50个自己喜欢的游戏，真的已经满足孩子的游戏需求。
 
+![switch](/img/2024/game/switch.jpg "switch")
+
 # PlayStation
 
 这是sony PlayStation，据说这个名字的来源是work station，工作站。玩游戏，就称呼PlayStation。很有意思。
