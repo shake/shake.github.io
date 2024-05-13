@@ -101,36 +101,49 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 ---
 
 * **Department of Mechanical Engineering**（机械工程系）：
-    * 机械工程理学学士
+    * 机械工程
 
 
 ---
 
 * **Department of Biomedical Engineering**（生物医学工程系
 ）：
-    * 生物医学
+    * 生物医学方向
 
 ---
 
 * **Department of Mechanical Engineering and Department of Electrical and Computer Engineering**（机械工程系 电气与计算机工程系）：
-    * 机电一体化和机器人工程理学学士
+    * 机电工程
 
 ---
 
 * **Department of Electrical and Computer Engineering**（电气与计算机工程系）：
-    * 计算机工程理学学士
-	* 电气工程理学学士
-	* 工程物理理学学士
+    * 计算机工程
+	* 电气工程
+	* 工程物理
 
 ---
 
 * **Department of Chemical and Materials Engineering**（化学与材料工程系）：
-    * 化学工程理学学士
-    * 材料工程理学学士
+    * 化学工程
+    * 材料工程
 
 ---
 
 * **Department of Civil and Environmental Engineering**（土木与环境工程系）：
-    * 土木工程理学学士
-    * 采矿工程理学学士
-    * 石油工程理学学士
+    * 土木工程
+    * 采矿工程
+    * 石油工程
+
+## 学费
+
+大学不同的专业，费用差距很大，超出很多人的想象，最贵的专业，是工程专业，学费超过计算机，商学院。
+
+阿尔伯塔大学的学费，在加拿大来说，算是中等，如果换成多伦多，估计还需要增加一个百分之二十。
+
+学校提供：[费用估算](https://costcalculator.registrar.ualberta.ca/costcalculator/)
+
+1年学费：$45,482.40	
+非学费：$ 16,770.45
+
+一年费用，应该会超过7万加币，40万人民币。
