@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      阿尔伯塔大学总结
-subtitle:   University of Alberta Summarize
+title:      阿尔伯塔大学本科申请总结
+subtitle:   University of Alberta Undergraduate application Summarize
 date:       2024-05-13
 author:     shake
 header-img: img/post-bg-2015.jpg
