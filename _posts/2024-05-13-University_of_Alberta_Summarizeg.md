@@ -42,6 +42,12 @@ tags:
 
 填写过程比较简单，改天我测试一下申请需要填写的材料。
 
+如果你对申请有什么疑问，可以网上约招生团队聊聊。
+
+[招生团队预约会议](https://uab.ca/advising)
+
+这个真的让孩子找招生团队老师聊聊。这样加深了解。
+
 # 地理位置和校区
 
 现在大学，不同校区，不同的专业，收费，还有申请的难度都不一样。所以这块也是需要搞清楚的。
@@ -59,5 +65,57 @@ tags:
 ![目录](/img/2024/alberta/a.jpg "目录")
 
 计算机科学，在不同校区，学习内容是不同的。如果选择在Augustana Campus学习计算机科学，那么必须4年都在这个校园学习，不能换学区。
+
+# Faculty of Engineering
+
+建议孩子学什么专业，什么专业不会给AI取代。这个也是必须思考的问题。我肯定不建议孩子学CS专业，当码农。相信日后，编程能力，就是一个基本的技能，理科生都会具备的一项能力。
+
+建议孩子考虑工程专业，加拿大大学的工程专业，入学是不需要选定专业，通过第一年的学习，你再确定你的学习方向。
+
+## 招生要求
+
+
+## CO-OP
+
+阿尔伯塔大学工程专业提供CO-OP，学生需要提出申请，5年才能毕业。也提供传统的学习方式，4年毕业。
+
+CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定你是否可以选择到你希望的专业方向和CO-OP的机会。
+
+![CO-OP](/img/2024/alberta/co.jpg "CO-OP")
+
+[第二年工程专业学科方向申请](https://www.ualberta.ca/engineering/programs/bachelor-of-science-in-engineering/disciplines.html)
+
+工程专业也分成多个系
+
+* Department of Mechanical Engineering （机械工程系）
+* Department of Biomedical Engineering （生物医学工程系）
+* Department of Electrical and Computer Engineering（电气与计算机工程系）
+* Department of Chemical and Materials Engineering（化学与材料工程系）
+* Department of Civil and Environmental Engineering（土木与环境工程系）
+	石油工程理学学士
+	采矿工程理学学士
+	土木工程理学学士
+
+
+
+
+* 石油工程理学学士
+* 采矿工程理学学士
+* 土木工程理学学士
+* 材料工程理学学士
+* 化学工程理学学士
+* 工程物理理学学士
+* 计算机工程理学学士
+* 电气工程理学学士
+* 机电一体化和机器人工程理学学士
+* 机械工程理学学士
+
+
+
+
+
+
+
+
 
 
