@@ -170,12 +170,14 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 有一门课
 
-**MATH 100 - Calculus for Engineering **
+**MATH 100 - Calculus for Engineering**
 
 课程的描述里，**Credit can be obtained in at most one of MATH 100, 113, 114, 117, 134, 144, 154, or SCI 100.**
 
 ![ap](/img/2024/alberta/ap.jpg "AP")
 
 这块课程你无需再修，就可以直接通过，获得学分。
+
+看的有点复杂，其实你只需要把AP成绩发给学校，申请学分抵扣，这些课程你就可以免修。
 
 
