@@ -165,3 +165,17 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 [AP学分转换](https://www.ualberta.ca/admissions/international/resources/ap-students/advanced-standing-ap-courses.html?)
 
 这样可以减少大学的学习压力。
+
+工程学生，第一年的课程内容里，第一年的课程都是相同的。[课程内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=54589)
+
+有一门课
+
+**MATH 100 - Calculus for Engineering **
+
+课程的描述里，**Credit can be obtained in at most one of MATH 100, 113, 114, 117, 134, 144, 154, or SCI 100.**
+
+![ap](/img/2024/alberta/ap.jpg "AP")
+
+这块课程你无需再修，就可以直接通过，获得学分。
+
+
