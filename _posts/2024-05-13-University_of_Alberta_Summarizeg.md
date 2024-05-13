@@ -111,9 +111,7 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 ---
 
-* **Department of Mechanical Engineering and Department of Electrical and Computer Engineering**（机械工程系 电气与计算机工程系
-
-）：
+* **Department of Mechanical Engineering and Department of Electrical and Computer Engineering**（机械工程系 电气与计算机工程系）：
     * 机电一体化和机器人工程理学学士
 
 ---
