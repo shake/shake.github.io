@@ -70,6 +70,8 @@ tags:
 
 如果申请CS专业，就应该有不同的校区申请，主校区和Augustana Campus，学习内容，教学方式，都会有很大差异，并且不允许调整校区。
 
+NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
+
 工程专业，基本可以理解，就在主校区上课。工程专业第一年基础课程，如果你希望上法语，可以在Campus Saint-Jean上。
 
 # 工程专业
