@@ -114,6 +114,13 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 ---
 
+* **Department of Mechanical Engineering and Department of Electrical and Computer Engineering**（机械工程系 电气与计算机工程系
+
+）：
+    * 机电一体化和机器人工程理学学士
+
+---
+
 * **Department of Electrical and Computer Engineering**（电气与计算机工程系）：
     * 计算机工程理学学士
 	* 电气工程理学学士
@@ -125,45 +132,9 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
     * 化学工程理学学士
     * 材料工程理学学士
 
-
 ---
 
 * **Department of Civil and Environmental Engineering**（土木与环境工程系）：
     * 土木工程理学学士
     * 采矿工程理学学士
     * 石油工程理学学士
-
-
-
-
-	
-
-   
-
-
-
-
-
-
-
-
-* 石油工程理学学士
-* 采矿工程理学学士
-* 土木工程理学学士
-* 材料工程理学学士
-* 化学工程理学学士
-* 工程物理理学学士
-* 计算机工程理学学士
-* 电气工程理学学士
-* 机电一体化和机器人工程理学学士
-* 机械工程理学学士
-
-
-
-
-
-
-
-
-
-
