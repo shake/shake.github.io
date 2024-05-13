@@ -195,8 +195,13 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 机械专业，埃德蒙顿土著居民，很好的分享。
 
 * [University of Alberta - Engineering | BEFORE YOU APPLY TO ENGINEERING](https://www.youtube.com/watch?v=qu0G2Wiaff4)
+* [加拿大大学工程专业和CO-OP介绍](https://www.youtube.com/watch?v=9kpXLj8VTO4&t=12s)
 
 * [计算机专业分享](https://www.youtube.com/watch?v=WiVujkjU0Ns&t=15s)
+
+# 奖学金
+
+NIS过去3年申请阿拉伯塔大学的学生，基本都拿到奖学金。奖学金有2种，一种是需要你去申请，另外一种是大学自动发放。所以这块真的要好好收集信息，拿下更多的奖学金。
 
 
 
