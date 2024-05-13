@@ -64,6 +64,8 @@ tags:
 
 从曼谷可以直飞埃德蒙顿，来回机票价格是6千人民币。
 
+如果申请CS专业，就应该有不同的校区申请，主校区和Augustana Campus，学习内容，教学方式，都会有很大差异，并且不允许调整校区。
+
 # 工程专业
 
 建议孩子学什么专业，什么专业不会给AI取代。这个也是必须思考的问题。我肯定不建议孩子学CS专业，当码农。相信日后，编程能力，就是一个基本的技能，工科生都会具备的一项能力。
@@ -149,3 +151,17 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 * 非学费：$ 16,770.45
 
 一年费用，应该会超过7万加币，40万人民币。
+
+## 专业课程
+
+不同的专业的课程内容，你也是可以在学校官方网站查到。可以了解到电气工程专业，第一年学什么，后面几年学什么内容。
+
+[课程日历](https://calendar.ualberta.ca/)
+
+工程专业，第一年的课程都是相同的。[课程内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=54589)
+
+## AP 学分转换
+
+[AP学分转换](https://www.ualberta.ca/admissions/international/resources/ap-students/advanced-standing-ap-courses.html?)
+
+这样可以减少大学的学习压力。
