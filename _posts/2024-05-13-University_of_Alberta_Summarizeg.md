@@ -74,6 +74,17 @@ tags:
 
 ## 招生要求
 
+针对加拿大的招生要求，对于国际学生，也是有参考价值。
+
+![12年级](/img/2024/alberta/grade12.jpg "12年级")
+
+针对AP课程，建议选择
+
+* AP Physics
+* AP Chemistry
+* AP Calculus
+
+真的是学好数理化，走遍天下都不怕。
 
 ## CO-OP
 
@@ -83,18 +94,55 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 ![CO-OP](/img/2024/alberta/co.jpg "CO-OP")
 
+## 专业方向
+
 [第二年工程专业学科方向申请](https://www.ualberta.ca/engineering/programs/bachelor-of-science-in-engineering/disciplines.html)
 
 工程专业也分成多个系
 
-* Department of Mechanical Engineering （机械工程系）
-* Department of Biomedical Engineering （生物医学工程系）
-* Department of Electrical and Computer Engineering（电气与计算机工程系）
-* Department of Chemical and Materials Engineering（化学与材料工程系）
-* Department of Civil and Environmental Engineering（土木与环境工程系）
-	石油工程理学学士
-	采矿工程理学学士
-	土木工程理学学士
+---
+
+* **Department of Mechanical Engineering**（机械工程系）：
+    * 机械工程理学学士
+
+
+---
+
+* **Department of Biomedical Engineering**（生物医学工程系
+）：
+    * 生物医学
+
+---
+
+* **Department of Electrical and Computer Engineering**（电气与计算机工程系）：
+    * 计算机工程理学学士
+	* 电气工程理学学士
+	* 工程物理理学学士
+
+---
+
+* **Department of Chemical and Materials Engineering**（化学与材料工程系）：
+    * 化学工程理学学士
+    * 材料工程理学学士
+
+
+---
+
+* **Department of Civil and Environmental Engineering**（土木与环境工程系）：
+    * 土木工程理学学士
+    * 采矿工程理学学士
+    * 石油工程理学学士
+
+
+
+
+	
+
+   
+
+
+
+
 
 
 
