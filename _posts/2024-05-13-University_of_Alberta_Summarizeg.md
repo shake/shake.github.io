@@ -192,9 +192,8 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 我专门油管上找阿尔伯塔大学工程专业的学生的分享。这样更加有针对性。
 
-机械专业，埃德蒙顿土著居民，很好的分享。
 
-* [University of Alberta - Engineering | BEFORE YOU APPLY TO ENGINEERING](https://www.youtube.com/watch?v=qu0G2Wiaff4)
+* [机械专业，埃德蒙顿土著居民的分享](https://www.youtube.com/watch?v=qu0G2Wiaff4)
 * [加拿大大学工程专业和CO-OP介绍](https://www.youtube.com/watch?v=9kpXLj8VTO4&t=12s)
 
 * [计算机专业分享](https://www.youtube.com/watch?v=WiVujkjU0Ns&t=15s)
