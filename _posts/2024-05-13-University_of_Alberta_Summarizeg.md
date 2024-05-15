@@ -172,6 +172,8 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 工程专业，第一年的课程都是相同的。[课程内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=54589)
 
+![一年级](/img/2024/alberta/year1.jpg "year1")
+
 选择电气工程和CO-OP [课程详细内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=55178&returnto=13670)
 
 ![二年级](/img/2024/alberta/year2.jpg "year2")
