@@ -66,7 +66,7 @@ tags:
 * Campus Saint-Jean （法语教学，提供本科和研究生课程）
 * Enterprise Square（商学院）
 * South Campus （农业学科和体育中心）
-* Augustana Campus（提供广泛的本科和研究生课程。）
+* Augustana Campus（不在埃德蒙顿，100多公里，教学有专门特色）
 
 从曼谷可以直飞埃德蒙顿，来回机票价格是6千人民币。
 
@@ -103,6 +103,8 @@ NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定你是否可以选择到你希望的专业方向和CO-OP的机会。
 
 20个月的带薪学习，相当于毕业后就有一年的工作经验。从油管了解到，阿尔伯塔大学工程专业的CO-OP，口碑非常不错。不输给UBC和多伦多大学。
+
+加拿大最低工资是每小时17.30 加元一小时，一天8小时，一个月工作20天，可以挣2768加元。相当于1.4万人民币。
 
 ![CO-OP](/img/2024/alberta/co.jpg "CO-OP")
 
@@ -171,6 +173,8 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 工程专业，第一年的课程都是相同的。[课程内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=54589)
 
 选择电气工程和CO-OP [课程详细内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=55178&returnto=13670)
+
+![二年级](/img/2024/alberta/year2.jpg "year2")
 
 CO-OP 五年的课程安排，看看这些课程标题，点击可以看到具体内容，真的非常不容易。可以让孩子提前感受一下这些课程内容，这样在高中阶段学习AP课程，更加有针对性。
 
