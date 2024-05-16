@@ -98,7 +98,7 @@ NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 
 ## CO-OP
 
-什么是CO-OP？
+什么是CO-OP？CO-OP是滑铁卢大学最新提出搞起来的，也是最成功的。需要注意的是并不是加拿大所有大学，所有专业，都能提供CO-OP。
 
 ![co-op](/img/2024/alberta/co-op.jpg "co-op")
 
