@@ -192,6 +192,8 @@ CO-OP 五年的课程安排，看看这些课程标题，点击可以看到具�
 
 看了一下视频，讲座，基本是几百人的学生一起上课。学生都拿着电脑或ipad做笔记，比较担心笔记本的电池是否可以支撑那么长的课堂时间。
 
+孩子在国际学校是小班上课，去到大学，突然改成大教室，几百学生一起上课，听教授飞快的讲学科的原理，真的是需要花时间去适应。
+
 ## AP 学分转换
 
 [AP学分转换](https://www.ualberta.ca/admissions/international/resources/ap-students/advanced-standing-ap-courses.html?)
