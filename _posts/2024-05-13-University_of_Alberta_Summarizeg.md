@@ -98,6 +98,10 @@ NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 
 ## CO-OP
 
+什么是CO-OP？
+
+![co-op](/img/2024/alberta/co-op.jpg "co-op")
+
 阿尔伯塔大学工程专业提供CO-OP，学生需要提出申请，5年才能毕业。也提供传统的学习方式，4年毕业。
 
 CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定你是否可以选择到你希望的专业方向和CO-OP的机会。
