@@ -112,6 +112,10 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 ![CO-OP](/img/2024/alberta/co.jpg "CO-OP")
 
+当经济出现问题，不仅仅是工作不好找，co-op的工作机会也不好找。2023年就连滑铁卢的工程专业的CO-OP，找到工作机会，也就百分之40. 不是所有人都能找到理想的CO-OP。如何才能让自己具备竞争力，可以找到CO-OP, 仅仅靠学校的GPA分数，还是不够的。看底下的视频，其实分享非常有价值。
+
+![no-OP](/img/2024/alberta/no-co.jpg "no-CO")
+
 ## 专业方向
 
 [第二年工程专业学科方向申请](https://www.ualberta.ca/engineering/programs/bachelor-of-science-in-engineering/disciplines.html)
