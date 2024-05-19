@@ -35,6 +35,7 @@ tags:
 
 # BBR3
 
+BBR3是为了加速，主要是给Reality使用。
 手工安装，没有成功。主要原因是swap分区太小，导致无法启动，修改swap分区。
 
 [BBR3安装](https://github.com/shake/xray-install/)
