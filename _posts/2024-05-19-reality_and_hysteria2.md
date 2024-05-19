@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      Reality And Hysteria2
+subtitle:   手工安装Reality和Hysteria2
+date:       2024-05-19
+author:     shake
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - 技术
+---
+
+世界变化很快，2年没怎么关注，发现已经完全变化，都基本看不懂各种的梯子术语。不过也确实有创新，现在已经不需要依赖域名，443端口，那么其实就不用担心给封端口。
+
+我是使用RackNerd的vps，一年12美刀，比我搬瓦工便宜不少，也可以好好对比一下，12美刀的vps，是否可以满足需求。
+
+现在搭建变的很简单，到处都是一键安装脚本，有时候也不得不小心一点，同时也自己多学一点，这次安装都是直接使用官方的脚本加上手工配置，真的花心思读了一下官方文档。服务器端和windows的客户端，目前使用v2rayN
+
+Reality和Hysteria2，都是无法套CDN。协议是安全，但是如何给直接封IP，就没法访问，如果可以再搞一个协议，可以套CDN，这样可以保证万无一失
+
+# Reality
+
+[安装过程](https://github.com/shake/Xray-install)
+
+# Hysteria2
+
+[安装过程](https://github.com/shake/hysteria)
+
+
+
