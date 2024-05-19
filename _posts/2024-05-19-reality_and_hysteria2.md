@@ -25,6 +25,10 @@ tags:
 * 目前最安全的协议
 * Reality+BBR3算法 和 Hysteria2+Brutal算法
 
+# 使用分享
+
+目前通过中国电信，中国移动线路，两种协议运行都没啥问题。
+
 # Reality
 
 [安装过程](https://github.com/shake/Xray-install)
