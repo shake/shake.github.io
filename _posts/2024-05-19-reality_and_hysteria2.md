@@ -23,6 +23,7 @@ tags:
 * 可以使用任意端口，
 * 不支持套CDN
 * 目前最安全的协议
+* Reality+BBR3算法 和 Hysteria2+Brutal算法
 
 # Reality
 
@@ -31,6 +32,15 @@ tags:
 # Hysteria2
 
 [安装过程](https://github.com/shake/hysteria)
+
+# BBR3
+
+手工安装，没有成功。主要原因是swap分区太小，导致无法启动，修改swap分区。
+
+[BBR3安装](https://github.com/shake/xray-install/)
+
+有空好好研究一下，为啥手工安装，导致无法启动。
+
 
 
 
