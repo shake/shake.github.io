@@ -50,10 +50,10 @@ BBR3是为了加速，主要是给Reality使用。
 
 <details open>
 <summary>Shopping list</summary>
-
+<pre>
 * Vegetables
 * Fruits
 * Fish
-
+</pre>
 </details>
 
