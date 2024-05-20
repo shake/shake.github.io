@@ -46,11 +46,11 @@ BBR3是为了加速，主要是给Reality使用。
 
 有空好好研究一下，为啥手工安装，导致无法启动。
 
-<details><summary>参考资料</summary>
+<details><summary>**参考资料**</summary>
 <p>
 
-* github
-* 微软
+github<br>
+微软<br>
 
 </p>
 </details> 
