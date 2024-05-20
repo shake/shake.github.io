@@ -247,7 +247,7 @@ NIS过去3年申请阿拉伯塔大学的学生，基本都拿到奖学金。奖�
 
 ![奖学金](/img/2024/alberta/scholarship.jpg "Scholarship")
 
-可以通过这个[奖学金申请](https://www.ualberta.ca/admissions/international/tuition-and-scholarships/scholarships-and-awards/index.html?)
+可以通过这个[奖学金申请](https://www.ualberta.ca/admissions/international/tuition-and-scholarships/scholarships-and-awards/index.html?) 了解各种针对不同项目的奖学金计划。真的是钱，值得好好研究。
 
 据说阿尔伯塔大学奖学金，是比较容易拿下。过去4年，NIS申请阿尔伯塔大学同学，都拿到的奖学金。
 
