@@ -243,7 +243,7 @@ NIS过去3年申请阿拉伯塔大学的学生，基本都拿到奖学金。奖�
 
 不细看你会吃亏，阿尔伯塔大学有专门针对中国学生的奖学金。
 
-![奖学金](/img/2024/alberta/Scholarship.jpg "Scholarship")
+![奖学金](/img/2024/alberta/scholarship.jpg "Scholarship")
 
 可以通过这个[奖学金申请](https://www.ualberta.ca/admissions/international/tuition-and-scholarships/scholarships-and-awards/index.html?)
 
