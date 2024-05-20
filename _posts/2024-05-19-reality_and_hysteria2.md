@@ -46,12 +46,14 @@ BBR3是为了加速，主要是给Reality使用。
 
 有空好好研究一下，为啥手工安装，导致无法启动。
 
-<details>
-    <summary>历史更新 history（点击即可展开或收起）</summary>
-<br>
->2023.10.3 beta2 1. Single-select, multi-select or select all the required protocols; 2. Support according to the order of selection, the definition of the corresponding protocol listen port number; 1. 可以单选、多选或全选需要的协议; 2. 支持根据选择的先后次序，定义相应协议监听端口号
->
->2023.9.30 beta1 Sing-box 全家桶一键脚本 for vps
-</details>
+#### Example
 
+<details open>
+<summary>Shopping list</summary>
+
+* Vegetables
+* Fruits
+* Fish
+
+</details>
 
