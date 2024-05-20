@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Reality And Hysteria2
-subtitle:   手工安装Reality和Hysteria2
+title:      XTLS Reality And Hysteria2
+subtitle:   手工安装XTLS Reality和Hysteria2
 date:       2024-05-19
 author:     shake
 header-img: img/post-bg-2015.jpg
@@ -29,7 +29,7 @@ tags:
 
 目前通过中国电信，中国移动线路，两种协议运行都没啥问题。
 
-# Reality
+# XTLS Reality
 
 [安装过程](https://github.com/shake/Xray-install)
 
@@ -46,6 +46,12 @@ BBR3是为了加速，主要是给Reality使用。
 
 有空好好研究一下，为啥手工安装，导致无法启动。
 
-
+<details>
+    <summary>历史更新 history（点击即可展开或收起）</summary>
+<br>
+>2023.10.3 beta2 1. Single-select, multi-select or select all the required protocols; 2. Support according to the order of selection, the definition of the corresponding protocol listen port number; 1. 可以单选、多选或全选需要的协议; 2. 支持根据选择的先后次序，定义相应协议监听端口号
+>
+>2023.9.30 beta1 Sing-box 全家桶一键脚本 for vps
+</details>
 
 
