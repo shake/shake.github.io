@@ -48,3 +48,10 @@ windows的激活，管理license，其实需要你有一个outlook的账号。
 **bandwagonhost.com**
 
 现在是唯一虚拟机资产。
+
+
+
+
+
+
+
