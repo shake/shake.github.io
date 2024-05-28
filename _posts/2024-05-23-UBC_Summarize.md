@@ -95,6 +95,8 @@ Okanagan Campus 提供的院系：[院系介绍](https://ok.ubc.ca/academics/fac
 
 UBC的工程学院隶属于其应用科学系(Faculty of Applied Science)。
 
+UBC 工程专业第一年的课程，都是相同的，完成第一年学业后，根据学生的成绩的排名，选择自己的专业方向。
+
 主校区的提供12个专业方向，[官方地址，提供每个专业的视频说明](https://www.ubc.ca/our-campuses/vancouver/directories/faculties-schools.html#app_sci)
 
 * 生物医学工程、
@@ -110,6 +112,10 @@ UBC的工程学院隶属于其应用科学系(Faculty of Applied Science)。
 * 机械工程系、
 * 采矿工程系、Norman B. Keevil 研究所
 
+学生数量
+
+![学生数量](/img/2024/ubc/v-e.jpg "工程专业学生数量")
+
 Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs-admissions/)
 
 * 计算机工程
@@ -118,7 +124,11 @@ Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs
 * 机械工程
 * 制作工程
 
+![学生数量](/img/2024/ubc/o-e.jpg "工程专业学生数量")
+
 查资料时候，看到5月份，Okanagan Campus工程专业，其实还是没招满，可以进行所谓的捡漏。可以好好考虑一下。
+
+
 
 ## 招生要求
 
@@ -136,29 +146,18 @@ UBC是加拿大大学中极少数针对本科申请会明确要求AP成绩的。
 
 ## CO-OP
 
+关于加拿大大学的CO-OP，名声很多，听到的都是好处，有什么不足呢？这个其实我也想了解一下，因为大学的辅导学生找Co-Op机会的老师，其实和国内的大学的辅导员差不多，尤其是IT行业，很容易落后。加拿大的大学，其实也没有例外。
 
+[为什么 UBC Co-Op被高估了（作为一名计算机科学专业的学生）](https://www.youtube.com/watch?v=JG6kcPgQyPw&t=157s)
 
-## 专业方向
-
-UBC的工程学院在大二的时候给学生们提供了13个分支进行选择其中有：
-
-
-
-
+在大学期间就开始锻炼如何找工作，无论如何都是一件好事。要拿下大厂的实习Offer，你需要通过多种手段展示自己的能力，多种渠道推销自己。包括自己的油管频道，自己的github仓库。
 
 
 ## 学费
 
 大学不同的专业，费用差距很大，超出很多人的想象，最贵的专业，是工程专业，学费超过计算机，商学院。
 
-阿尔伯塔大学的学费，在加拿大来说，算是中等，如果换成多伦多，估计还需要增加一个百分之二十。
 
-学校提供：[费用估算](https://costcalculator.registrar.ualberta.ca/costcalculator/)
-
-* 1年学费：$45,482.40	
-* 非学费：$ 16,770.45
-
-一年费用，应该会超过7万加币，40万人民币。
 
 ## 专业课程
 
