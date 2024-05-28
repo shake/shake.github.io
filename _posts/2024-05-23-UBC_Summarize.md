@@ -89,15 +89,7 @@ Okanagan Campus（基隆拿校区）
 
 Okanagan Campus 提供的院系：[院系介绍](https://ok.ubc.ca/academics/faculties-and-schools/)
 
-工程专业，2024年提供[5个方向](https://engineering.ok.ubc.ca/programs-admissions/)
 
-* 计算机工程
-* 土木工程
-* 电气工程
-* 机械工程
-* 制作工程
-
-查资料时候，看到5月份，Okanagan Campus工程专业，其实还是没招满，可以进行所谓的捡漏。可以好好考虑一下。
 
 # 工程专业
 
@@ -118,7 +110,15 @@ UBC的工程学院隶属于其应用科学系(Faculty of Applied Science)。
 * 机械工程系、
 * 采矿工程系、Norman B. Keevil 研究所
 
+Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs-admissions/)
 
+* 计算机工程
+* 土木工程
+* 电气工程
+* 机械工程
+* 制作工程
+
+查资料时候，看到5月份，Okanagan Campus工程专业，其实还是没招满，可以进行所谓的捡漏。可以好好考虑一下。
 
 ## 招生要求
 
