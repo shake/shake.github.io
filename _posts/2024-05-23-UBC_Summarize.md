@@ -134,7 +134,7 @@ Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs
 
 针对加拿大的工程专业招生要求，对于国际学生，也是有参考价值。
 
-![12年级](/img/2024/alberta/grade12.jpg "12年级")
+![12年级](/img/2024/alberta/h.jpg "12年级")
 
 针对AP课程，建议选择
 
@@ -142,7 +142,6 @@ Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs
 * AP Chemistry
 * AP Calculus
 
-UBC是加拿大大学中极少数针对本科申请会明确要求AP成绩的。
 
 ## CO-OP
 
