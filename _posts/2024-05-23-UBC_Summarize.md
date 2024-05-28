@@ -97,20 +97,9 @@ UBC的工程学院隶属于其应用科学系(Faculty of Applied Science)。
 
 UBC 工程专业第一年的课程，都是相同的，完成第一年学业后，根据学生的成绩的排名，选择自己的专业方向。Vancouver Campus和 Okanagan Campus 都开设工程专业，具体专业方向有所不同。申请的时候，需要明确校区，入学后，很难校区调整。
 
-主校区的提供12个专业方向，[官方地址，提供每个专业的视频说明](https://www.ubc.ca/our-campuses/vancouver/directories/faculties-schools.html#app_sci)
+主校区的提供14个专业方向，[官方地址，提供每个专业的视频说明](https://www.ubc.ca/our-campuses/vancouver/directories/faculties-schools.html#app_sci)
 
-* 生物医学工程、
-* 化学与生物工程学院、
-* 土木工程系、
-* 电气与计算机工程系、
-* 工程物理系、
-* 环境工程、环境工程（UBC/UNBC 联合项目）
-* 地质工程、
-* 综合工程、
-* 制造工程、
-* 材料工程、
-* 机械工程系、
-* 采矿工程系、Norman B. Keevil 研究所
+![工程专业](/img/2024/ubc/14.jpg "工程专业")
 
 学生数量
 
