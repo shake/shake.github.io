@@ -126,7 +126,7 @@ Okanagan Campus 2024年提供[5个方向](https://engineering.ok.ubc.ca/programs
 
 ![学生数量](/img/2024/ubc/o-e.jpg "工程专业学生数量")
 
-查资料时候，看到5月份，Okanagan Campus工程专业，其实还是没招满，可以进行所谓的捡漏。可以好好考虑一下。
+查资料时候，看到2024年5月份，Okanagan Campus工程专业，其实还是没招满，可以进行所谓的捡漏。可以好好考虑一下。
 
 
 
