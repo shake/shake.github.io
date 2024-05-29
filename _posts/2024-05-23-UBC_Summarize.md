@@ -163,7 +163,10 @@ UBC学费是按照学分计算，第一年工程专业，需要37个学分，每
 
 [工程专业完成37个学分，需要修的课程](https://academicservices.engineering.ubc.ca/degree-planning/course-planning/)
 
+Standard Timetable (STT)：标准时间表
+
 ![37学分](/img/2024/ubc/e-f.jpg "第一年37学分")
+
 
 更详细介绍，可以看下面的视频。
 
