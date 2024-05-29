@@ -161,6 +161,8 @@ UBC学费是按照学分计算，第一年工程专业，需要37个学分，每
 
 由于UBC 2024年，需要更换学生使用的课程系统，网站的内容改变比较大。可以通过搜索 **engineer course first year**，了解到工程专业的课程情况。
 
+[工程专业完成37个学分，需要修的课程](https://academicservices.engineering.ubc.ca/degree-planning/course-planning/)
+
 [2024年在读电气工程，第二年，分享自己的UBC的学习经历，包括课程内容，持续更新](https://www.youtube.com/watch?v=3yjt1dNw5YY&list=PLkR5FrdSvMvLWz_XzaNMBkeABy7ooCCJJ)
 
 很真实，比如讨论自己差点挂科的课程。
