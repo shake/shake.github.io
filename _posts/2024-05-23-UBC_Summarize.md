@@ -157,23 +157,15 @@ UBC学费是按照学分计算，第一年工程专业，需要37个学分，每
 
 不同的专业的课程内容，你也是可以在学校官方网站查到。可以了解到电气工程专业，第一年学什么，后面几年学什么内容。
 
-编号100到200，代表比较基础，难度低很多。200以上的，就比较高级，难度很大。
+工程专业，其实读起来是非常有难度的，要做好心里准备。
 
-[课程日历](https://calendar.ualberta.ca/)
+由于UBC 2024年，需要更换学生使用的课程系统，网站的内容改变比较大。可以通过搜索 **engineer course first year**，了解到工程专业的课程情况。
 
-工程专业，第一年的课程都是相同的。[课程内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=54589)
+[2024年在读电气工程，第二年，分享自己的UBC的学习经历，包括课程内容，持续更新](https://www.youtube.com/watch?v=3yjt1dNw5YY&list=PLkR5FrdSvMvLWz_XzaNMBkeABy7ooCCJJ)
 
-![一年级](/img/2024/alberta/year1.jpg "year1")
+很真实，比如讨论自己差点挂科的课程。
 
-选择电气工程和CO-OP [课程详细内容](https://calendar.ualberta.ca/preview_program.php?catoid=44&poid=55178&returnto=13670)
 
-![二年级](/img/2024/alberta/year2.jpg "year2")
-
-CO-OP 五年的课程安排，看看这些课程标题，点击可以看到具体内容，真的非常不容易。可以让孩子提前感受一下这些课程内容，这样在高中阶段学习AP课程，更加有针对性。
-
-电气工程的一个分支，其实就是计算机工程，因为计算机工程太复杂，所以独立出来。如果你研究课程，会发现电气工程和计算机工程，学习内容，共同的地方很多。
-
-我给孩子用游戏举例子，开发switch游戏，是计算机科学专业来完成，设计switch游戏机是计算机工程来完成，估计还会涉及到机械工程。
 
 ## 学习方式
 
