@@ -65,7 +65,9 @@ tags:
 
 [官方材料](https://www.ualberta.ca/campus-life/our-campuses/index.html)
 
-阿尔伯塔大学是来自 18 个学院的 44,000 多名学生分布在五个不同的校区——四个在埃德蒙顿，一个在卡姆罗斯（Augustana Campus）
+阿尔伯塔大学本科学生注册人数35628人，留学生4944，13.9%。
+
+分布在五个不同的校区——四个在埃德蒙顿，一个在卡姆罗斯（Augustana Campus）
 
 * NORTH CAMPUS（主校区 北校区，英语教学，埃德蒙顿市中心）
 * Campus Saint-Jean （法语教学，提供本科和研究生课程）
@@ -80,6 +82,19 @@ tags:
 NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 
 工程专业，基本可以理解，就在主校区上课。工程专业第一年基础课程，如果你希望上法语，可以在Campus Saint-Jean上。
+
+# 国际学生录取情况
+
+![招生情况](/img/2024/alberta/e.jpg "招生情况")
+
+工程专业的招生情况，
+
+![工程](/img/2024/alberta/en.jpg "工程专业")
+
+六年毕业率
+
+![six](/img/2024/alberta/six.jpg "6年毕业率")
+
 
 # 工程专业
 
