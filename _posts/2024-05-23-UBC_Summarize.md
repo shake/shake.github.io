@@ -101,7 +101,7 @@ Okanagan Campus 提供的院系：[院系介绍](https://ok.ubc.ca/academics/fac
 
 Okanagan Campus（基隆拿校区）情况，就更加乐观
 
-![o-录取比率](/img/2024/ubc/o-all.jpg "录取比率")
+![o-all-录取比率](/img/2024/ubc/o-all.jpg "录取比率")
 
 加拿大大学宽进严出，毕业情况，要注意的是六年内可以毕业的，百分之80的比例。
 
