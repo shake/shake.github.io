@@ -51,6 +51,8 @@ tags:
 
 填写过程比较简单，下面这个视频申请阿尔伯塔大学工程专业，很详细。[视频申请流程](https://www.youtube.com/watch?v=54RpVHl2lyE)
 
+包括如何[申请阿尔伯塔大学奖学金](https://www.youtube.com/watch?v=gIEoAB64L6Y&t=82s)
+
 如果你对申请有什么疑问，可以网上约招生团队聊聊。
 
 [招生团队预约会议](https://uab.ca/advising)
@@ -270,6 +272,9 @@ NIS过去3年申请阿拉伯塔大学的学生，基本都拿到奖学金。奖�
 可以通过这个[奖学金申请](https://www.ualberta.ca/admissions/international/tuition-and-scholarships/scholarships-and-awards/index.html?) 了解各种针对不同项目的奖学金计划。真的是钱，值得好好研究。
 
 据说阿尔伯塔大学奖学金，是比较容易拿下。过去4年，NIS申请阿尔伯塔大学同学，都拿到的奖学金。
+
+
+[申请阿尔伯塔大学奖学金](https://www.youtube.com/watch?v=gIEoAB64L6Y&t=82s) 中文版本。
 
 # 兼职
 
