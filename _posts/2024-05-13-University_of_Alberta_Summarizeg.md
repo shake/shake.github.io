@@ -49,7 +49,7 @@ tags:
 
 直接通过学校的官方网站进行申请就可以。[申请地址](https://uab.ca/apply)
 
-填写过程比较简单，改天我测试一下申请需要填写的材料。
+填写过程比较简单，下面这个视频申请阿尔伯塔大学工程专业，很详细。[视频申请流程](https://www.youtube.com/watch?v=54RpVHl2lyE)
 
 如果你对申请有什么疑问，可以网上约招生团队聊聊。
 
@@ -85,7 +85,7 @@ NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 
 # 国际学生录取情况
 
-这是2022-2023的数据。
+这是2022-2023的数据。[数据官方提供，来自油管博主](https://www.youtube.com/watch?v=QYyxV297Gwg)
 
 ![招生情况](/img/2024/alberta/e.jpg "招生情况")
 
