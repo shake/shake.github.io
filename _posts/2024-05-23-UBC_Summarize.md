@@ -113,6 +113,8 @@ Okanagan Campus（基隆拿校区）情况，就更加乐观
 
 UBC的工程学院隶属于其应用科学系(Faculty of Applied Science)。
 
+学生数量大概是5000人，三分之一是国际学生。每年招生1千学生。
+
 UBC 工程专业第一年的课程，都是相同的，完成第一年学业后，根据学生的成绩的排名，选择自己的专业方向。Vancouver Campus和 Okanagan Campus 都开设工程专业，具体专业方向有所不同。申请的时候，需要明确校区，入学后，很难校区调整。
 
 主校区的提供14个专业方向，[官方地址，提供每个专业的视频说明](https://www.ubc.ca/our-campuses/vancouver/directories/faculties-schools.html#app_sci)
