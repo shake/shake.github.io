@@ -91,7 +91,7 @@ Okanagan Campus 提供的院系：[院系介绍](https://ok.ubc.ca/academics/fac
 
 # 国际学生录取情况
 
-我就专门关注国际学生的录取情况
+我就专门关注国际学生的录取情况。[数据来源](https://www.youtube.com/watch?v=QYyxV297Gwg)
 
 2022/23年，国际学生申请人数17537，录取是8941，入学是3299.
 
