@@ -28,11 +28,14 @@ tags:
 
 维多利亚大学（University of Victoria，简称UVic）是一所位于加拿大不列颠哥伦比亚省维多利亚市的公立综合性大学，是该省历史第二悠久的公立大学。维多利亚大学成立于1963年，但其前身维多利亚学院可以追溯到1903年。
 
+
 # 申请通道和时间
 
 UVic的大学申请，目前也采用BC省统一的通道:**EducationPlannerBC website**, 在一个入口填写，可以申请多所大学。
 
 [BC省的申请通道](https://www.educationplannerbc.ca/)
+
+如果9到11年级的GPA分数达到3.5，可以进行早申，这样可以更早拿到offer。
 
 
 # 地理位置和校区
