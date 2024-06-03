@@ -40,7 +40,7 @@ UVic的大学申请，目前也采用BC省统一的通道:**EducationPlannerBC w
 
 # 地理位置和校区
 
-位于加拿大不列颠哥伦比亚省首府地区的萨尼奇和橡树湾的一所知名大学，离首府维多利亚市中心东北约6公里，学校有公交车直达市中心，并且交通费，已经在学费里。
+位于加拿大不列颠哥伦比亚省首府地区的萨尼奇和橡树湾的一所知名大学，离首府维多利亚市中心东北约6公里，学校有公交车直达市中心，并且交通费，已经在学费里。UVic 到 UBC 大学的距离约为 114 公里，驾车时间约为 2 小时 48 分钟，你需要经过渡轮才行。
 
 # 国际学生录取情况
 
@@ -96,10 +96,6 @@ UVic计算机工程系，提供6个专业方向,工程专业全部要求CO-OP。
 不同的专业的课程内容，你也是可以在学校官方网站查到。可以了解到电气工程专业，第一年学什么，后面几年学什么内容。
 
 [电气工程](https://www.uvic.ca/calendar/undergrad/#/programs/ryK4am0MV?q=Electrical&&limit=20&skip=0&bc=true&bcCurrent=Electrical%20Engineering%20(Bachelor%20of%20Engineering)&bcItemType=programs)
-
-
-
-
 
 
 ## 学习方式
