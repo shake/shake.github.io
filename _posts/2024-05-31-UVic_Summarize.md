@@ -44,7 +44,7 @@ UVic的大学申请，目前也采用BC省统一的通道:**EducationPlannerBC w
 
 # 工程专业
 
-UVic计算机工程系，提供6个专业方向
+UVic计算机工程系，提供6个专业方向,工程专业全部要求CO-OP。
 
 * Biomedical Engineering
 * Civil Engineering 
@@ -82,11 +82,11 @@ UVic计算机工程系，提供6个专业方向
 
 [官方学费查询](https://www.uvic.ca/undergraduate/finances/tuition-costs/)
 
-![fee](/img/2024/ubc/fee.jpg "收费")
+![fee](/img/2024/uvic/fee.jpg "收费")
 
 [住宿费用](https://www.uvic.ca/residence/future-residents/fees/index.php)
 
-从9月份到第二年4月份，8个月，申请一个单身公寓，9,060加元，约4万8人民币。相当于一个月房租6千人民币。
+从9月份到第二年4月份，8个月，申请一个单身公寓，9,060加元，约4万8人民币。相当于一个月房租6千人民币。这里面包括餐饮费用。
 
 ## 专业课程
 
