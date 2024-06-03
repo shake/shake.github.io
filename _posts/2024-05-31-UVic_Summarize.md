@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      （加拿大）维多利亚大学本科申请总结
+title:      加拿大维多利亚大学本科申请总结
 subtitle:   University of Victoria Undergraduate application Summarize
 date:       2024-05-31
 author:     shake
@@ -13,7 +13,7 @@ tags:
 
 看完两所加拿大的大学，说实话，给学校的学费惊呆。同时也给加拿大的地理环境惊呆了。
 
-![ca](/img/2024/ubc/ca.jpg "地图")
+![ca](/img/2024/uvic/ca.jpg "地图")
 
 [加拿大各省气候介绍](https://www.youtube.com/watch?v=VQdQ_nbg4gE)
 
@@ -21,16 +21,12 @@ tags:
 如果是希望在加拿大当地就业，那么就要选择当地人认同的大学。
 
 
-
-
 [加拿大整体介绍
 ](https://chenshake.com/2023/10/20/the-Introduction-to-Canada/)
 
 [学校官网](https://www.uvic.ca/)
 
-加拿大维多利亚大学（University of Victoria，简称UVic）
-
-维多利亚大学的基础为维多利亚学院，于1903年成立，原由魁北克省的麦吉尔大学所指导，提供该大学文科和理科的一年级和二年级课程。维多利亚学院在1920年委托UBC大学管理，并最终在1963年独立转变为维多利亚大学。
+维多利亚大学（University of Victoria，简称UVic）是一所位于加拿大不列颠哥伦比亚省维多利亚市的公立综合性大学，是该省历史第二悠久的公立大学。维多利亚大学成立于1963年，但其前身维多利亚学院可以追溯到1903年。
 
 # 申请通道和时间
 
