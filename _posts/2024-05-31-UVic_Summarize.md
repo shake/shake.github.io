@@ -28,6 +28,10 @@ tags:
 
 维多利亚大学（University of Victoria，简称UVic）是一所位于加拿大不列颠哥伦比亚省维多利亚市的公立综合性大学，是该省历史第二悠久的公立大学。维多利亚大学成立于1963年，但其前身维多利亚学院可以追溯到1903年。
 
+QS排名：322.
+
+本科生：17402（国际学生2827，本地学生14575）
+
 
 # 申请通道和时间
 
@@ -56,7 +60,14 @@ UVic计算机工程系，提供6个专业方向,工程专业全部要求CO-OP。
 * Mechanical Engineering 
 * Software Engineering 
 
+## 学位
 
+加拿大读书，根据你的课程选择，你可以获得Bachelor of Science (Major and Honors)，就是普通的学士学位和荣誉的学士学位。[What is the difference between an honours degree and a regular degree in Canada?](https://www.quora.com/What-is-the-difference-between-an-honours-degree-and-a-regular-degree-in-Canada)
+
+
+[如何拿到荣誉理学士本科学位](https://www.uvic.ca/socialsciences/economics/undergraduate/honours/index.php)
+
+大家都毕业，还是有区别的。Honors才允许考研究生。
 
 ## 招生要求
 
