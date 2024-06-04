@@ -138,3 +138,5 @@ AP课程4分，才可以进行学分转换。
 [奖学金申请](https://www.uvic.ca/registrar/safa/entrance-scholarships/dept/international.php)
 
 奖学金种类很多，选择自己可以申请的。应该都可以申请到，有时间限制。
+
+[How to apply for an entrance scholarship](https://www.uvic.ca/registrar/safa/entrance-scholarships/apply/index.php)
