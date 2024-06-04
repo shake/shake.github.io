@@ -78,7 +78,7 @@ UVic计算机工程系，提供6个专业方向,工程专业全部要求CO-OP。
 * Mechanical Engineering 
 * Software Engineering 
 
-## 学位
+## Major and Honors
 
 加拿大读书，根据你的课程选择，你可以获得Bachelor of Science (Major and Honors)，就是普通的学士学位和荣誉的学士学位。[What is the difference between an honours degree and a regular degree in Canada?](https://www.quora.com/What-is-the-difference-between-an-honours-degree-and-a-regular-degree-in-Canada)
 
