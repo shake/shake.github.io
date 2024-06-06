@@ -106,6 +106,12 @@ NIS 2024年有一个孩子，拿到了Augustana Campus的CS专业的offer。
 
 建议孩子考虑工程专业，加拿大大学的工程专业，滑铁卢大学是明确要求你必须填写具体的工程专业的方向。其他大学，录取的时候，你只需要填写工程专业就可以具体的学习方向，是大一完成工程专业基础学习后，根据自己的兴趣，去挑选符合自己的工程专业的方向。
 
+Electrical Engineering（电气工程） 和 Electronics Engineering （电子工程）差异
+
+简单理解，电子工程是电气工程的一个分支，很多大学就只提供电气工程专业，其实是包括电子工程在内的课程。
+
+UBC和Alberta大学都是电气工程，没有提供所谓的电子工程专业。搜索看到的电气工程是强电，电子工程是弱电，在专业上这样理解是不对的。
+
 ## 招生要求
 
 针对加拿大的工程专业招生要求，对于国际学生，也是有参考价值。
@@ -144,44 +150,18 @@ CO-OP申请竞争比较激烈，这个就要看入学第一年的成绩来决定
 
 [第二年工程专业学科方向申请](https://www.ualberta.ca/engineering/programs/bachelor-of-science-in-engineering/disciplines.html)
 
-工程专业也分成多个系
+* Chemical Engineering
+* Civil Engineering
+* Computer Engineering
+* Electrical Engineering
+* Engineering Physics
+* Materials Engineering
+* Mechanical Engineering
+* Mining Engineering
+* Petroleum Engineering
 
----
-
-* **Department of Mechanical Engineering**（机械工程系）：
-    * 机械工程
 
 
----
-
-* **Department of Biomedical Engineering**（生物医学工程系
-）：
-    * 生物医学方向
-
----
-
-* **Department of Mechanical Engineering and Department of Electrical and Computer Engineering**（机械工程系 电气与计算机工程系）：
-    * 机电工程
-
----
-
-* **Department of Electrical and Computer Engineering**（电气与计算机工程系）：
-    * 计算机工程
-	* 电气工程
-	* 工程物理
-
----
-
-* **Department of Chemical and Materials Engineering**（化学与材料工程系）：
-    * 化学工程
-    * 材料工程
-
----
-
-* **Department of Civil and Environmental Engineering**（土木与环境工程系）：
-    * 土木工程
-    * 采矿工程
-    * 石油工程
 
 ## 学费
 
