@@ -77,6 +77,6 @@ openai的api url是：https://api.openai.com/v1/chat/completions， 需要指定
 * AI很强的学习能力，遇到自己无法解决的问题，发送链接，马上就读懂内容，更改代码。
 
 
-![学习图片](/assets/img/2024/son/1.jpg "学习")
+![study](/assets/img/2024/son/1.jpg "yes")
 
 
