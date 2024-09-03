@@ -80,3 +80,4 @@ openai的api url是：https://api.openai.com/v1/chat/completions， 需要指定
 ![学习图片](/assets/img/2024/son/cursor.png "Cursor")
 
 
+![这是图片](/assets/img/2024/son/cursor.png "Cursor")
