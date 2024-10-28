@@ -47,6 +47,8 @@ lovejade，基本每篇文章，都需要使用。https://markdown.lovejade.cn/ 
 
 RSS，其实是AI工作流的一个重要来源。inoreader，已经是chrome的插件。看到不错的文章，就开始翻译。
 
+另外一个rss工具：https://rss.app/， 非常不错，就是太贵。所以放弃。
+
 ## pexels.com
 
 这是一个非常值得敬佩的素材网站，所有素材，都是可以免费使用。
@@ -54,4 +56,14 @@ RSS，其实是AI工作流的一个重要来源。inoreader，已经是chrome的
 ## exa.ai
 
 这是一个AI搜索的网站，是工作流的数据重要来源，可以获取到最新的信息。
+
+## replicate.com
+
+这是一个作图的工具的api集合。可以通过这个网站的api，调用各种作图工具的API。Flux，Stable Diffusion 3.5 。
+
+## imgbb.com
+
+图床工具，可以把各种工具生成的图片，上传到上面，可以永久保存。make的工作流的生成的图片存储地方。
+
+
 
