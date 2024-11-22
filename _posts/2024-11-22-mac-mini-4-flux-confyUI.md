@@ -124,14 +124,9 @@ python main.py
 
 ## Flux
 
-在ConfyUI的Flux安装，里面有相关的 [模块下载地址](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
+Flux安装，其实就是把相应的文件，放到指定目录下就可以。
 
-需要留意文件的存放路径，文章都提到。
-
-
-* 模型：flux1-dev-fp8.safetensors，
-* flux_text_encoders：clip_l.safetensors，t5xxl_fp8_e4m3fn.safetensors 两个文件， 目录：ComfyUI/models/clip/ 
-* VAE: ae.safetensors  目录：ComfyUI/models/vae/  
+* 下载 [Flux dev -fp8](https://huggingface.co/Comfy-Org/flux1-dev/blob/main/flux1-dev-fp8.safetensors) 放到 <font color="#ffffff">ComfyUI/models/diffusion_models/ </font>foler
 
 
 
