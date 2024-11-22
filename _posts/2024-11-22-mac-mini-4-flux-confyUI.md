@@ -127,7 +127,7 @@ python main.py
 Flux安装，其实就是把相应的文件，放到指定目录下就可以。
 
 * 下载 [Flux dev -fp8](https://huggingface.co/Comfy-Org/flux1-dev/blob/main/flux1-dev-fp8.safetensors) 放到 <font color="#dd0000">ComfyUI/models/diffusion_models/ </font>foler
-* 下载 [clip_l.safetensors](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main) 和 [t5xxl_fp8_e4m3fn.safetensors](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main),放到 <font color="#ffffff">ComfyUI/models/clip/ </font>foler
+* 下载 [clip_l.safetensors](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main) 和 [t5xxl_fp8_e4m3fn.safetensors](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main),放到 <span style="color: black; font-weight: bold;">ComfyUI/models/clip/ </font> foler；
 * 下载 [VAE](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors) 放到<font color="#ffffff">ComfyUI/models/vae/ </font>foler
 
 
