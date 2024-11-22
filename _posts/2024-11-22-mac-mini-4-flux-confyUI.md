@@ -138,5 +138,11 @@ Flux安装，其实就是把相应的文件，放到指定目录下就可以。
 ![官方图片](/img/2024/art/flux_dev_checkpoint_example.png "picture")
 
 
+尝试下面提示词
+
+```
+8k hi res landscape photograph of a Bavarian castle taken from
+a drone
+```
 
 
