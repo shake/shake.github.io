@@ -131,6 +131,11 @@ Flux安装，其实就是把相应的文件，放到指定目录下就可以。
 * 下载 [VAE](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors) 放到<span style="color: black; font-weight: bold;">ComfyUI/models/vae/ </span> 文件夹下
 
 
+这时候打开 ComfyUI 本地访问地址
+
+把下面照片，保存到本地，上传到ComfyUI上，就可以看到第一条工作流。
+
+![官方图片](/img/2024/art/flux_dev_checkpoint_example.png "picture")
 
 
 
