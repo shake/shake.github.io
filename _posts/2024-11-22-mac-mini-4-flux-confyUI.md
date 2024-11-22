@@ -22,7 +22,6 @@ tags:
 安装homebrew
 
 ```
-
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ```
@@ -46,28 +45,22 @@ brew install git
 ### conda
 
 ```
-
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 sh Miniconda3-latest-MacOSX-arm64.sh
-
 ```
 
 
 创建一个confyUI的环境
 
 ```
-
 conda create -n confyui python=3.12.4
-
 ```
 
 
 进入conda
 
 ```
-
 coda activate confyui
-
 ```
 
 
@@ -75,7 +68,6 @@ coda activate confyui
 ### PyTorch
 
 ```
-
 pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 ```
 
@@ -83,7 +75,6 @@ pip3 install --pre torch torchvision torchaudio --extra-index-url https://downlo
 验证一下安装是否正常
 
 ```
-
 import torch
 if torch.backends.mps.is_available():
     mps_device = torch.device("mps")
@@ -98,18 +89,14 @@ else:
 正常会看到
 
 ```
-
 tensor([1.], device='mps:0')
-
 ```
 
 
 退出
 
 ```
-
 quit()
-
 ```
 
 
@@ -121,22 +108,16 @@ quit()
 
 
 ```
-
 git clone https://github.com/comfyanonymous/ComfyUI.git
-
 cd confyui
-
 pip install -r requirement.txt
-
 ```
 
 
 安装完成后，可以直接运行
 
 ```
-
 python main.py
-
 ```
 
 
