@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mac Min 4 安装ConfyUI Flux
+title:      Mac Min 4 Install ConfyUI Flux
 subtitle:   Mac Min 4 安装ConfyUI Flux
 date:       2024-11-22
 author:     shake
