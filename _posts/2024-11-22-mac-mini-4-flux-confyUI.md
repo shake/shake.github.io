@@ -21,17 +21,20 @@ tags:
 
 安装homebrew
 
-``
+```
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-``
+```
+
 
 安装git
 
-``
+```
 brew install git
 
-``
+```
+
 
 ## confyui
 
@@ -42,36 +45,45 @@ brew install git
 
 ### conda
 
-``
+```
+
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 sh Miniconda3-latest-MacOSX-arm64.sh
 
-``
+```
+
 
 创建一个confyUI的环境
 
-``
+```
+
 conda create -n confyui python=3.12.4
 
-``
+```
+
 
 进入conda
 
-``
+```
+
 coda activate confyui
 
-``
+```
+
 
 
 ### PyTorch
 
-``
+```
+
 pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
-``
+```
+
 
 验证一下安装是否正常
 
-``
+```
+
 import torch
 if torch.backends.mps.is_available():
     mps_device = torch.device("mps")
@@ -80,21 +92,26 @@ if torch.backends.mps.is_available():
 else:
     print ("MPS device not found.")
 
-``
+```
+
 
 正常会看到
 
-``
+```
+
 tensor([1.], device='mps:0')
 
-``
+```
+
 
 退出
 
-``
+```
+
 quit()
 
-``
+```
+
 
 
 
@@ -102,32 +119,33 @@ quit()
 
 安装confyui，非常简单，只需要git下载就可以。目前confyui更新非常快，只能下载master就可以。
 
-``
+
+```
+
 git clone https://github.com/comfyanonymous/ComfyUI.git
 
 cd confyui
 
 pip install -r requirement.txt
 
-``
+```
+
 
 安装完成后，可以直接运行
 
-``
+```
+
 python main.py
 
-``
+```
 
 
-Flux
+
+## Flux
 
 在ConfyUI的Flux安装，里面有相关的 [模块下载地址](https://comfyanonymous.github.io/ComfyUI_examples/flux/)
 
-由于只有16G内存，无法运行dev FP16。 只能验证Dev的FP8，GGUF和NF4，三个版本的运行情况，选一个可以接受速度的来用。这几个版本存放位置有差异。
-
-dev(FP16)：ComfyUI/models/diffusion_models/
-FP8： ComfyUI/models/checkpoints/ 
-Schnell: ComfyUI/models/unet/ 
+需要留意文件的存放路径，文章都提到。
 
 
 * 模型：flux1-dev-fp8.safetensors，
