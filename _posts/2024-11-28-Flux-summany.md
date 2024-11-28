@@ -78,9 +78,10 @@ OverallDetailXL
 工作流加**Lora**，是常态，这个Lora的选择，其实就完全靠经验，多个Lora可以实现串联，不过今天发现：用了Lora，可以大幅减少和降低提示词的难度。
 
 
-![文生图+lora](/img/2024/art/flux/flux3.png "文生图+Lora")
+![文生图+lora](/img/2024/art/flux/Flux3.png "文生图+Lora")
 
 一个很简单的提示词，通过**Trigger Words**，就可以实现非常不错的效果。
+
 
 ```
 An Asian girl, with long black hair and a blue skirt, in the park.：LLL
