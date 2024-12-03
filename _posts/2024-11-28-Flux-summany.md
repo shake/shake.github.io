@@ -141,6 +141,6 @@ An Asian girl, with long black hair and a blue skirt, in the park.：LLL
 
 ## 放大
 
-照片高清，有很多方式。通过**潜空间**来放大，应该是最简单的。原理很简单就是重新在潜空间再运行一次。
+照片高清，有很多方式。通过**潜空间**来放大，应该是最简单的。原理很简单就是重新在潜空间再运行一次。所以会出现2个k 采样器。
 
 ![放大](/img/2024/art/flux/flux8.png "放大")
