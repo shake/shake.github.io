@@ -80,7 +80,7 @@ OpenWRT的homeproxy，是使用sing-box，作为客户端来连接到服务器�
 
 这个配置起来很简单，海外回国，应该简单很多。
 
-### wireguard
+## wireguard
 
 大名鼎鼎的vpn软件，其实完也是第一次玩，装openwrt装上，你就可以很简单的方式，访问家里的网络，访问openwrt的管理界面。加上一个ddns，充分把ipv6用起来。感觉很完美。
 
@@ -89,6 +89,8 @@ OpenWRT的homeproxy，是使用sing-box，作为客户端来连接到服务器�
 如果国内出门，可以通过wireguard连接家里网络，一切就和你在家里上一样的。海外连接，就慢一点。比在手机上装一个sing-box，好像简单很多。
 
 sing-box能很好支持安卓，apple，免费，也是一个很好的备胎。
+
+sing-box的1.11版本，支持wireguard，应该可以简单很多。
 
 ![wrt](/img/2025/jan/wrt.png "wrt")
 
