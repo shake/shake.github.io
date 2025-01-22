@@ -91,3 +91,4 @@ OpenWRT的homeproxy，是使用sing-box，作为客户端来连接到服务器�
 sing-box能很好支持安卓，apple，免费，也是一个很好的备胎。
 
 ![wrt](/img/2025/jan/wrt.png "wrt")
+
