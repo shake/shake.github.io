@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      澳洲留学移民全过程
+title:      澳洲留学移民路径
 subtitle:   Study Abroad and Immigration in Australia
 date:       2025-01-22
 author:     shake
