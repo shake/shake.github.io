@@ -35,7 +35,7 @@ tags:
 
 雇主担保
 
-![186](/img/2025/feb/482186.png "186")
+![186](/img/2025/feb/186.png "186")
 
 下图是一位香港的女生通过护士专业申请到绿卡的流程，[粤语视频](https://www.youtube.com/watch?v=rlCurBKxG4Y)
 
