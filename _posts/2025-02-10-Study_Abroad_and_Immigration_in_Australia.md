@@ -38,6 +38,10 @@ tags:
 
 ![189](/img/2025/feb/189.png "189")
 
+申请流程
+
+![189step](/img/2025/feb/189step.png "189step")
+
 下图是一位香港的女生通过护士专业申请到绿卡的流程，[粤语视频](https://www.youtube.com/watch?v=rlCurBKxG4Y)
 
 ![190](/img/2025/feb/190.png "190")
