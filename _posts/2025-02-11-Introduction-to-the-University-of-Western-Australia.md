@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      西澳大学介绍
+title:      西澳大利亚州大学介绍
 subtitle:   Introduction to the University of Western Australia
 date:       2025-02-11
 author:     shake
@@ -16,22 +16,22 @@ tags:
 
 1.  **西澳大学 (University of Western Australia)**
 
-      * 简介：成立于1911年，是澳大利亚著名的八大名校之一，也是西澳州最古老、最负盛名的大学。在2024年QS世界大学排名中，西澳大学位列第77名。
+      * 简介：成立于1911年，是澳大利亚著名的八大名校之一，也是西澳州最古老、最负盛名的大学。在2024年QS世界大学排名中，西澳大学位列第77名。位于珀斯市（Perth）的南边，靠近天鹅河（Swan River），具体地址是35 Stirling Hwy, Crawley WA 6009。
       * [官方网站](https://www.uwa.edu.au)
 
 2.  **科廷大学 (Curtin University)**
 
-      * 简介：成立于1966年，是西澳大利亚州最大的大学，以其在工程、矿业和科技领域的实力而闻名。在2024年QS世界大学排名中,位列174
+      * 简介：成立于1966年，是西澳大利亚州最大的大学，以其在工程、矿业和科技领域的实力而闻名。在2024年QS世界大学排名中,位列174。主校区位于本特利（Bentley），距离珀斯市中心东南方向约10公里处，具体地址是Kent Street, Bentley WA 6102。
       * [官方网站](https://www.curtin.edu.au/)
 
 3.  **伊迪斯科文大学 (Edith Cowan University)**
 
-      * 简介：成立于1991年，以澳大利亚第一位女议员Edith Cowan命名，提供广泛的学科选择，包括艺术、商业、健康科学和教育等。在2024年QS世界大学排名中,位列516
+      * 简介：成立于1991年，以澳大利亚第一位女议员Edith Cowan命名，提供广泛的学科选择，包括艺术、商业、健康科学和教育等。在2024年QS世界大学排名中,位列516。有多个校区，其中最主要的两个分别位于乔奥尼特（Joondalup）和芒特劳利（Mount Lawley）。乔奥尼特校区位于珀斯北部约25公里处，具体地址是270 Joondalup Drive, Joondalup WA 6027。
       * [官方网站](https://www.ecu.edu.au/)
 
 4.  **莫道克大学 (Murdoch University)**
 
-      * 简介：成立于1973年，以其创新教学方法和研究而闻名，尤其在兽医科学、法律和环境科学领域有优势。在2024年QS世界大学排名中,位列436
+      * 简介：成立于1973年，以其创新教学方法和研究而闻名，尤其在兽医科学、法律和环境科学领域有优势。在2024年QS世界大学排名中,位列436。位于珀斯南部的莫道克地区，距离市中心大约15公里，具体地址是90 South Street, Murdoch WA 6150。
       * [官方网站](https://www.murdoch.edu.au/)
 
 5.  **澳大利亚圣母大学 (University of Notre Dame Australia)**
