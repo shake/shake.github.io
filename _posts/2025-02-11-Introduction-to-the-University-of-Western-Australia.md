@@ -125,5 +125,17 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 4年学费，大概是16万澳币
 
 
+### **莫道克大学 (Murdoch University)**
 
+认证课程列表
 
+![Murdoch](/img/2025/feb/mur-01.png "Murdoch")
+![Murdoch](/img/2025/feb/mur-02.png "Murdoch")
+
+6门认证课程。Bachelor of Education (Secondary Teaching)[官网](https://www.murdoch.edu.au/course/undergraduate/b1368)
+
+学费
+
+![mud-t](/img/2025/feb/mud-t.png "mud-t")
+
+4年学费，大概是14万澳币,非常直接，给出4年的学费。
