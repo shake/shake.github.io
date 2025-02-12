@@ -44,7 +44,12 @@ tags:
 
 下图是一位香港的女生通过护士专业申请到绿卡的流程，[粤语视频](https://www.youtube.com/watch?v=rlCurBKxG4Y)
 
+
 ![190](/img/2025/feb/190.png "190")
+
+另外一个香港女生分享护士申请190的过程，基本一样。[粤语](https://www.youtube.com/watch?v=WucSQ1Fxqvg)
+
+
 
 ## 雇主担保
 

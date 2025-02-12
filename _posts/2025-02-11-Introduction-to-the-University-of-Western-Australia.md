@@ -47,6 +47,35 @@ tags:
 ![map](/img/2025/feb/map.png "map")
 
 
+## 教师专业
+
+其实我是要看一下西澳的大学的中学老师专业的情况。
+
+确定了西澳，那么就可以去教师认证网站：[官网](https://www.aitsl.edu.au/deliver-ite-programs/apl)
+
+搜索条件
+* State：wa
+* Status：accredited
+
+这个时候就可以看到西澳的教师的认证课程。我尝试加上过滤条件
+
+* Stages：secondary
+
+出现问题的原因，其实是输入的数据，格式不一样，你会发现科廷大学是没有数据的。
+
+所以Stages，不能选择，就
+
+* State：wa
+* Institutions：
+* Status：accredited
+
+在Institutions，选择大学，就可以了解到这所大学提供老师认证课程的情况。
+
+### 西澳大学
+
+认证课程列表
+
+![uwa](/img/2025/feb/uwa.png "uwa")
 
 
 
