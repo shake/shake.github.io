@@ -139,3 +139,17 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 ![mud-t](/img/2025/feb/mud-t.png "mud-t")
 
 4年学费，大概是14万澳币,非常直接，给出4年的学费。
+
+
+### **澳大利亚圣母大学 (University of Notre Dame Australia)**
+
+认证课程11门。有两个校区：
+
+中学老师，Bachelor of Secondary Education
+ [官网](https://www.notredame.edu.au/programs/school-of-education/undergraduate/bachelor-of-secondary-education)
+
+学费
+
+![notre-t](/img/2025/feb/notre-t.png "notre-t")
+
+每年学费32,600澳元，通过奖学金减免后是：24,450澳元，4年的费用，大概就是10万澳币。
