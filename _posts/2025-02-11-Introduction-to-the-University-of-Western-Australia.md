@@ -71,17 +71,58 @@ tags:
 
 在Institutions，选择大学，就可以了解到这所大学提供老师认证课程的情况。
 
-### 西澳大学
+### **西澳大学 (University of Western Australia)**
 
 认证课程列表
 
 ![uwa](/img/2025/feb/uwa.png "uwa")
 
+上面有研究生，本科，小学，中学。
+
+我关注的是本科中教。
+
+Bachelor of Science and Master of Teaching (Secondary)
+
+西澳大学提供4年，双学位的科学方向的老师，可以获得研究生学位。[官网](https://www.uwa.edu.au/study/courses/Bachelor-of-Science-and-Master-of-Teaching-Secondary)
+
+关键还是看学费：
+
+![uwa-t](/img/2025/feb/uwa-t.png "uwa-t")
+
+按学分来算学费，一个学分是：933.33，需要完成216个学分，总费用应该是21万澳币。
 
 
+### **科廷大学 (Curtin University)**
+
+认证课程列表
+
+![curtin](/img/2025/feb/curtin.png "curtin")
+
+Bachelor of Education (Secondary Education) [官网](https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-education-secondary-education--b-edsc/)
+
+看看学费
+
+![curtin-t](/img/2025/feb/curtin-t.png "curtin-t")
+
+4年学费，大概是15万澳币
 
 
+### **伊迪斯科文大学 (Edith Cowan University)**
 
+认证课程列表
+
+![Edith](/img/2025/feb/edith-01.png "Edith")
+![Edith](/img/2025/feb/edith-02.png "Edith")
+
+一共有7门认证课程。
+
+Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/courses/bachelor-of-education-secondary)
+
+看看学费
+
+![edith-t](/img/2025/feb/edith-t.png "edith-t")
+
+4年学费，大概是16万澳币
 
 
 
