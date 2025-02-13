@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      西澳大利亚州大学介绍
+title:      西澳大利亚州大学中学教育专业介绍
 subtitle:   Introduction to the University of Western Australia
 date:       2025-02-11
 author:     shake
@@ -49,9 +49,11 @@ tags:
 
 ## 教师专业
 
-其实我是要看一下西澳的大学的中学老师专业的情况。
+其实我是要看一下西澳的大学的中学老师专业的情况。这里面就离不开教师职业评估的网站：AITSL，通过官网，你可以查询到所有认证的教师课程。
 
-确定了西澳，那么就可以去教师认证网站：[官网](https://www.aitsl.edu.au/deliver-ite-programs/apl)
+[官网](https://www.aitsl.edu.au/deliver-ite-programs/apl)
+
+![aitsl](/img/2025/feb/aitsl.png "aitsl")
 
 搜索条件
 * State：wa
