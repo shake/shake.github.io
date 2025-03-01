@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      大模型api价格对比
+title:      大模型API价格对比
 subtitle:   LLM API price comparison
 date:       2025-03-01
 author:     shake
@@ -10,7 +10,7 @@ tags:
     - 技术
 ---
 
-通过api调用大模型已经有一段时间，对于不同模型价格的差异，其实主观感受是：
+通过API调用大模型已经有一段时间，对于不同模型价格的差异，其实主观感受是：
 
 * openAI 4o-mini 使用基本不需要操心成本
 * 国内的厂商的api，使用也是基本不需要操心成本
