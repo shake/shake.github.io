@@ -155,3 +155,15 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 ![notre-t](/img/2025/feb/notre-t.png "notre-t")
 
 每年学费32,600澳元，通过奖学金减免后是：24,450澳元，4年的费用，大概就是10万澳币。
+
+## 生活费用
+
+在西澳留学，最大的费用应该是住宿。对于刚落地的留学生，第一个学期最佳选择是住学校。和国内相反，住校的费用比校外更贵。
+
+ [留学生租房网](https://www.funliving.com/)
+
+ 通过上面网站，可以找到珀斯的几所学生的公寓，基本都是大学提供的公寓，住学校的官网里，你也是可以查询到。
+
+ 关于目前珀斯的吃饭费用，如果是自己在家里做饭吃，一周大概是700元人民币，一天一百的水平，应该是可以的。
+
+[澳洲留学费用估算网站](https://costofliving.studyaustralia.gov.au/)
