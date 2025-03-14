@@ -145,7 +145,7 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 
 ### **澳大利亚圣母大学 (University of Notre Dame Australia)**
 
-认证课程11门。有两个校区：
+认证课程11门。有两个校区：Fremantle; Sydney。Fremantle在珀斯。
 
 中学老师，Bachelor of Secondary Education
  [官网](https://www.notredame.edu.au/programs/school-of-education/undergraduate/bachelor-of-secondary-education)
@@ -164,6 +164,15 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 
  通过上面网站，可以找到珀斯的几所学生的公寓，基本都是大学提供的公寓，住学校的官网里，你也是可以查询到。
 
+租房，大家都是通过[realestate](https://www.realestate.com.au/),应该就可以很好了解到当地的住房价格。
  关于目前珀斯的吃饭费用，如果是自己在家里做饭吃，一周大概是700元人民币，一天一百的水平，应该是可以的。
+
+朋友给的建议
+
+每週價格可以在realestate 網頁/app 找 ， 我通常都在app 找。 把想查的區域打進去 ，可以查整租或只租房，把想要的資料都放進去，就能看到圖片跟租金。 
+還可以在上面安排inspection.
+
+距離可以在Google map 上找  可以顯示開車時長，什麼公交車能到達，而且還能選你在什麼時候出發或到達 
+還有如果是公交車的話，你可以下載”transperth “ app 去更加詳細找到公交車跟火車的資料
 
 [澳洲留学费用估算网站](https://costofliving.studyaustralia.gov.au/)
