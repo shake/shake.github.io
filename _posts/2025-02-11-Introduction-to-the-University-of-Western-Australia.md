@@ -145,6 +145,8 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 
 ### **澳大利亚圣母大学 (University of Notre Dame Australia)**
 
+这是珀斯唯一一所私立大学，在教育和法律方面，澳洲大学排名前三。
+
 认证课程11门。有两个校区：Fremantle; Sydney。Fremantle在珀斯。
 
 中学老师，Bachelor of Secondary Education
@@ -176,3 +178,16 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 還有如果是公交車的話，你可以下載”transperth “ app 去更加詳細找到公交車跟火車的資料
 
 [澳洲留学费用估算网站](https://costofliving.studyaustralia.gov.au/)
+
+## 澳洲本科中教关键点
+
+下面总结一下关键点
+
+** 高中雅思7788，获取到入学门槛
+** 大学一年级，通过初始教师教育识字和算术测试 （LANTITE），考试就是数学和英语的语法，有3次机会，难度不大。
+** 30 weeks的实践课程，每年都会安排，这个高难度的，必须通过。由学校老师打分。
+** 毕业证，每门课程通关，加上实习通关，就可以毕业
+** 拿到毕业证，申请职业评估。这个没难度，需要抓紧。
+
+这样就基本具备澳洲老师的资格，不同的州，对老师会有额外的要求，例如需要参加紧急救援的培训（1天）等。
+
