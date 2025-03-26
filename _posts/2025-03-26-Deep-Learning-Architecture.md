@@ -10,7 +10,7 @@ tags:
     - AI
 ---
 
-尝试用一种新的方式来整理和学习的内容。
+尝试用一种新的方式来整理和学习的内容。使用AI和思维导图来整理相关内容。
 
-![Deep Learning Architectures](/img/2025/mar/deep1.jpg "deepDeep Learning Architectures")
+![Deep Learning Architectures](/img/2025/mar/deep1.png "deepDeep Learning Architectures")
 
