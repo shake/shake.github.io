@@ -19,7 +19,7 @@ tags:
 对于适合高中生的经典英文有机化学教材，以下是一些推荐选择，它们内容清晰、结构合理，且适合初学者或准备深入学习化学的学生：
 
 1. **"Organic Chemistry" by Paula Yurkanis Bruice"**  
-   - 这本书以简洁的语言和丰富的图表解释有机化学概念，非常适合高中生或入门大学生。虽然它是一本大学水平的教材，但其基础部分对有一定化学基础的高中生来说是可理解的。它注重反应机理和实际应用，适合培养化学思维。
+   - 这本书以简洁的语言和丰富的图表解释有机化学概念，非常适合高中生或入门大学生。虽然它是一本大学水平的教材，但其基础部分对有一定化学基础的高中生来说是可理解的。它注重反应机理和实际应用，适合培养化学思维。[Organic Chemistry (7th Edition) 7th Edition](https://www.amazon.com/Organic-Chemistry-Paula-Yurkanis-Bruice/dp/0321803221)
 
 2. **"Chemistry: The Central Science" by Brown, LeMay, Bursten, et al."**  
    - 这是一本综合性化学教材，其中有机化学部分深入浅出，适合高中生作为进阶读物。它涵盖了基础的有机化学知识，如烷烃、烯烃、官能团等，并配有大量练习题，帮助巩固理解。
