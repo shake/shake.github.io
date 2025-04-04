@@ -14,9 +14,9 @@ tags:
 
 发现国外很多垂直资源，国内已经很难再有类似的资源网站。
 
-[巴基西坦的网站](https://chemistry.com.pk/)
-[chemistrydocs](https://chemistrydocs.com/chemistry-books/)
-马上去问一下Grok，看看有什么推荐
+* [巴基西坦的网站](https://chemistry.com.pk/)
+* [chemistrydocs](https://chemistrydocs.com/chemistry-books/)
+
 
 # 中等难度推荐
 
