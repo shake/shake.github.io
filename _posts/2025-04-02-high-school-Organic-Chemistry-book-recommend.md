@@ -12,6 +12,10 @@ tags:
 
 昨晚儿子给我电话，让我帮忙找一些有机化学的教材来自学，教材难度要超过AP化学，当然是英文教材。
 
+发现国外很多垂直资源，国内已经很难再有类似的资源网站。
+
+[巴基西坦的网站](https://chemistry.com.pk/)
+[chemistrydocs](https://chemistrydocs.com/chemistry-books/)
 马上去问一下Grok，看看有什么推荐
 
 # 中等难度推荐
@@ -42,7 +46,7 @@ tags:
 如果你希望深入了解有机化学，以下是一些更进阶的经典英文教材，适合在掌握基础后进一步学习。这些教材内容更全面、深入，特别适合对有机化学有浓厚兴趣或准备参加化学竞赛、大学深造的高中生：
 
 1. **"Organic Chemistry" by Jonathan Clayden, Nick Greeves, and Stuart Warren"**  
-   - 这本书被誉为有机化学的“圣经”之一，内容详尽且充满启发性。它以反应机理为核心，深入探讨了有机化学的逻辑和美感。虽然对高中生来说可能稍显复杂，但如果你有一定基础并愿意挑战，它会带给你深刻的理解。特别推荐其中的合成化学和反应机理部分。
+   - 这本书被誉为有机化学的“圣经”之一，内容详尽且充满启发性。它以反应机理为核心，深入探讨了有机化学的逻辑和美感。虽然对高中生来说可能稍显复杂，但如果你有一定基础并愿意挑战，它会带给你深刻的理解。特别推荐其中的合成化学和反应机理部分。[Organic Chemistry 2nd Edition](https://www.amazon.com/Organic-Chemistry-Jonathan-Clayden/dp/0199270295)
 
 2. **"Organic Chemistry" by T.W. Graham Solomons and Craig B. Fryhle"**  
    - 这本教材以清晰的结构和深入的解释著称，适合想系统学习的高中生。它涵盖了从基础到高级的内容，包括复杂的反应机理、立体化学和光谱分析（IR、NMR 等），对理解分子结构和反应过程非常有帮助。
