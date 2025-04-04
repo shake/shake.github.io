@@ -17,6 +17,13 @@ tags:
 * [巴基西坦的网站](https://chemistry.com.pk/)
 * [chemistrydocs](https://chemistrydocs.com/chemistry-books/)
 
+# 总结和收获
+
+这次才真正体会到资料管理的难度。下载了一堆的pdf电子书，发现日常翻看，查阅很麻烦，书名很类似，查找很费劲。这个其实应该和音频，视频的管理差不多。数量多了，就不能一个一个文件放到硬盘上。
+
+研究了一天Calibre，已经很熟练，满足我对pdf书籍的管理。深刻理解为啥需要原数据，需要封面。
+
+![calibre](/img/2025/april/calibre.png "calibre")
 
 # 中等难度推荐
 
