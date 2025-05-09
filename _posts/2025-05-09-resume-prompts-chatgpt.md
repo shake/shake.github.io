@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ChatGPT Prompts for Resume
+title:      10 ChatGPT Prompts That Helped People Get Hired at Top Companies
 subtitle:   简历提示词
 date:       2025-05-09
 author:     shake
@@ -11,6 +11,8 @@ tags:
 ---
 
 在国外如何学好简历和推广自己，是找到工作的关键，需要做的工作还是很多的。你需要利用chatgpt来认真准备。
+
+## AI写作简历APP
 
 [简历AI写作网站](https://www.tealhq.com/)
 
