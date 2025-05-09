@@ -10,7 +10,13 @@ tags:
     - AI
 ---
 
-| Resume Prompts               |                                                                                                                                                                                                            |
+在国外如何学好简历和推广自己，是找到工作的关键，需要做的工作还是很多的。你需要利用chatgpt来认真准备。
+
+刚好看到一个完整表格内容，这里就记录一下，可以很好借鉴。[简历AI写作网站]（https://www.tealhq.com/tools/resume-builder）
+
+
+
+| Resume                | Prompts                                                                                                                                                                                                           |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Resume Optimization          | Analyze my resume and provide tailored improvements to align it with a \[job title] role at \[company]. Highlight skills, achievements, and code from the job description.                                 |
 | Cover Letter Creation        | Craft a compelling, personalized cover letter for a \[job title] role at \[company]. Include industry-specific keywords to enhance visibility to recruiters and job requirements.                          |
