@@ -194,3 +194,17 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 
 这样就基本具备澳洲老师的资格，不同的州，对老师会有额外的要求，例如需要参加紧急救援的培训（1天）等。
 
+## 中介提供信息
+
+| 大学 | 课程 | 学制 | 入学 | 学费 | 入学要求 | 雅思要求 |
+|------|------|------|------|------|----------|----------|
+| The University of Western Australia<br>西澳大学 | Bachelor of Arts and Master of Teaching (Secondary)<br>文学学士和教学硕士（中学） | 4年 | 2月 | 38900澳元/年 | 美高毕业证+SAT: 最低总分1130分 | 7.5（听说8，读写7） |
+|      | Bachelor of Science and Master of Teaching (Secondary)<br>理学学士和教学硕士（中学） | 4年 | 2月 | 44800澳元/年 | 美高毕业证+SAT: 最低总分1210分 | 7.5（听说8，读写7） |
+| Edith Cowan University<br>埃迪斯科文大学 | Bachelor of Education (Early Childhood Studies)<br>教育学学士（幼儿研究） | 4年 | 2月 | 37700澳元/年 | 美高毕业证+SAT: 最低总分1090分；阅读和写作的最低分数为510分；数学最低分数为500分<br>AP: 至少2门AP科目，成绩达到7分或以上 | 7.5（听说8，读写7） |
+|      | Bachelor of Education (Secondary)<br>教育学学士（中学） | 4年 | 2月/7月 | 40200澳元/年 | 美高毕业证+SAT: 最低总分1090分；阅读和写作的最低分数为510分；数学最低分数为500分<br>AP: 至少2门AP科目，成绩达到7分或以上 | 7.5（听说8，读写7） |
+| Curtin University<br>科廷大学 | Bachelor of Education (Early Childhood Education)<br>教育学学士（幼儿教育） | 4年 | 2月/7月 | 36412澳元/年 | 美高毕业证+SAT: 最低总分1000分；阅读和写作的最低分数为400分；数学最低分数为400分 | 7.5（听说8，读写7） |
+|      | Bachelor of Education (Secondary Education)<br>教育学学士（中学教育） | 4年 | 2月/7月 | 38188澳元/年 | 美高毕业证+SAT: 最低总分1000分；阅读和写作的最低分数为400分；数学最低分数为400分 | 7.5（听说8，读写7） |
+| Murdoch University<br>默多克大学 | Bachelor of Education (Early Childhood and Primary Teaching)<br>教育学学士（幼儿和小学教学） | 4年 | 2月 | 34320澳元/年 | 美高毕业证+SAT: 平均绩点2.5或更高，SAT总分1090分 | 7.5（听说8，读写7） |
+|      | Bachelor of Education (Secondary Teaching)<br>教育学学士（中学教学） | 4年 | 2月 | 34320澳元/年 | 美高毕业证+SAT: 平均绩点2.5或更高，SAT总分1090分 | 7.5（听说8，读写7） |
+| The University of Notre Dame Australia<br>澳大利亚圣母大学 | Bachelor of Education (Early Childhood)<br>教育学学士（幼儿教育） | 4年 | 2月/7月 | 32600澳元/年（25%学费减免） | 美高毕业证+SAT: 平均绩点3.0或更高，SAT总分1140分 | 7.5（听说8，读写7） |
+|      | Bachelor of Secondary Education<br>教育学学士（中学教育） | 4年 | 2月/7月 | 32600澳元/年（25%学费减免） | 美高毕业证+SAT: 平均绩点3.0或更高，SAT总分1140分 | 7.5（听说8，读写7） |
