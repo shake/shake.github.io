@@ -154,9 +154,10 @@ google出品的NotebookLM，其实我以前用过一段时间，缺点不支持�
 
 Terraform Cloud 工作空间支持三种主要工作流程：
 
-版本控制工作流程 (Version Control Workflow): 这是最常见的工作流程，它将工作空间与您的版本控制系统（如 GitHub、GitLab 等）连接起来。当您向关联的仓库推送更改时，Terraform Cloud 会自动触发运行（计划或应用）。这非常适合采用 GitOps 方法。
-CLI 驱动工作流程 (CLI Driven Workflow): 这个工作流程允许您直接通过 Terraform CLI 命令与 Terraform Cloud 进行交互。您可以在本地编写和测试 Terraform 代码，然后使用 CLI 将其推送到 Terraform Cloud 执行。这提供了更大的灵活性，但也需要更多的手动操作。
-API 驱动工作流程 (API Driven Workflow): 这个工作流程通过 Terraform Cloud API 进行交互。这通常用于自动化脚本或与其他系统集成，以编程方式触发和管理 Terraform 运行。
+* 版本控制工作流程 (Version Control Workflow): 这是最常见的工作流程，它将工作空间与您的版本控制系统（如 GitHub、GitLab 等）连接起来。当您向关联的仓库推送更改时，Terraform Cloud 会自动触发运行（计划或应用）。这非常适合采用 GitOps 方法。
+* CLI 驱动工作流程 (CLI Driven Workflow): 这个工作流程允许您直接通过 Terraform CLI 命令与 Terraform Cloud 进行交互。您可以在本地编写和测试 Terraform 代码，然后使用 CLI 将其推送到 Terraform Cloud 执行。这提供了更大的灵活性，但也需要更多的手动操作。
+* API 驱动工作流程 (API Driven Workflow): 这个工作流程通过 Terraform Cloud API 进行交互。这通常用于自动化脚本或与其他系统集成，以编程方式触发和管理 Terraform 运行。
+
 版本控制工作流程通常用于协作和自动化，而 CLI 和 API 工作流程则更适合特定的自动化需求或本地开发测试。
 
 ## 提高团队协作和安全性？
@@ -169,3 +170,10 @@ Terraform Cloud 通过以下方式提高团队协作和安全性：
 * **工作流程自动化:** 版本控制工作流程和自动触发的运行可以标准化部署过程，减少人为错误。
 * **审计日志:** Terraform Cloud 记录所有运行和操作，提供审计追踪，便于跟踪基础设施变化和故障排除。
 * **私有模块注册中心:** 团队可以共享和重用经过审查和测试的内部模块，提高效率和一致性。
+
+
+## 配置敏感信息
+
+在 Terraform Cloud 中配置敏感信息，如 AWS 凭证，可以通过变量或变量集来完成。为了安全起见，建议使用变量集。变量集允许您创建一组可以在多个工作空间中重复使用的全局变量。在创建或编辑变量（无论是在工作空间级别还是变量集级别）时，您可以将其标记为“敏感”（Sensitive）。标记为敏感的变量其值将不会在 UI 中显示，并且会进行加密存储。
+
+当使用变量集时，您在变量集中配置的敏感信息（如 AWS 访问密钥 ID 和 Secret 访问密钥）将自动应用于与该变量集关联的工作空间。这些信息在存储时是加密的，无法直接查看。
