@@ -100,3 +100,24 @@ google出品的NotebookLM，其实我以前用过一段时间，缺点不支持�
 * “Terraform Enterprise 为我们提供了定义不同团队、定义多个工作空间、管理哪些团队允许做什么的权限，并将所有这些与我们的单点登录体验联系起来的能力。”
 * “最后的挑战是如何安全地完成所有这些事情。……我们的部分目标是如何通过策略即代码来自动化这一点。”
 * “这真正着眼于如何在扩大 Terraform 使用规模时以一种控制风险的方式进行，我们不让人们做他们想做的事情，拥有所有权限，他们可以要求一千个虚拟机，但与此同时，我们如何以一种仍然富有生产力的方式进行。”
+
+## 术语表
+
+* **Terraform Cloud:** HashiCorp 提供的一种 SaaS 平台，用于管理和执行 Terraform 工作流，提供协作、状态管理、运行自动化、策略执行等功能。
+* **项目 (Project):** 在 Terraform Cloud 中用于组织相关工作空间和资源的逻辑分组。
+* **工作空间 (Workspace):** Terraform Cloud 中的核心构建块，用于管理一组相关的基础设施资源。它可以连接到版本控制系统，管理变量和状态文件。
+* **版本控制工作流程 (Version Control workflow):** Terraform Cloud 中最常见的工作流程，通过监控连接的版本控制仓库中的代码变化来触发 Terraform 运行。
+* **CLI 驱动工作流程 (CLI driven workflow):** 通过 Terraform CLI 命令直接与 Terraform Cloud 工作空间进行交互和触发运行的工作流程。
+* **API 驱动工作流程 (API driven workflow):** 通过 Terraform Cloud API 进行交互和触发运行的工作流程，常用于与其他自动化系统集成。
+* **Webhook:** 一种在特定事件发生时自动向指定 URL 发送 HTTP 请求的机制。在 Terraform Cloud 中，常用于版本控制系统通知代码变化。
+* **计划 (Plan):** Terraform 运行的第一个阶段，分析基础设施配置，并生成一个执行计划，详细说明将要创建、修改或销毁的资源。
+* **应用 (Apply):** Terraform 运行的第二个阶段，根据执行计划实际创建、修改或销毁基础设施资源。
+* **变量 (Variable):** Terraform 配置中用于定义可变值的方式，可以是 Terraform 变量或环境变量。
+* **变量集 (Variable Set):** 在 Terraform Cloud 中用于定义全局或应用于多个项目/工作空间的变量集合，常用于管理敏感信息或共享配置。
+* **敏感变量 (Sensitive Variable):** 在 Terraform Cloud 中标记为敏感的变量，其值在 UI 或日志中会被隐藏或加密。
+* **模块 (Module):** 一组相关的 Terraform 配置文件的容器，用于封装和复用基础设施配置。
+* **模块注册表 (Module Registry):** 在 Terraform Cloud 中用于存储和管理私有 Terraform 模块的服务。
+* **状态文件 (State file):** Terraform 用来跟踪其管理的基础设施资源实际状态的文件，记录了 Terraform 管理的所有资源的映射关系和属性。
+* **RBAC (Role-Based Access Control):** 基于角色的访问控制，一种安全机制，根据用户分配的角色来限制其对资源的访问权限。
+* **GitOps:** 一种基础设施管理实践，使用 Git 作为基础设施的单一事实来源，并通过自动化流程将 Git 仓库中的期望状态应用到基础设施中。
+* **EKS (Amazon Elastic Kubernetes Service):** 亚马逊提供的托管 Kubernetes 服务。
