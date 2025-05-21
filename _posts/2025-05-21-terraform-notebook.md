@@ -122,7 +122,21 @@ google出品的NotebookLM，其实我以前用过一段时间，缺点不支持�
 * **GitOps:** 一种基础设施管理实践，使用 Git 作为基础设施的单一事实来源，并通过自动化流程将 Git 仓库中的期望状态应用到基础设施中。
 * **EKS (Amazon Elastic Kubernetes Service):** 亚马逊提供的托管 Kubernetes 服务。
 
-## 关键概念理解
+## 关键问题
+
+1. Terraform Cloud 中的项目（Project）是什么概念？
+2. 什么是 Terraform Cloud 中的工作空间（Workspace）？它有哪些类型的工作流程？
+3. 在 Terraform Cloud 中，版本控制工作流程（Version Control workflow）如何触发运行？
+4. 变量集（Variable Set）与工作空间变量（Workspace Variable）有什么区别？
+5. 为什么在使用 Terraform Cloud 模块时需要有标签（tags）？
+6. Terraform Cloud 运行计划（Plan）和应用（Apply）是两个不同的阶段。为什么在实际部署中建议由不同的人员执行这两个阶段？
+7. Terraform Cloud 的输出（Outputs）有什么作用？
+8. Terraform Cloud 的状态文件（State file）存储了什么信息？
+9. GitOps 方法论与 Terraform Cloud 的版本控制工作流程如何结合？
+10. 为什么在 Terraform Cloud 中，通过 Webhook 触发的运行在代码格式化更改时不会导致实际的基础设施变更？
+
+
+## 回答
 
 1. 项目在 Terraform Cloud 中是一个逻辑分组的概念，用于将相关的工作空间和资源组织在一起，方便管理。
 2. 工作空间是 Terraform Cloud 中用来管理一组基础设施资源的构造。它有三种主要工作流程：版本控制、CLI 驱动和 API 驱动。
