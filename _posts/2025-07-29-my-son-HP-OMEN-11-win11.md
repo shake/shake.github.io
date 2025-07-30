@@ -111,6 +111,10 @@ HP官网的型号：OMEN Gaming Laptop 16-am0001TX (BM7T1PA)
 
 看到孩子已经使用Blender，真的希望他好好搞搞视频的工具，这个还是有点门槛的。
 
+https://helpx.adobe.com/cn/download-install/kb/creative-cloud-desktop-app-download.html
+这是creative cloud的下载地址，安装登陆上您的账号，里面的软件可一键下载安装
+
+
 ### 音频软件
 
 孩子这次回来，专门说要下歌来听。win11下用啥听歌呢？而且关键难点是，如何管理那么多的歌曲？
