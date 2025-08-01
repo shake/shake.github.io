@@ -132,3 +132,7 @@ Transform it into a homepage suitable for PhD students to showcase academic achi
 请校对本文档，查找错误，并使用Word进行排版，使其更加完善。
 
 请撰写一份图文并茂的报告，分析过去十年（2015到2025年）北京中考政策的演变。
+
+Convert this PDF into presentation slides suitable for an academic conference. The presentation should be approximately 15 minutes long and must include all key points.
+
+Create a website for a law firm from Better Call Saul, and you need to search for relevant images for building the website, ensuring they exist
