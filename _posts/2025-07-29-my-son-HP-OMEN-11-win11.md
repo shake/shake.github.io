@@ -204,7 +204,7 @@ OOBEBYPASSNRO
 
 记录一下，照做就可以。
 
-1:ADGUARD
-2:Tampermonkey ( 1: youtube 去广告，2:自动跳过youtube 广告)
-3:youtube NonStop
-4: auto Copy
+* ADGUARD
+* Tampermonkey ( 1: youtube 去广告，2:自动跳过youtube 广告)
+* youtube NonStop
+* auto Copy
