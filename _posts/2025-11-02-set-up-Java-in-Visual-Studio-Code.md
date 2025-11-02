@@ -61,7 +61,7 @@ java --version
 
 ```
 
-![java-version](/img/2025/nov/java-version.png "java-version")
+![java-version](/img/2025/nov/version.png "java-version")
 
 
 hello world
