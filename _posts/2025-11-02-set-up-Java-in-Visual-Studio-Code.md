@@ -74,3 +74,15 @@ hello world
     }
 
 ```
+
+## 修改jdk版本
+
+当你运行java代码到时候，可能会出现update sdk提示
+
+![update-jdk](/img/2025/nov/update-jdk.png "update-jdk")
+
+如果你选择后，还想进行修改，可以在java 项目里，进行配置
+
+
+![config-jdk](/img/2025/nov/config-jdk.png "config-jdk")
+
