@@ -63,3 +63,14 @@ java --version
 
 ![java-version](/img/2025/nov/java-version.png "java-version")
 
+
+hello world
+
+```
+    public class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("Hello World!");
+        }
+    }
+
+```
