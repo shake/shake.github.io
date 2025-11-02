@@ -86,3 +86,4 @@ hello world
 
 ![config-jdk](/img/2025/nov/config-jdk.png "config-jdk")
 
+作为学习，选择17，是没任何的问题的。
