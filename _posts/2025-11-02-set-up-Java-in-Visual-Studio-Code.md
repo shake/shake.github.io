@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      AP CSA 学习材料
-subtitle:   AP CSA Study Materials
-date:       2025-09-28
+title:      Vscode 配置java
+subtitle:   set up Java in Visual Studio Code
+date:       2025-11-02
 author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
