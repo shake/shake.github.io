@@ -50,6 +50,15 @@ tags:
 ![map](/img/2025/feb/map.png "map")
 
 
+## 2026年1年学费
+
+* 西澳大学 (University of Western Australia)：$47,300.00
+* 伊迪斯科文大学 (Edith Cowan University)：$40,200 
+* 科廷大学 (Curtin University)：$38,188
+* 莫道克大学 (Murdoch University)：$36,000
+* 澳大利亚圣母大学 (University of Notre Dame Australia)：$33806
+
+
 ## 教师专业
 
 其实我是要看一下西澳的大学的中学老师专业的情况。这里面就离不开教师职业评估的网站：AITSL，通过官网，你可以查询到所有认证的教师课程。
