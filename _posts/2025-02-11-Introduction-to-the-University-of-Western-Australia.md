@@ -50,7 +50,7 @@ tags:
 ![map](/img/2025/feb/map.png "map")
 
 
-## 2026年1年学费
+## 2026年学费
 
 * 西澳大学 (University of Western Australia)：$47,300.00
 * 伊迪斯科文大学 (Edith Cowan University)：$40,200 
