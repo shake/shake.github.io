@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      犹太教历史概览：从创世到复国
-subtitle:   An overview of Jewish history: From creation to the re-establishment of the state of Israel.
+subtitle:   An overview of Jewish history
 date:       2025-12-17
 author:     shake
 header-img: img/post-bg-2015.jpg
