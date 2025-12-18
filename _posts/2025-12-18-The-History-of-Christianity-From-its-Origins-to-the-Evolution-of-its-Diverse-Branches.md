@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      基督教发展历程：从起源到多元分支的演变
-subtitle:   The History of Christianity: From its Origins to the Evolution of its Diverse Branches
+subtitle:   The History of Christianity
 date:       2025-12-18
 author:     shake
 header-img: img/post-bg-2015.jpg
