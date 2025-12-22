@@ -53,10 +53,10 @@ tags:
 ## 2026年学费
 
 * 西澳大学 (University of Western Australia)：$47,300.00
-* 伊迪斯科文大学 (Edith Cowan University)：$40,200 
+* 伊迪斯科文大学 (Edith Cowan University)：$40,200 （提供百分之20学费减免）
 * 科廷大学 (Curtin University)：$38,188
 * 莫道克大学 (Murdoch University)：$36,000
-* 澳大利亚圣母大学 (University of Notre Dame Australia)：$33806
+* 澳大利亚圣母大学 (University of Notre Dame Australia)：$33806 （提供百分之25学费减免，进入学校后，还可以拿到更多奖学金，看成绩。需要注意，如果选择 科学专业，学费增长到4万。可以申请科学专业的生活费用的奖学金）
 
 
 ## 教师专业
@@ -196,7 +196,7 @@ Bachelor of Education (Secondary) [官网](https://www.ecu.edu.au/degrees/course
 下面总结一下关键点
 
 * 高中雅思7788，获取到入学门槛
-* 大学一年级，通过初始教师教育识字和算术测试 （LANTITE），考试就是数学和英语的语法，有3次机会，难度不大。
+* 大学一年级，通过初始教师教育识字和算术测试 （LANTITE），考试就是数学和英语的语法，毕业前通过就可以，难度不大。
 * 30 weeks的实践课程，每年都会安排，这个高难度的，现场给澳洲孩子上学，必须通过。由学校老师打分。
 * 毕业证，每门课程通关，加上实习通关，就可以毕业
 * 拿到毕业证，申请职业评估。这个没难度，需要抓紧。
