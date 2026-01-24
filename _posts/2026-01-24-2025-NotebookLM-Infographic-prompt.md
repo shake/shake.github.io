@@ -164,3 +164,55 @@ create an inforgraphic based on the above information, accompainied by photoreal
 根据以上信息制作一张信息图，并配以逼真的图片，内容适合大众，比例为 9:16。
 
 ```
+
+![poster](/img/2026/jan/poster.png "poster")
+
+
+### 说明书
+
+这个比较复杂，人体说明，电器说明，都可以。
+
+```
+“Create an infographic image of [Garmin 255], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+
+•Key component labels
+
+•Internal cutaway or exploded-view outlines
+
+•Measurements, dimensions, and scale markers
+
+•Material callouts and quantities
+
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+
+•Simple schematic or sectional diagrams where relevant
+
+Place the title Garmin 255 inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+
+•The real object remains clearly visible beneath the annotations
+
+•Annotations feel sketched, technical, and architectural
+
+•Clean composition with balanced negative space
+
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+
+White background, black annotation lines and text only. No colors.
+
+Output:
+
+1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+
+```
+
+![watch](/img/2026/jan/watch.png "watch")
