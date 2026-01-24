@@ -19,6 +19,8 @@ tags:
 * 图片，类似海报
 * Handwritten,手写笔记
 * hand-drawn sketchnote。手绘的图
+* 产品说明书
+  
 
 选择不同的生图提示词，相同的内容就会生成不同风格的图。
 
