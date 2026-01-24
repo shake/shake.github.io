@@ -136,3 +136,12 @@ Create a hand-drawn sketchnote visual summary of these notes, Use apristine whit
 
 ![sketchnote](/img/2026/jan/sketchnote.png "sketchnote")
 
+### 视频总结
+
+```
+Summarise this video: https:/ww.youtube.com/watch?v=5a-9ccPDibU . Be brief and to the point. Audience is Al Enthusiasts。
+```
+
+图片生成，提示词就是上面那段，无需修改，记得启用 **图片**。
+
+![video](/img/2026/jan/video.png "video")
