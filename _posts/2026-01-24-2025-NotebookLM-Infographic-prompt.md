@@ -14,11 +14,13 @@ tags:
 
 孩子预计今天要考雅思。那么我想要给他准备啥，需要大概率用不上。但是确实可以用这个来搞一遍。youtube，找到最热门的雅思博主，粉丝超过100万以上才能考虑。其实就那么4个，只选择2026年最新雅思内容的视频。
 
+## NotebookLM
+
 放进去了13的视频。我没有通过聊天生成单独的文本，作为源，单独生成图片，这个更加精准，也是很有道理。但是google的智商肯定比我们高，他知道我们的需求，不需要那么麻烦。直接提出你的需求就可以。
 
 ![提示词修改](/img/2026/jan/info.png "修改提示词")
 
-## 听力
+### 听力
 
 下面的提示词是老外视频翻出来的。
 
@@ -38,11 +40,11 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 
 ![雅思听力重点](/img/2026/jan/listen.png "雅思听力")
 
-## 口语
+### 口语
 
 ![雅思口语重点](/img/2026/jan/speak.png "雅思口语")
 
-## 写作
+### 写作
 
 做了一个调整，改成详细内容
 
@@ -56,8 +58,47 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 
 ![task1](/img/2026/jan/task1.png "task1")
 
-## 阅读
+### 阅读
 
 我还是选择 **detail** ，看看生成的内容。
 
 ![read](/img/2026/jan/read.png "read")
+
+
+## Gemini 生成Infographic
+
+可以通过Gemini，生成内容，再生成Infographic。需要采用Thinking 模式。
+
+### 内容
+
+在think模式下，提交下面的提示词。
+
+```
+List the most crucial information about [topic] in Educationthat teachers must know. Do not change the title. Be specific and explanatory. Use completesentences that are read smoothly, provide any required definitions and give examples ofilustration(s) that can be used to explain the key concept(s) of each section. Do not create a'Why it matters' section. Limit section titles to the absolute minimum.
+```
+
+可以翻译成中文，方便很多。例如我想生成埃及文明的内容。把topic，改成埃及文明。
+
+```
+列出教师必须了解的关于埃及文明在教育中的教学影响的最关键信息。内容需具体、解释清晰，使用流畅完整的句子，提供必要的定义，并辅以示例或说明，以阐明每个部分的核心概念。各部分内容标题应简洁明了，不另设“重要性”部分。
+```
+
+### 生图
+
+添加工具，**image**
+
+提示词如下,只需要修改一下显示的比例，我习惯，16:9，就不需要修改。
+
+```
+Create an educational infographic on aged, lined, spiral-bound noteboopaper with a [16:9] ratio, based on the above information. The visualaesthetic must use realistic, detailed colored pencil and watercolortextures for illustrations alongside neat, printed architectural-stylehandwriting for text, Design the page with a decorative main title bannat the top, followed by the most fundamental definition and a large,cinematic panoramic illustration spanning the width of the page. Belowthis, organize key concepts into a bulleted list section using stylizedcheckmark icons, and divide the remaining lower half of the page intoa modular grid of distinct, rectangular boxes, where each box containsspecific, fully labeled comparative diagram or classification illustrationwith its own descriptive caption, Use no titles other than the main one.
+```
+
+中文
+
+```
+基于上述内容，创建一张以泛黄、带横线、螺旋装订笔记本纸为背景的教育信息图，比例为[16:9]，视觉风格须采用逼真细腻的彩色铅笔与水彩质感插图，并搭配整洁印刷体般的建筑风格手写字体用于文字，页面顶部设计装饰性主标题横幅，其下紧接最核心的定义及一幅横贯全页宽度的电影感全景插图，再下方以风格化对勾图标引导的项目符号列表呈现关键概念，页面下半部分则划分为模块化网格，由多个独立矩形框组成，每框内含一幅具体且完整标注的对比图或分类图并配以说明性图注，除主标题外不得使用其他任何标题。
+```
+
+看图。在google gemini，提示词中文和英文是没区别。显示内容，中文，英文会有点差异。英文更加丰富。
+
+![gemini](/img/2026/jan/gemini.png "gemini")
