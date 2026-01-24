@@ -102,3 +102,37 @@ Create an educational infographic on aged, lined, spiral-bound noteboopaper with
 看图。在google gemini，提示词中文和英文是没区别。显示内容，中文，英文会有点差异。英文更加丰富。
 
 ![gemini](/img/2026/jan/gemini.png "gemini")
+
+
+### 手写画
+
+Gemini think模式，输入
+
+#### 内容提示词
+
+```
+ #Identify and explain [insert your topic]. Be specific and to the point. Provide relevant examples. Audience is [define the sketchnote's audience]
+
+Identify and explain Anger Management Techniques. Be specific and to the point. Provide
+relevant examples. Audience is 10 year old students.
+
+Identify and explain children and parents to get along well Techniques. Be specific and to the point. Provide relevant examples. Audience is 10 year old students.
+
+```
+中文
+
+```
+讲解并解释孩子和父母如何才能和睦相处的技巧。内容要具体、简洁明了。提供相关的例子。目标受众是10岁的学生。
+```
+
+#### 生图提示词
+
+直接输入下面提示词就可以。
+
+```
+Create a hand-drawn sketchnote visual summary of these notes, Use apristine white paper background (no lines). The art style should be'graphic recording' or 'visual thinking' using black ink fine-liners forclear outlines and text, Use colored markers (specifically teal, orangeand muted red) for simple shading and accents, Center the main titlein a 3D-style rectangular box, Surround the title with radially distributedsimple doodles, business icons, stick figures, and graphs that explainthe concepts, Use arrows to connect ideas, The text should bedistinct, handwritten, all-caps printing, legible and organized like aprofessional brainstorming session. 16:9
+
+```
+
+![sketchnote](/img/2026/jan/sketchnote.png "sketchnote")
+
