@@ -32,4 +32,5 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 ```
 列出[雅思听力考试]中最关键的信息，这些信息是考生必须了解的。请勿更改标题。内容要具体且具有解释性。行文流畅，提供必要的完整句子，包括重新定义和示例或插图，以解释每个部分的关键概念。请勿创建“重要性”部分，并将章节标题限制在绝对必要的范围内。
 ```
+
 ![雅思听力重点](/img/2026/jan/listen.png "雅思听力")
