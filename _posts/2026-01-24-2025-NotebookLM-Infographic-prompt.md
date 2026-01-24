@@ -16,9 +16,9 @@ tags:
 
 大概有2种的infographic，至少目前我看到的
 
-* 图片，类似海报
 * Handwritten,手写笔记
 * hand-drawn sketchnote。手绘的图
+* 海报
 * 产品说明书
   
 
@@ -79,7 +79,9 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 
 可以通过Gemini，生成内容，再生成Infographic。需要采用Thinking 模式。
 
-### 内容
+### Handwritten,手写笔记
+
+#### 内容提示词
 
 在think模式下，提交下面的提示词。
 
@@ -93,7 +95,7 @@ List the most crucial information about [topic] in Educationthat teachers must k
 列出教师必须了解的关于埃及文明在教育中的教学影响的最关键信息。内容需具体、解释清晰，使用流畅完整的句子，提供必要的定义，并辅以示例或说明，以阐明每个部分的核心概念。各部分内容标题应简洁明了，不另设“重要性”部分。
 ```
 
-### 生图
+#### 生图提示词
 
 添加工具，**image**
 
@@ -114,7 +116,7 @@ Create an educational infographic on aged, lined, spiral-bound noteboopaper with
 ![gemini](/img/2026/jan/gemini.png "gemini")
 
 
-### 手写画
+### hand-drawn sketchnote。手绘的图
 
 Gemini think模式，输入
 
@@ -146,7 +148,9 @@ Create a hand-drawn sketchnote visual summary of these notes, Use apristine whit
 
 ![sketchnote](/img/2026/jan/sketchnote.png "sketchnote")
 
-### 视频总结
+### 海报
+
+#### 视频总结提示词
 
 ```
 Summarise this video: https:/ww.youtube.com/watch?v=5a-9ccPDibU . Be brief and to the point. Audience is Al Enthusiasts。
@@ -157,7 +161,7 @@ Summarise this video: https:/ww.youtube.com/watch?v=5a-9ccPDibU . Be brief and t
 ![video](/img/2026/jan/video.png "video")
 
 
-### 海报生图
+#### 海报生图提示词
 
 
 ```
@@ -172,6 +176,7 @@ create an inforgraphic based on the above information, accompainied by photoreal
 
 ### 说明书
 
+#### 生图提示词
 这个比较复杂，人体说明，电器说明，都可以。
 
 ```
