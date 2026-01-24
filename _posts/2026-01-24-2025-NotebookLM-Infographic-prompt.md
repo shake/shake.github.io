@@ -174,7 +174,7 @@ create an inforgraphic based on the above information, accompainied by photoreal
 ![poster](/img/2026/jan/poster.png "poster")
 
 
-### 说明书
+### 产品说明书
 
 #### 生图提示词
 这个比较复杂，人体说明，电器说明，都可以。
