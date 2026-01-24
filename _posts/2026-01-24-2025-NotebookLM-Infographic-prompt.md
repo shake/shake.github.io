@@ -42,3 +42,16 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 
 ![雅思口语重点](/img/2026/jan/speak.png "雅思口语")
 
+## 写作
+
+做了一个调整，改成详细内容
+
+![info](/img/2026/jan/detail.png "info")
+
+雅思的写作分成task1和task2. 选择detail的情况下，一张图无法覆盖全部内容
+
+![task2](/img/2026/jan/task2.png "task2")
+
+由于我的资料里关于task1太少，采用详细模式，无法生成对应的图，改成 **标准** 才行
+
+![task1](/img/2026/jan/task1.png "task1")
