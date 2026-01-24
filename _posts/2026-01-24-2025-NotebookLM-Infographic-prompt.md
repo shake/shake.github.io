@@ -55,3 +55,9 @@ List the most crucial information about [topic] that [audience] mustknow. Do not
 由于我的资料里关于task1太少，采用详细模式，无法生成对应的图，改成 **标准** 才行
 
 ![task1](/img/2026/jan/task1.png "task1")
+
+## 阅读
+
+我还是选择 **detail** ，看看生成的内容。
+
+![read](/img/2026/jan/read.png "read")
