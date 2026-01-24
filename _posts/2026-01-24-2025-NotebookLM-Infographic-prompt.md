@@ -16,6 +16,7 @@ tags:
 
 大概有2种的infographic，至少目前我看到的
 
+* 图片，类似海报
 * Handwritten,手写笔记
 * hand-drawn sketchnote。手绘的图
 
@@ -152,3 +153,14 @@ Summarise this video: https:/ww.youtube.com/watch?v=5a-9ccPDibU . Be brief and t
 图片生成，提示词就是上面那段，无需修改，记得启用 **图片**。
 
 ![video](/img/2026/jan/video.png "video")
+
+
+### 海报生图
+
+
+```
+create an inforgraphic based on the above information, accompainied by photorealistic, appropriate for the general populous,9:16
+
+根据以上信息制作一张信息图，并配以逼真的图片，内容适合大众，比例为 9:16。
+
+```
