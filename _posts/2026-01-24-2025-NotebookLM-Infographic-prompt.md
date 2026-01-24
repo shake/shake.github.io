@@ -16,8 +16,8 @@ tags:
 
 大概有2种的infographic，至少目前我看到的
 
-* 文字+图片
-* hand-drawn sketchnote。类似手绘的图
+* Handwritten,手写笔记
+* hand-drawn sketchnote。手绘的图
 
 选择不同的生图提示词，相同的内容就会生成不同风格的图。
 
