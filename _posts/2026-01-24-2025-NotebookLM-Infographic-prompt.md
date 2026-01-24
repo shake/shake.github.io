@@ -14,7 +14,7 @@ tags:
 
 孩子预计今天要考雅思。那么我想要给他准备啥，需要大概率用不上。但是确实可以用这个来搞一遍。youtube，找到最热门的雅思博主，粉丝超过100万以上才能考虑。其实就那么4个，只选择2026年最新雅思内容的视频。
 
-大概有2种的infographic，至少目前我看到的
+大概有4种的infographic，至少目前我看到的
 
 * Handwritten,手写笔记
 * hand-drawn sketchnote。手绘的图
@@ -139,7 +139,7 @@ Identify and explain children and parents to get along well Techniques. Be speci
 
 #### 生图提示词
 
-直接输入下面提示词就可以。和上面图片生成的提示词，完全一样。
+直接输入下面提示词就可以。
 
 ```
 Create a hand-drawn sketchnote visual summary of these notes, Use apristine white paper background (no lines). The art style should be'graphic recording' or 'visual thinking' using black ink fine-liners forclear outlines and text, Use colored markers (specifically teal, orangeand muted red) for simple shading and accents, Center the main titlein a 3D-style rectangular box, Surround the title with radially distributedsimple doodles, business icons, stick figures, and graphs that explainthe concepts, Use arrows to connect ideas, The text should bedistinct, handwritten, all-caps printing, legible and organized like aprofessional brainstorming session. 16:9
