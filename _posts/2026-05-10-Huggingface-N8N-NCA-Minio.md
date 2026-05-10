@@ -80,7 +80,7 @@ N8N,这样就基本搞定.
 # HF有两个地址，需要区分
 
 # 项目地址
-# 项目访问地址：http://huggingface.cn/spaces/(用户名)/(创建应用空间名字)
+# 项目访问地址：http://huggingface.co/spaces/(用户名)/(创建应用空间名字)
 https://huggingface.co/spaces/chenshake/n8n
 
 # 部署应用的访问地址，
