@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hugging Face Spaces 自动化架构部署手册：n8n + MinIO + NCA Toolkit
+title:      Hugging Face Spaces 容器部署 n8n + MinIO + NCA
 subtitle:   n8n + MinIO + NCA Toolkit
 date:       2026-05-10
 author:     shake
