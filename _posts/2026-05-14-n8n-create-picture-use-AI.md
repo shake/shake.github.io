@@ -86,7 +86,11 @@ true,"""true"" (String)",报错 (如果 API 要求 Boolean)
 填入你的key，都可以工作正常。
 
 
+## 参考
 
+阿里云百炼的模型，curl，是嵌套，倒入直接using JSON
+
+[阿里百炼平台](https://bailian.console.aliyun.com/cn-beijing?spm=a2ty02.46012040.0.0.58d57c29IZQjFp&tab=api#/api/?type=model&url=3002354)
 
 
 
