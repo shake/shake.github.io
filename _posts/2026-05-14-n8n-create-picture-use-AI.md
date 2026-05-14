@@ -21,7 +21,7 @@ N8N的HTTP Request 节点，有一个功能，通过cURL倒入，非常方便，
 
 一个手动出发器，连接一个 HTTP Request 节点，就可以实现。问题就是HTTP Request 节点如何设置
 
-打开Minimax的文档中心，[文档中心](https://platform.minimaxi.com/docs/guides/image-generation)
+打开Minimax的文档中心，[API参考](https://platform.minimaxi.com/docs/api-reference/image-generation-t2i)
 
 对于非程序员，看到这些，肯定头晕，我也是差不多。根本不知道要干啥。
 * API参考
