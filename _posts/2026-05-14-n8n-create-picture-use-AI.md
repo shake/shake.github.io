@@ -15,6 +15,8 @@ N8N的HTTP Request 节点，有一个功能，通过cURL倒入，非常方便，
 * curl倒入，代码没有嵌套，N8N，使用field，如果代码有嵌套，使用JSON，
 * 使用field，有的字段会出现问题。下面解析。
 
+尽量避免使用filed，手工使用JSON
+
 ## Minimax 生图
 
 一个手动出发器，连接一个 HTTP Request 节点，就可以实现。问题就是HTTP Request 节点如何设置
