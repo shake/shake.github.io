@@ -23,12 +23,9 @@ N8N的HTTP Request 节点，有一个功能，通过cURL倒入，非常方便，
 
 打开Minimax的文档中心，[API参考](https://platform.minimaxi.com/docs/api-reference/image-generation-t2i)
 
-对于非程序员，看到这些，肯定头晕，我也是差不多。根本不知道要干啥。
-* API参考
-* 图片
-* 文生图
+文生图
 
-可以看到右边有一个curl 例子，非常实用，直接copy就可以。填入自己的key。
+可以看到右边有一个curl 例子，非常实用，直接copy就可以。填入自己的key。key一定要注意，前面有**Bearer**
 
 
 ```
