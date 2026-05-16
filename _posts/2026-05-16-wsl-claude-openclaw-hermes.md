@@ -265,76 +265,16 @@ backups  cache  downloads
 
 ### 启动Claude code 前
 
-每个模型有差异，阅读官方文档：[Minimax官方文档](https://platform.minimaxi.com/docs/token-plan/claude-code)
+需要对Claude code进行基本的初始化设置
 
-设置模型使用的密钥：配置文件路径： ~/.claude/settings.json
+* 全局的CLAUDE.md 文件
+* 配置使用的模型，~/.claude/settings.json
+* 设置快捷键，提升效率，修改 .bashrc
+* 创建两个项目文件夹：project-writer，devops，不同的工作，不同的文件夹下操作
+* 给两个项目文件夹，创建项目的CLAUDE.md 文件，开发和写作，有区别的。
+* 创建 ./claude/knowledge 目录, 存放相关内容。
 
-```
-{
-  "env": {
-    "ANTHROPIC_BASE_URL": "https://api.minimaxi.com/anthropic",
-    "ANTHROPIC_AUTH_TOKEN": "MINIMAX_API_KEY",
-    "API_TIMEOUT_MS": "3000000",
-    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1,
-    "ANTHROPIC_MODEL": "MiniMax-M2.7",
-    "ANTHROPIC_SMALL_FAST_MODEL": "MiniMax-M2.7",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "MiniMax-M2.7",
-    "ANTHROPIC_DEFAULT_OPUS_MODEL": "MiniMax-M2.7",
-    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "MiniMax-M2.7"
-  }
-}
-```
 
-### 快捷键
-
-修改 .bashrc ,追加下面内容
-
-```
-
-# ============================================================
-# 开发快捷别名
-# ============================================================
-
-# --- Claude ---
-alias cc='CLAUDE_CODE_NO_FLICKER=1 claude'  # Claude Code（防闪烁）
-
-# --- Git ---
-alias gs='git status'      # 状态
-alias ga='git add'         # 添加
-alias gaa='git add --all'  # 添加全部
-alias gc='git commit'      # 提交
-alias gcm='git commit -m'  # 提交带消息
-alias gp='git push'        # 推送
-alias gl='git pull'        # 拉取
-alias gd='git diff'        # 差异
-alias gb='git branch'      # 分支
-alias gco='git checkout'   # 切换
-alias glog='git log --oneline --graph -10'  # 日志
-
-# --- npm/pnpm ---
-alias ni='npm install'     # 安装依赖
-alias nrd='npm run dev'    # 开发
-alias nrb='npm run build'  # 构建
-alias nrt='npm run test'   # 测试
-alias pi='pnpm install'    # pnpm 安装
-alias prd='pnpm run dev'   # pnpm 开发
-
-# --- Python/uv ---
-alias uvr='uv run'         # uv 运行
-alias uvs='uv sync'        # uv 同步依赖
-alias py='python'          # Python
-
-# --- 目录导航 ---
-alias ..='cd ..'
-alias ...='cd ../..'
-alias ll='ls -la'
-alias la='ls -A'
-
-# --- 实用工具 ---
-alias cls='clear'          # 清屏
-alias h='history'          # 历史
-alias ports='lsof -i -P -n | grep LISTEN'  # 查看端口
-```
 
 ### claude 文件夹
 
@@ -348,10 +288,12 @@ alias ports='lsof -i -P -n | grep LISTEN'  # 查看端口
      ├── guides/         ← 方法指南
      ├── setups/         ← 安装配置
      └── standards/      ← 规范标准
+     └── library/        ← 知识文档
+
 
 ```
 
-复制文件
+我已经把文件都准备好，从windows 复制过来就可以。Ubuntu复制windows的文件的玩法，需要熟悉一下。
 
 
 ```
