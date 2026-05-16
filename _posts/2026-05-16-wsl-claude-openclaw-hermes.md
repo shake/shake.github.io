@@ -302,7 +302,7 @@ cp -r ./share/claude/* ./.claude/
 cp ./share/.bashrc ./
 cp -r share/project-writer/ ./
 cp -r share/devops/ ./
-
+source ~/.bashrc
 ```
 
 ### 启动Claude code
@@ -324,8 +324,13 @@ cp -r share/devops/ ./
 #### MCP
 
 ```
- @ ~/.claude/knowledge/setups/mcp-installation.md 安装MCP，
+ @ ~/.claude/knowledge/setups/mcp-installation.md 安装MCP，确保MCP服务运行正常。
  密钥在~/.claude/knowledge/credentials
 ```
 
+### minimax cli
 
+
+```
+ @ ~/.claude/knowledge/setups/minimax-cli-installation.md 安装，验证生图，识别图片功能正常。
+```
