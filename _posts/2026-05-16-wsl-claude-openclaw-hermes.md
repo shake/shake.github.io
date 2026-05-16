@@ -164,15 +164,12 @@ echo "Keep-alive process (tail) started." >> "$LOG_FILE"
 tail -f /dev/null
 EOF
 
-# 赋予可执行权限
-chmod +x ~/wsl-autostart.sh
-
 ```
 
 授权
 
 ```
-chmod +x ~/wsl-autostart.sh
+sudo chmod +x ~/wsl-autostart.sh
 ```
 
 设置 Windows 任务计划程序
@@ -259,7 +256,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 查看目录
 
 ```
-$ ls ~/.claude
+$ ls -la ~/.claude
 backups  cache  downloads
 
 ```
