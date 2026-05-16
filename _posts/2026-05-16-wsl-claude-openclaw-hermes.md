@@ -315,7 +315,7 @@ source ~/.bashrc
  @ ~/.claude/knowledge/setups/statusline-installation.md 安装statusline
 ```
 
-### hooks
+#### hooks
 
 ```
  @ ~/.claude/knowledge/setups/hooks-installation.md 安装 Hooks
@@ -328,7 +328,7 @@ source ~/.bashrc
  密钥在~/.claude/knowledge/credentials
 ```
 
-### minimax cli
+#### minimax cli
 
 
 ```
