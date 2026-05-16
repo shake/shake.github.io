@@ -256,18 +256,18 @@ curl -fsSL https://claude.ai/install.sh | bash
 查看目录
 
 ```
-$ ls -la ~/.claude
+ls -la ~/.claude
 backups  cache  downloads
 
 ```
 
 
 
-### 设置模型
+### 启动Claude code 前
 
 每个模型有差异，阅读官方文档：[Minimax官方文档](https://platform.minimaxi.com/docs/token-plan/claude-code)
 
-配置文件路径： ~/.claude/settings.json
+设置模型使用的密钥：配置文件路径： ~/.claude/settings.json
 
 ```
 {
@@ -336,6 +336,54 @@ alias h='history'          # 历史
 alias ports='lsof -i -P -n | grep LISTEN'  # 查看端口
 ```
 
-### Claude 文件夹配置
+### claude 文件夹
+
+```
+~/.claude/
+ ├── CLAUDE.md           ← 主记忆（目录索引）
+ ├── commands/           ← 自定义命令
+ └── knowledge/          ← 知识库文件夹
+     ├── CLAUDE.md       ← 知识库索引
+     ├── credentials/    ← 凭证（API 密钥）
+     ├── guides/         ← 方法指南
+     ├── setups/         ← 安装配置
+     └── standards/      ← 规范标准
+
+```
+
+复制文件
+
+
+```
+cp -r /mnt/d/share ~/
+cp -r ./share/claude/* ./.claude/
+cp ./share/.bashrc ./
+cp -r share/project-writer/ ./
+cp -r share/devops/ ./
+
+```
+
+### 启动Claude code
+
+进入devops 文件夹，启动claude code，已经设置快捷键：cc
+
+#### Statusline
+
+```
+ @ ~/.claude/knowledge/setups/statusline-installation.md 安装statusline
+```
+
+### hooks
+
+```
+ @ ~/.claude/knowledge/setups/hooks-installation.md 安装 Hooks
+```
+
+#### MCP
+
+```
+ @ ~/.claude/knowledge/setups/mcp-installation.md 安装MCP，
+ 密钥在~/.claude/knowledge/credentials
+```
 
 
