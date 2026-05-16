@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      WSL2 安装 CLaude Code，OpenClaw，Hermes Agent 
+title:      WSL2 安装 Claude Code，OpenClaw，Hermes Agent 
 subtitle:   WSL2 install agent
-date:       2026-05-14
+date:       2026-05-16
 author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
@@ -107,6 +107,8 @@ echo "$USER ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/$USER
 ```
 sudo apt update -y
 sudo apt upgrade -y
+sudo apt install unzip jq -y
+
 ```
 
 
@@ -211,7 +213,7 @@ npm --version
 # 安装bun
 curl -fsSL https://bun.sh/install | bash
 
-source ./.bashrc
+source .bashrc
 bun --version
 ```
 
@@ -219,11 +221,17 @@ bun --version
 
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
+
+ source $HOME/.local/bin/env
+ uv --version
+
 ```
 
 ### brew
 
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 设置环境变量
 
@@ -234,6 +242,11 @@ echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"' >> /home/shak
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
 ```
 
+安装环境需要包
+
+```
+sudo apt-get install build-essential -y
+```
 
 ## Claude Code
 
@@ -242,6 +255,16 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
 ```
 curl -fsSL https://claude.ai/install.sh | bash
 ```
+
+查看目录
+
+```
+$ ls ~/.claude
+backups  cache  downloads
+
+```
+
+
 
 ### 设置模型
 
