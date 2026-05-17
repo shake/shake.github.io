@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      WSL2 安装 Claude Code，OpenClaw，Hermes Agent 
+title:      WSL2 安装 Claude Code OpenClaw Hermes-Agent 
 subtitle:   WSL2 install agent
 date:       2026-05-16
 author:     shake
@@ -107,7 +107,7 @@ echo "$USER ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/$USER
 ```
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install unzip jq -y
+sudo apt install unzip jq tree -y
 
 ```
 
@@ -289,8 +289,11 @@ backups  cache  downloads
      ├── setups/         ← 安装配置
      └── standards/      ← 规范标准
      └── library/        ← 知识文档
-
-
+├──project-writer/
+     ├── CLAUDE.md   
+└──devops/
+     ├── CLAUDE.md   
+     
 ```
 
 我已经把文件都准备好，从windows 复制过来就可以。Ubuntu复制windows的文件的玩法，需要熟悉一下。
@@ -330,7 +333,63 @@ source ~/.bashrc
 
 #### minimax cli
 
+minimax官方推荐cli工具替代MCP。所以按照CLI。通过skill 来调用生图，看图等功能。
 
 ```
  @ ~/.claude/knowledge/setups/minimax-cli-installation.md 安装，验证生图，识别图片功能正常。
+```
+
+### 终端
+
+对于Claude code来说，要体验更好，需要增加一个终端，目前主流的是2个
+
+* vscode
+* Warp
+
+目前我使用Warp，后续打算换成vscode，验证编程的功能，更加方便。windows vscode，可以很方便直接连接到WSL环境的Claude code。
+
+
+## OpenClaw
+
+有了上面的准备，安装OpenClaw就很简单了。
+
+* 手工安装，基本一条命令就完成，启动配置过程。输入相关内容就可以
+* 全自动：利用claude code，给他一份MD文档，让他帮你安装。
+* 半自动：手工执行安装脚本。配置工作交给Claude code。
+
+配置交给Claude code的好处就是有什么错误，Claude code，自己解决。
+
+### 安装
+
+```
+sudo curl -fsSL https://openclaw.ai/install.sh | bash -s -- --no-onboard
+```
+
+这样安装完成后，不会直接进入配置界面
+
+### CC 有记忆
+
+后续的操作，都改成Claude code进行，这个会写入CLAUDE.md 文件，这样后续配置和排错，更加方便。
+
+```
+请你记下来：
+* openclaw 目录是~/.openclaw ，
+* OpenClaw github仓库：https://github.com/openclaw/openclaw
+* 官方文档：https://docs.openclaw.ai/
+```
+
+### 整体情况
+
+```
+我想理解 OpenClaw 的三个核心概念在实际项目中的体现。请帮我做以下事情： 
+
+ - 检查 ~/.openclaw/ 目录是否存在，如果存在，列出目录结构（只列两层）
+
+ - 如果有 workspace 目录，找到 SOUL.md 文件并显示内容——这就是 Agent 的"身份层"
+
+ - 查看 memory/ 目录下有多少日志文件——这代表 Agent 的"记忆层"运行了多久
+
+ - 检查配置文件中有哪些 Channel 被配置了——这代表 Agent 能从哪些平台被联系到
+
+ - 用一句话总结：这个 Agent 的 Gateway 是否在运行、Memory 是否有积累、Channel 是否已接通
 ```
