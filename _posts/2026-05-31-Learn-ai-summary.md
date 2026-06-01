@@ -22,6 +22,7 @@ tags:
 * Antigravity 2.0
 * OpenDesign
 
+期待未来3个月，上面这些工具，我能玩的很熟手。
 
 ## N8N
 
