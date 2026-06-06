@@ -2,7 +2,7 @@
 layout:     post
 title:      2026雅思备考综合研究报告
 subtitle:   Summary of 2026 IELTS
-date:       2026-05-16
+date:       2026-06-06
 author:     shake
 header-img: img/post-bg-2015.jpg
 catalog: true
