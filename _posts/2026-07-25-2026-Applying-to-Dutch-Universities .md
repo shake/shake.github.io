@@ -172,7 +172,13 @@ tags:
 
 荷兰大学的“缓冲垫”优势：
 
-比如像埃因霍温理工（TU/e）的本科项目叫 BSc Chemical Engineering and Chemistry，屯特大学（UT）叫 BSc Chemical Science and Engineering。荷兰很多大学大一、大二的底座课程是重合的。
+比如
+
+* 埃因霍温理工（TU/e）的本科项目叫 BSc Chemical Engineering and Chemistry，
+* 屯特大学（UT）叫 BSc Chemical Science and Engineering。
+* 格罗宁根大学（UG）BSc Chemical Engineering
+
+荷兰很多大学大一、大二的底座课程是重合的。
 孩子完全可以先选一个融合型的本科项目，大一亲自体验了“做实验”和“推热力学公式”的区别后，在大三或申请硕士（MSc）时，再决定最终走向纯科研（Chemistry）还是走向工程（Chemical Engineering）！
 
 💡 总结：一句话帮孩子做测试
