@@ -16,7 +16,7 @@ tags:
 
 荷兰就13所研究型大学，所谓的U类大学。
 
-研究型大学（Research University / WO），本科学制标准时间是 3 年。顺读硕士（BSc → MSc）本校读硕士，是免掉考试的。
+研究型大学（Research University / WO），本科学制标准时间是 3 年。顺读硕士（BSc → MSc）本校读硕士，2年，是免掉考试的。
 
 
 ## 推荐大学
@@ -31,7 +31,7 @@ tags:
 
 单年学费： €18,600 / 年（以 2026-2027 最新学年公布标准为准，折合人民币约 14.5 万元 / 年）。
 
-## 格罗宁根大学 (University of Groningen - UG)  
+### 格罗宁根大学 (University of Groningen - UG)  
 
 项目名： BSc Chemical Engineering  
 
@@ -39,13 +39,14 @@ tags:
 
 单年学费： €19,800 / 年（折合人民币约 15.4 万元/年）。
 
-## 屯特大学 (University of Twente - UT)
+### 屯特大学 (University of Twente - UT)
 
 项目名： BSc Chemical Science and Engineering  
 
 特点： 采用特色“Project-based”模块化教学（TOM 模式），强调动手与工程实践。
 
 单年学费： €16,400 / 年
+
 
 
 ## 招生
