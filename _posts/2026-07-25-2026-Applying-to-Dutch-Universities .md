@@ -63,6 +63,9 @@ tags:
 单年学费： €16,400 / 年
 每年10万生活费差不多，靠近德国边境，物价便宜。
 
+[官网学费查询](https://www.utwente.nl/en/education/bachelor/apply/tuition-fees/)
+
+化学，属于理工科，higher tuition fee。
 
 
 ## 招生
