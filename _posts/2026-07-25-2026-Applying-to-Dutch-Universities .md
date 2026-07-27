@@ -37,7 +37,7 @@ tags:
 ![ap要求](/img/2026/july/03.png "ap要求")
 
 
-### 格罗宁根大学 (University of Groningen - UG)  
+### 屯特大学 (University of Twente - UT) 
 
 [美制要求](https://www.utwente.nl/en/education/bachelor/apply/diplomas/AP-CollegeBoard/#admission-requirements-per-bachelor-s-programme)
 
