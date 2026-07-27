@@ -30,6 +30,27 @@ tags:
 
 基本就是入学的要求。无须SAT成绩。AP成绩，超过3分就可以。这样的要求都达不到，确实是不要去读了。
 
+### 格罗宁根大学 (University of Groningen - UG) 
+
+[美制要求]（https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/bachelor/bachelor-entry-requirements/bachelorlinkscountry/usa）
+
+![ap要求](/img/2026/july/03.png "ap要求")
+
+
+### 格罗宁根大学 (University of Groningen - UG)  
+
+[美制要求](https://www.utwente.nl/en/education/bachelor/apply/diplomas/AP-CollegeBoard/#admission-requirements-per-bachelor-s-programme)
+
+![ap要求](/img/2026/july/04.png "ap要求")
+
+### 埃因霍温理工大学 (TU/e - Eindhoven University of Technology)
+
+
+[ap要求](https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/eligibility)
+
+![ap要求](/img/2026/july/05.png "ap要求")
+
+
 ## 学术规划
 
 ![规划](/img/2026/july/02.png "规划")
