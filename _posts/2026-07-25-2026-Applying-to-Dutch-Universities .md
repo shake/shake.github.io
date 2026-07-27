@@ -32,7 +32,7 @@ tags:
 
 ### 格罗宁根大学 (University of Groningen - UG) 
 
-[美制要求]（https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/bachelor/bachelor-entry-requirements/bachelorlinkscountry/usa）
+[美制要求](https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/bachelor/bachelor-entry-requirements/bachelorlinkscountry/usa)
 
 ![ap要求](/img/2026/july/03.png "ap要求")
 
