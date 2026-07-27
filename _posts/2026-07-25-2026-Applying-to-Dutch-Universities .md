@@ -61,6 +61,8 @@ tags:
 
 ### 埃因霍温理工大学 (TU/e - Eindhoven University of Technology)
 
+QS:152
+
 项目名： BSc Chemical Engineering and Chemistry
 
 特点： 位于荷兰高科技产业中心（飞利浦、ASML 所在地），产学研结合极强。
@@ -69,6 +71,8 @@ tags:
 
 ### 格罗宁根大学 (University of Groningen - UG)  
 
+QS:157
+
 项目名： BSc Chemical Engineering  
 
 特点： 理学与工程兼备，化学/化学工程系拥有诺贝尔奖得主（如 Ben Feringa），学术底蕴极深。  
@@ -76,6 +80,8 @@ tags:
 单年学费： €19,800 / 年（折合人民币约 15.4 万元/年）。
 
 ### 屯特大学 (University of Twente - UT)
+
+QS:223
 
 项目名： BSc Chemical Science and Engineering  
 
