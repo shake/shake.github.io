@@ -67,6 +67,35 @@ tags:
 
 ## 芬兰
 
-芬兰是有化学相关的本科课程，并且就业方向非常明确。不过就是一个难点，芬兰语。
+芬兰是有化学相关的本科课程，并且就业方向非常明确。不过就是一个难点，要求SAT 1450左右的分数。
 
-如果从拿芬兰绿卡角度，可以通过瑞典语来解决绿卡问题。但是工作角度，芬兰语，太难了。很难挑战。
+### 赫尔辛基大学（University of Helsinki）
+
+专业：Bachelor of Science in Science（理学学士）  Chemistry Track（化学方向） 
+
+本科课程与培养模式：
+
+* 大一基础：夯实高等微积分、线性代数、基础编程与理科跨学科导论。
+* 大二至大三核心：全面进入四大经典基础化学——无机化学、有机合成化学、物理化学与量子化学、现代分析化学与仪器表征，并配有极高比重的实验室操作训练。
+* 前沿选修分支：可深度涉猎放射化学（Radiochemistry，全欧顶尖）、聚合物化学、计算化学与分子建模、大气化学。
+* 无缝直升硕士（免二次考研）：完成 3 年 180 ECTS 本科后，可直接升入对应的 2 年制英文理学硕士项目：
+  * Master’s Programme in Chemistry and Molecular Sciences（化学与分子科学）  
+  * Master’s Programme in Materials Research（材料研究）  
+  * Master’s Programme in Theoretical and Computational Methods（理论与计算方法）  
+
+
+
+### 阿尔托大学（Aalto University）
+
+专业：Bachelor's Programme in Science and Technology   Chemical Engineering
+
+与纯化学的区别与联系：
+
+课程虽归在工程大类下，但大一和大二包含了极扎实的有机化学、物理化学、生物化学与界面化学基础。
+
+如果未来感兴趣的方向是软物质化学、生物基功能高分子、电池电化学或分子纳米材料，阿尔托的微观材料化学实验室实力极强。
+
+硕士阶段可直升 
+* Master's Programme in Chemical, 
+* Biochemical and Materials Engineering，
+* 内设纯化学色彩浓厚的 Chemistry and Materials Science 分支。
