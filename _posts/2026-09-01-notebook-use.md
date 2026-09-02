@@ -33,7 +33,7 @@ NotebookLM，改名Notebook，很多功能其实发生很大变化。这是googl
 
 其实很多办法，让图片的文字可以识别，就是代价的问题。目前已经有免费的方案，效果还是非常不错的。
 
-![notebook ppt 实现编辑](https://deckedit.com/)
+[notebook ppt 实现编辑](https://deckedit.com/)
 
 识别完成，就基本正常，我个人感觉效果非常酷。
 
@@ -41,15 +41,15 @@ NotebookLM，改名Notebook，很多功能其实发生很大变化。这是googl
 
 现在已经可以很方便制定模版。github有开源项目，把模版放到ppt的提示词里，就可以实现更换模版
 
-![notebook ppt styles](https://notebooklm-prompt-styles.vercel.app/styles)
+[notebook ppt styles](https://notebooklm-prompt-styles.vercel.app/styles)
 
 另外一个可以参考
 
-![github notebook styles 项目](https://github.com/serenakeyitan/awesome-notebookLM-prompts)
+[github notebook styles 项目](https://github.com/serenakeyitan/awesome-notebookLM-prompts)
 
 定制自己的模版，不是梦。
 
-![分享视频](https://youtu.be/oA1yGnRMMTI?si=5Q9txnVPD9Mtb5Du)
+[分享视频](https://youtu.be/oA1yGnRMMTI?si=5Q9txnVPD9Mtb5Du)
 
 ### 直接生成可以编辑pptx
 
