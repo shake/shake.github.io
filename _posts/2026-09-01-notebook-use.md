@@ -69,3 +69,7 @@ NotebookLM，改名Notebook，很多功能其实发生很大变化。这是googl
 这是Notebook一战成名的作品，现在已经内置的10种模版，你可以选择。可以做提示词里，指定信息图的内容。
 
 ![notebook](/img/2026/sep/03.png "notebook")
+
+提示词写上：介绍书上重点介绍的3个案例。
+
+![notebook](/img/2026/sep/04.png "notebook")
